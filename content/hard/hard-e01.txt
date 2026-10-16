@@ -1,0 +1,274 @@
+Q: Un conductor de 67 años tiene permiso C. ¿Cada cuánto debe renovarlo?
+A: Cada 5 años
+B: Cada 3 años
+C: Cada 10 años
+OK: B
+WHY: Los permisos profesionales (C, D…) tienen vigencia de 5 años hasta los 65 y de 3 años a partir de esa edad.
+TRAP: 5 años es la vigencia del permiso B a partir de los 65.
+MEMO: Ordinarios 10→5; profesionales 5→3.
+SEC: 2.4
+REF: RD 818/2009
+---
+Q: Un conductor de 40 años tiene permiso B y permiso D. ¿Qué vigencia tiene su permiso D?
+A: 10 años, como el B
+B: 5 años
+C: 3 años
+OK: B
+WHY: El permiso D es profesional: 5 años para menores de 65.
+TRAP: Tener también el B no extiende la vigencia del profesional.
+MEMO: Lo profesional se revisa más a menudo.
+SEC: 2.4
+REF: RD 818/2009
+---
+Q: ¿Con qué permiso o licencia se conduce un vehículo para personas con movilidad reducida, como mínimo a los 14 años?
+A: Licencia LCM
+B: Licencia AM
+C: Licencia LVA
+OK: A
+WHY: La LCM (14 años) habilita para vehículos de personas con movilidad reducida. AM (15) es para ciclomotores y LVA (16) para vehículos agrícolas.
+TRAP: Tres licencias con edades consecutivas: 14, 15 y 16.
+MEMO: LCM 14 · AM 15 · LVA 16.
+SEC: 2.3
+REF: RD 818/2009
+---
+Q: Un motorista de 19 años quiere conducir una motocicleta de 40 kW. ¿Puede?
+A: Sí, con el permiso A2
+B: No: el A2 llega a 35 kW y el permiso A exige 20 años
+C: Sí, con el A1 si tiene más de 2 años de antigüedad
+OK: B
+WHY: El A2 permite hasta 35 kW; por encima se necesita el A, que exige 20 años.
+TRAP: El A1 solo llega a 11 kW.
+MEMO: A1: 125 cc/11 kW · A2: 35 kW · A: sin límite (20 años).
+SEC: 2.3
+REF: RD 818/2009
+---
+Q: Un conductor con permiso B quiere arrastrar un remolque de 2.800 kg de MMA. ¿Qué necesita?
+A: Nada más que el permiso B
+B: El permiso B+E
+C: El permiso C1+E
+OK: B
+WHY: El B+E autoriza el conjunto B + remolque de MMA igual o inferior a 3.500 kg.
+TRAP: El C1+E es para remolques tras un vehículo C1, no tras un turismo.
+MEMO: Turismo + remolque pesado (hasta 3.500 kg) = B+E.
+SEC: 2.3
+REF: RD 818/2009
+---
+Q: ¿Qué masa máxima puede tener el CONJUNTO autorizado por el permiso C1+E?
+A: 7.500 kg
+B: 12.000 kg
+C: Sin límite
+OK: B
+WHY: El C1+E autoriza un C1 con remolque de más de 750 kg, siempre que el conjunto no supere 12.000 kg.
+TRAP: 7.500 kg es el límite superior del propio C1.
+MEMO: C1 hasta 7.500 · conjunto C1+E hasta 12.000.
+SEC: 2.3
+REF: RD 818/2009
+---
+Q: ¿Cuál de estos vehículos NO puede conducirse con el permiso B?
+A: Un cuatriciclo
+B: Una furgoneta de 3.400 kg de MMA y 8 plazas además del conductor
+C: Un minibús de 12 plazas además del conductor
+OK: C
+WHY: El B autoriza hasta 3.500 kg de MMA y 8 plazas además del conductor; un minibús de 12 plazas necesita D1.
+TRAP: La masa cumple el límite, pero las plazas lo superan.
+MEMO: B = 3.500 kg y 8+1.
+SEC: 2.3
+REF: RD 818/2009
+---
+Q: Un autobús de 15 plazas además del conductor y 7,5 m de longitud. ¿Qué permiso mínimo exige?
+A: B
+B: D1
+C: D
+OK: B
+WHY: El D1 autoriza autobuses de hasta 16 plazas más el conductor y longitud no superior a 8 m.
+TRAP: El D es para autobuses mayores; el D1 cubre los pequeños.
+MEMO: D1 = hasta 16+1 y 8 metros.
+SEC: 2.3
+REF: RD 818/2009
+---
+Q: ¿Cuál es la edad mínima general del permiso D sin CAP?
+A: 21 años
+B: 23 años
+C: 24 años
+OK: C
+WHY: El permiso D exige con carácter general 24 años; con CAP puede bajar a 21-23 según la modalidad.
+TRAP: 21 años es la edad general de C, C+E, D1 y D1+E.
+MEMO: D = el más exigente: 24.
+SEC: 2.3
+REF: RD 818/2009
+---
+Q: Un conductor experimentado tiene 3 puntos tras varias infracciones. ¿Puede recuperar puntos con un curso de sensibilización?
+A: Sí, hasta 4 puntos, si no lo ha hecho en los últimos 2 años
+B: No, el curso solo sirve cuando el saldo es 0
+C: Sí, recupera todos los puntos perdidos
+OK: A
+WHY: El curso de sensibilización recupera hasta 4 puntos, exige saldo entre 1 y 11 y solo puede hacerse una vez cada dos años.
+TRAP: Con 0 puntos el permiso ya ha perdido su vigencia y se necesita otro curso.
+MEMO: Curso: 4 puntos · 1 a 11 de saldo · cada 2 años.
+SEC: 2.5
+REF: RDL 6/2015
+---
+Q: Un conductor perdió puntos por una infracción MUY GRAVE. ¿Cuánto tiempo sin infracciones necesita para recuperar automáticamente su saldo inicial?
+A: 2 años
+B: 3 años
+C: 5 años
+OK: B
+WHY: La recuperación automática es tras 2 años sin infracciones, pero 3 años si la pérdida vino de una infracción muy grave.
+TRAP: El plazo general de 2 años no se aplica a las muy graves.
+MEMO: 2 años en general; 3 si fue muy grave.
+SEC: 2.5
+REF: RDL 6/2015
+---
+Q: Un conductor con 0 puntos, ¿qué debe hacer para volver a conducir?
+A: Un curso de sensibilización de 4 puntos
+B: Esperar el plazo mínimo, hacer un curso de recuperación más largo, prueba psicotécnica y examen teórico
+C: Solo pagar una tasa y renovar el permiso
+OK: B
+WHY: Agotar el saldo supone la pérdida de vigencia; para recuperarlo hay curso de mayor duración, psicotécnico y examen teórico, y se vuelve con saldo reducido.
+TRAP: El curso de sensibilización exige tener entre 1 y 11 puntos.
+MEMO: Con 0: esperar + curso largo + psicotécnico + teórico.
+SEC: 2.5
+REF: RDL 6/2015
+---
+Q: Un conductor recupera su permiso tras perderlo por puntos. ¿Con qué saldo vuelve?
+A: 15 puntos
+B: 12 puntos
+C: Un saldo reducido, inferior al inicial de experimentado
+OK: C
+WHY: El permiso recuperado tras pérdida total vuelve con un saldo reducido, no con el máximo ni con el de experimentado.
+TRAP: Pensar que se "reinicia" con 12 puntos.
+MEMO: Quien lo pierde vuelve "a prueba", con menos puntos.
+SEC: 2.5
+REF: RDL 6/2015
+---
+Q: Un conductor es parado y no lleva el permiso encima, aunque está en vigor. Al día siguiente lo presenta. ¿Qué ocurre?
+A: Comete infracción muy grave por conducir sin permiso
+B: La infracción es leve y se subsana acreditando que estaba en vigor
+C: No hay infracción en ningún caso
+OK: B
+WHY: No llevar el permiso estando en vigor es infracción leve, subsanable acreditando su vigencia.
+TRAP: Confundir "no llevarlo" con "no tenerlo".
+MEMO: No llevarlo = leve. No tenerlo = muy grave.
+SEC: 2.6
+REF: RDL 6/2015
+---
+Q: Un titular presta su coche a un amigo que nunca obtuvo el permiso. No hay accidente. ¿Responde el titular?
+A: No, solo responde el conductor
+B: Sí, el titular puede ser infractor por permitir conducir a quien no está habilitado
+C: Solo si hubo un accidente con daños
+OK: B
+WHY: Permitir la conducción a quien carece de permiso es infracción del titular, haya o no accidente.
+TRAP: La responsabilidad no depende del resultado.
+MEMO: Quien presta el coche también responde.
+SEC: 2.6
+REF: RDL 6/2015
+---
+Q: Un conductor con permiso B conduce un camión de 10.000 kg. ¿Cómo se califica?
+A: Leve, porque tiene un permiso en vigor
+B: Grave o muy grave, por carecer de la clase de permiso exigida
+C: No es infracción si es un trayecto corto
+OK: B
+WHY: Conducir sin la clase de permiso exigida para ese vehículo es infracción grave o muy grave según el caso.
+TRAP: Tener "un" permiso no habilita para cualquier vehículo.
+MEMO: Cada vehículo exige SU clase de permiso.
+SEC: 2.6
+REF: RDL 6/2015
+---
+Q: ¿Quién puede ACORTAR la vigencia de un permiso de conducir?
+A: El agente que realiza un control
+B: El médico del centro de reconocimiento, si aprecia una deficiencia susceptible de agravarse
+C: La compañía aseguradora
+OK: B
+WHY: El facultativo del centro de reconocimiento puede reducir la vigencia si detecta una enfermedad o deficiencia que pueda agravarse.
+TRAP: El agente puede inmovilizar o denunciar, pero no fija la vigencia.
+MEMO: Vigencia corta = decisión médica.
+SEC: 2.4
+REF: RD 818/2009
+---
+Q: ¿Qué afirmación sobre el CAP es correcta?
+A: Sustituye al permiso C para conducir camiones
+B: Es una autorización distinta y complementaria que permite reducir la edad mínima en C y D
+C: Solo se exige para el permiso B+E
+OK: B
+WHY: El CAP acredita la competencia profesional; es complementario del permiso y permite acceder antes a C, C+E, D1, D1+E, D y D+E.
+TRAP: Nunca sustituye al permiso.
+MEMO: Permiso = puedo conducir. CAP = puedo trabajar transportando.
+SEC: 2.3
+REF: RD 818/2009
+---
+Q: Según la LSV, ¿quién de estas personas es "conductor"?
+A: El copiloto que da indicaciones
+B: Quien guía un rebaño de ovejas por la vía
+C: El titular del vehículo aparcado
+OK: B
+WHY: La LSV incluye como conductor a quien cuida de animales, individualmente o en manada, en la vía.
+TRAP: Ser titular no convierte en conductor.
+MEMO: Conductor = maneja un vehículo O cuida animales en la vía.
+SEC: 2.1
+REF: RDL 6/2015
+---
+Q: En una intersección sin señalizar, dos conductores dudan sobre quién tiene prioridad. ¿Cuál es la regla general de prudencia?
+A: Pasa el vehículo más grande
+B: Ceder el paso
+C: Acelerar y pasar primero
+OK: B
+WHY: Como norma general de prudencia, en caso de duda sobre la prioridad se debe ceder el paso.
+TRAP: No existe una prioridad por tamaño del vehículo.
+MEMO: Ante la duda, cede.
+SEC: 2.2
+REF: RGC
+---
+Q: ¿Qué norma regula la clasificación de permisos, sus edades y su vigencia?
+A: RD 1428/2003 (RGC)
+B: RD 818/2009 (Reglamento General de Conductores)
+C: RD 2822/1998 (RGV)
+OK: B
+WHY: El Reglamento General de Conductores (RD 818/2009) regula permisos, licencias, edades y vigencia.
+TRAP: El RGC regula la circulación; el RGV, los vehículos.
+MEMO: Conductores → Reglamento de Conductores (818/2009).
+SEC: 2.3
+REF: RD 818/2009
+---
+Q: Tras la reforma de 2026, ¿qué cambio afecta al adelantamiento?
+A: El margen de 20 km/h pasa a 30 km/h
+B: Se elimina el margen de 20 km/h: el límite se respeta durante toda la maniobra
+C: Solo se permite adelantar en autopista
+OK: B
+WHY: La reforma elimina el margen histórico de 20 km/h; durante el adelantamiento rige el límite de la vía.
+TRAP: El margen no se amplía: desaparece.
+MEMO: Adelantar ya no da "bonus" de velocidad.
+SEC: 2.5
+REF: RD 518/2026
+---
+Q: ¿Cuántos puntos se pierden, según las cifras orientativas del tema, por usar un detector de radar?
+A: 6
+B: 3
+C: 4 a 6
+OK: B
+WHY: El uso de inhibidores o detectores de radar supone 3 puntos (además de la multa).
+TRAP: 6 puntos es la sanción por sujetar el móvil; 4 a 6, la del alcohol o drogas.
+MEMO: Radar 3 · Móvil 6 · Alcohol 4-6.
+SEC: 2.5
+REF: RDL 6/2015 (verificar cifras en DGT)
+---
+Q: ¿Se considera novel a quien obtiene el permiso B tras tener el A2 hace solo un año?
+A: No, porque ya tenía otro permiso
+B: Sí, si tiene menos de 3 años de antigüedad en el permiso correspondiente
+C: Solo si tiene menos de 21 años
+OK: B
+WHY: Es novel quien tiene menos de 3 años de antigüedad desde la obtención del permiso (o del A2/B tras superar A1/A2).
+TRAP: La condición de novel no depende de la edad sino de la antigüedad.
+MEMO: Novel = menos de 3 años de permiso.
+SEC: 2.5
+REF: RDL 6/2015
+---
+Q: Un permiso caducó hace 2 meses por no renovarlo, sin otras circunstancias. ¿Cómo se recupera?
+A: Repitiendo el examen teórico y práctico
+B: Con reconocimiento médico y trámite administrativo de renovación
+C: Con curso de recuperación de puntos
+OK: B
+WHY: La caducidad por el simple transcurso del plazo se resuelve con reconocimiento médico y trámite administrativo.
+TRAP: El curso y el examen son para la pérdida por puntos.
+MEMO: Caducado ≠ perdido.
+SEC: 2.4
+REF: RD 818/2009

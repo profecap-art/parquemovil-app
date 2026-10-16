@@ -1,0 +1,100 @@
+1|2.1|C|El motor de combustión interna transforma en movimiento:|La energía de una batería de tracción|La energía cinética del vehículo al frenar|La energía liberada al quemar el combustible dentro de los cilindros|Combustión dentro de los cilindros
+2|2.1|A|Un motor eléctrico, a diferencia de uno de combustión:|No tiene combustión ni escape y ofrece par motor desde velocidad muy baja|Necesita siempre una caja manual de varias marchas|Solo se instala en vehículos pesados|Sin combustión ni escape; par inmediato
+3|2.1|B|El circuito de refrigeración del motor tiene como función:|Aumentar la potencia máxima|Disipar el calor generado por la combustión|Reducir el consumo de neumáticos|Disipar el calor
+4|2.1|C|El líquido refrigerante del motor debe usarse:|Solo en invierno|Únicamente agua sin aditivos|Siempre con aditivos anticorrosión, nunca agua sola|Nunca agua sola
+5|2.1|B|Un humo de escape blanco-azulado suele indicar:|Una combustión perfecta|Quema de aceite en la combustión|Exceso de presión en los neumáticos|Blanco-azulado = aceite
+6|2.1|A|Un humo de escape negro suele indicar:|Combustión deficiente, por exceso de combustible o filtros obstruidos|Nivel óptimo de refrigerante|Desgaste de amortiguadores|Negro = mala combustión
+7|2.2|C|El embrague, en un cambio manual, permite:|Aumentar la velocidad máxima|Sustituir a los frenos|Desacoplar temporalmente el motor de la transmisión para cambiar de marcha|Desacopla motor y transmisión
+8|2.2|A|La función de la caja de cambios es:|Adaptar la relación entre las revoluciones del motor y la velocidad de las ruedas|Almacenar energía eléctrica|Disipar el calor|Adapta revoluciones y velocidad
+9|2.2|B|El diferencial permite que las ruedas de un mismo eje:|Giren siempre a la misma velocidad|Giren a velocidades distintas al tomar una curva|Dejen de girar en curva|Velocidades distintas en curva
+10|2.2|A|¿Por qué es necesario el diferencial al tomar una curva?|Porque la rueda exterior recorre más distancia que la interior en el mismo tiempo|Porque las ruedas deben bloquearse|Porque el motor se para en curva|Exterior recorre más
+11|2.2|B|La tracción de un vehículo puede ser:|Solo delantera|Delantera, trasera, total o integral, según las ruedas motrices|Solo trasera|Delantera, trasera o total
+12|2.3|C|Los frenos de disco, frente a los de tambor, ofrecen generalmente:|Peor disipación del calor|Ninguna diferencia|Mejor disipación del calor y comportamiento más constante|Disco disipa mejor
+13|2.3|A|El circuito hidráulico de frenos transmite:|La presión del pedal mediante el líquido de frenos|La energía de la batería|El movimiento del volante|Presión del pedal por líquido
+14|2.3|B|El líquido de frenos debe revisarse periódicamente porque:|Se evapora cada mes|Absorbe humedad con el tiempo, reduciendo su eficacia|Cambia de color al fallar|Es higroscópico
+15|2.3|B|El freno de estacionamiento está pensado principalmente para:|Frenar en marcha igual que el de servicio|Mantener el vehículo inmovilizado una vez detenido|Sustituir al ABS|Mantener inmovilizado
+16|2.3|A|El ABS tiene como función:|Evitar el bloqueo de las ruedas durante una frenada|Aumentar la potencia|Sustituir al freno de mano|Evita bloqueo
+17|2.3|C|En vehículos pesados, el sistema de frenos habitual es:|Exclusivamente hidráulico|Solo el freno motor|De aire comprimido (neumático)|Pesados: neumáticos
+18|2.3|B|Una presión insuficiente en el circuito de frenos neumáticos de un pesado puede provocar:|Más potencia|Retrasos en la frenada o incluso la inmovilización del vehículo|Menos consumo|Retraso o inmovilización
+19|2.4|B|La dirección asistida:|Impide dirigir el vehículo si se avería|Reduce el esfuerzo del conductor mediante asistencia hidráulica o eléctrica|Solo existe en eléctricos|Reduce el esfuerzo
+20|2.4|A|Una geometría de dirección incorrecta puede provocar:|Desgaste irregular de neumáticos y desviación de la trayectoria|Menos consumo|Más dibujo en los neumáticos|Desgaste y desviación
+21|2.4|C|Un juego excesivo en el volante o que el vehículo "tire" hacia un lado pueden indicar problemas de:|Solo el sistema eléctrico|Solo el motor|Dirección, suspensión o neumáticos|Dirección, suspensión o neumáticos
+22|2.5|B|La suspensión tiene como función principal:|Generar electricidad|Absorber las irregularidades del firme y mantener el contacto del neumático con la calzada|Aumentar la potencia|Absorber y mantener contacto
+23|2.5|C|Los amortiguadores se encargan de:|Frenar en emergencia|Generar energía de arranque|Disipar la energía absorbida por muelles o ballestas, evitando rebotes|Evitar rebotes
+24|2.5|B|Unos amortiguadores desgastados provocan, entre otros efectos:|Menos distancia de frenado|Más distancia de frenado y menor estabilidad en curva|Ningún efecto|Más frenada, menos estabilidad
+25|4|C|¿Por qué unos amortiguadores desgastados aumentan la distancia de frenado real?|Porque reducen la presión hidráulica|Porque descargan la batería|Porque la rueda pierde contacto con la calzada en fracciones de segundo|La rueda "salta" y no frena
+26|2.6|A|La batería tiene como función principal:|Almacenar la energía para el arranque y el funcionamiento con el motor parado|Disipar el calor|Sustituir a los amortiguadores|Almacena energía de arranque
+27|2.6|B|El alternador genera electricidad:|Con el motor apagado|Con el motor en marcha, recargando la batería|Solo en eléctricos|Motor en marcha
+28|2.6|C|Los testigos del cuadro de instrumentos forman parte de:|Los frenos|La suspensión|Los sistemas electrónicos de control y diagnóstico a bordo|Diagnóstico a bordo
+29|2.7|A|La profundidad mínima legal del dibujo de los neumáticos es:|1,6 mm|5 mm|0 mm|1,6 mm
+30|2.7|B|Circular con neumáticos por debajo de la profundidad mínima legal:|No tiene consecuencias si se va despacio|Es sancionable y puede dar lugar a la inmovilización en casos graves|Solo afecta a la garantía|Sancionable, posible inmovilización
+31|2.7|A|Por seguridad, se recomienda sustituir los neumáticos de verano en torno a:|3 mm|0,5 mm|10 mm|Verano: ~3 mm
+32|2.7|C|Para los neumáticos de invierno, la recomendación de sustitución es en torno a:|1 mm|8 mm|4 mm|Invierno: ~4 mm
+33|2.7|B|Una presión de inflado insuficiente provoca, entre otros efectos:|Menos consumo|Más consumo, desgaste irregular y riesgo de reventón por sobrecalentamiento|Más adherencia siempre|Baja presión: consumo, desgaste, reventón
+34|2.7|B|Una presión de inflado excesiva provoca:|Más superficie de contacto|Menos superficie de contacto, concentrada en la zona central|Elimina el aquaplaning|Exceso: contacto solo en el centro
+35|2.7|A|El desgaste irregular de un neumático puede deberse a:|Presión incorrecta, geometría de dirección o desequilibrado de ruedas|El color del vehículo|La batería|Presión, geometría o equilibrado
+36|2.7|C|La relación entre la profundidad del dibujo y el aquaplaning es:|Ninguna|A menos dibujo, menos riesgo|A menos dibujo, más riesgo de aquaplaning|Menos dibujo, más aquaplaning
+37|2.1|A|El aceite del motor cumple, entre otras, la función de:|Reducir el rozamiento entre piezas móviles y ayudar a disipar calor|Sustituir al refrigerante|Aumentar la presión de los neumáticos|Lubricar y refrigerar
+38|2.1|A|Los sistemas híbridos:|Combinan un motor de combustión con uno o varios eléctricos|No tienen motor de combustión|Solo existen en camiones|Combustión + eléctrico
+39|2.3|C|Sobre el freno de estacionamiento es correcto que:|Sustituye al de servicio en marcha|Solo funciona con el motor en marcha|No sustituye al freno de servicio; su función es distinta|Función distinta
+40|2.3|A|Los frenos de tambor, con zapatas, son habituales en:|Los ejes traseros de vehículos ligeros|Solo eléctricos|Los ejes delanteros de todos los pesados|Ejes traseros ligeros
+41|2.4|A|La geometría de la dirección se refiere a:|El alineamiento correcto de las ruedas|La potencia del motor auxiliar|La presión hidráulica|Alineamiento
+42|2.2|C|Un vehículo con tracción total o integral se caracteriza porque:|Solo traccionan las traseras|Ninguna rueda es motriz|Todas las ruedas (o varias combinaciones de ejes) reciben fuerza motriz|Todas motrices
+43|2.3|A|El sistema EBD tiene como función:|Repartir la fuerza de frenado entre los ejes|Generar electricidad|Aumentar el dibujo|Reparto de frenada
+44|4|C|Una presión de neumáticos incorrecta afecta al consumo porque:|Desconecta el alternador|Cambia el color del humo|Altera la resistencia a la rodadura|Resistencia a la rodadura
+45|2.6|B|El alumbrado del vehículo forma parte de:|La suspensión|El sistema eléctrico|La transmisión|Sistema eléctrico
+46|2.1|C|El nivel y estado del aceite del motor:|No requiere revisión|Solo importa en eléctricos|Debe revisarse periódicamente|Revisión periódica
+47|2.4|A|Una tendencia a desviarse de la trayectoria recta, con desgaste irregular, sugiere revisar principalmente:|La geometría de la dirección|El limpiaparabrisas|La batería|Geometría
+48|2.2|B|¿Cuál es una función de la transmisión y no del motor?|Quemar el combustible|Trasladar la fuerza del motor hasta las ruedas|Refrigerar el bloque|Llevar la fuerza a las ruedas
+49|2.7|C|El único punto de contacto real del vehículo con la calzada es:|La carrocería|El chasis|Los neumáticos|Los neumáticos
+50|2.7|B|Respecto a la sanción exacta por llevar neumáticos por debajo del mínimo, lo riguroso es:|Asumir siempre la misma cifra|Verificar el importe vigente en la fecha del examen|Ignorarlo|Verificar el importe vigente
+51|2.1|A|El ciclo de cuatro tiempos de un motor de combustión sigue el orden:|Admisión, compresión, combustión (explosión), escape|Compresión, admisión, escape, combustión|Escape, combustión, admisión, compresión|Admisión-compresión-explosión-escape
+52|2.1|B|La culata tiene como función principal:|Transformar el movimiento lineal en rotativo|Cerrar los cilindros por arriba y alojar las válvulas|Almacenar el aceite|Cierra cilindros, aloja válvulas
+53|2.1|C|La biela y el cigüeñal tienen como función conjunta:|Filtrar el aire|Sincronizar válvulas|Transformar el movimiento lineal (alternativo) del pistón en rotativo|Lineal a rotativo
+54|2.1|A|El volante de inercia sirve principalmente para:|Uniformizar el giro del motor y facilitar el arranque|Enfriar el refrigerante|Inflar neumáticos|Uniformiza el giro
+55|2.1|B|La correa (o cadena) de distribución tiene como función:|Transmitir la fuerza a las ruedas|Sincronizar el árbol de levas (válvulas) con el cigüeñal|Enfriar el aceite|Sincroniza levas y cigüeñal
+56|2.1|C|En un motor "interferente", la rotura de la correa de distribución en marcha puede provocar:|Ningún daño|Más presión en los neumáticos|El choque entre válvulas y pistones, con daños graves|Choque válvulas-pistones
+57|2.1|A|El turbocompresor aumenta el rendimiento porque:|Introduce más masa de aire en los cilindros aprovechando la energía de los gases de escape|Sustituye a la refrigeración|Elimina la caja de cambios|Más aire con energía del escape
+58|2.1|B|El intercooler tiene como función:|Filtrar el combustible|Enfriar el aire comprimido por el turbo antes de entrar en los cilindros, aumentando su densidad|Calentar el aire para arrancar|Enfría el aire del turbo
+59|2.2|C|En un cambio automático con convertidor de par, este cumple una función equivalente a:|La del diferencial|La de los amortiguadores|La del embrague, transmitiendo la fuerza mediante un fluido|Embrague hidráulico
+60|2.2|A|Una caja de variación continua (CVT):|No tiene marchas fijas y varía la relación de forma continua|Tiene más marchas fijas que una manual|Solo va con tracción integral|Sin marchas fijas
+61|2.1|B|El termostato del circuito de refrigeración:|Genera electricidad|Regula el paso del refrigerante según la temperatura del motor|Reparte la frenada|Regula el paso del refrigerante
+62|2.1|C|El vaso de expansión sirve para:|Almacenar combustible|Filtrar el aire|Absorber la dilatación del refrigerante al calentarse|Absorbe la dilatación
+63|2.1|A|La bomba de agua tiene como función:|Hacer circular el refrigerante por el motor y el radiador|Elevar la presión de frenos|Regular las marchas|Hace circular el refrigerante
+64|2.1|B|El electroventilador del radiador refuerza la refrigeración especialmente:|A altas velocidades en autopista|A bajas velocidades o con el vehículo detenido|Nunca|Parado o despacio
+65|2.1|C|El filtro de aire del motor tiene como función:|Retener impurezas del aceite|Retener humedad del líquido de frenos|Retener las partículas del aire antes de entrar en los cilindros|Filtra el aire de admisión
+66|2.1|A|El filtro de aceite tiene como función:|Retener las impurezas que arrastra el aceite|Filtrar el aire del habitáculo|Enfriar el refrigerante|Limpia el aceite
+67|2.1|B|El filtro de combustible tiene como función:|Filtrar el aire|Retener impurezas del combustible antes del sistema de inyección|Retener el hollín|Limpia el combustible
+68|2.6|C|El filtro de habitáculo (o de polen):|Filtra el aceite|Filtra el combustible|Filtra el aire que entra al interior por la ventilación o climatización|Aire del habitáculo
+69|2.6|A|El motor de arranque, a diferencia del alternador:|Usa la energía de la batería para hacer girar el motor térmico y ponerlo en marcha|Genera electricidad con el motor en marcha|Almacena energía|Usa la batería para arrancar
+70|2.1|B|Las bujías de precalentamiento, en motores diésel, sirven para:|Sustituir a las de encendido|Facilitar el arranque en frío calentando la cámara de combustión|Reducir la presión de neumáticos|Arranque en frío diésel
+71|2.1|C|El sistema de inyección "common rail" en diésel:|Elimina el filtro de combustible|Sustituye al freno neumático|Inyecta el combustible a alta presión gestionado electrónicamente para cada cilindro|Inyección a alta presión
+72|2.6|A|El ESP (control de estabilidad):|Actúa sobre el freno de cada rueda (y, si hace falta, sobre el motor) para corregir derrapes|Aumenta la potencia en curva|Sustituye a los frenos|Frena ruedas individualmente
+73|2.6|B|El ASR o control de tracción sirve para:|Evitar el bloqueo al frenar|Evitar el patinaje de las ruedas motrices al acelerar con poca adherencia|Repartir la frenada|Evita patinar al acelerar
+74|2.1|C|El catalizador tiene como función:|Aumentar la potencia|Filtrar el aire del habitáculo|Reducir, mediante reacciones químicas, contaminantes de los gases de escape|Reduce contaminantes
+75|2.1|A|El filtro de partículas diésel (FAP o DPF) sirve para:|Retener el hollín de los gases de escape diésel|Reducir el NOx con urea|Sincronizar válvulas|Retiene hollín
+76|2.1|B|La regeneración del FAP/DPF consiste en:|Sustituir el filtro cada vez|Quemar a alta temperatura el hollín acumulado|Vaciarlo a mano|Quema del hollín
+77|2.1|C|El sistema SCR, que usa AdBlue, sirve para:|Aumentar el dibujo|Sustituir al refrigerante|Reducir los óxidos de nitrógeno (NOx) mediante una solución de urea inyectada en el escape|AdBlue reduce NOx
+78|2.4|A|La convergencia se produce cuando:|Las ruedas delanteras se enfocan hacia dentro (más juntas por delante)|Se enfocan hacia fuera|Las traseras giran al revés|Convergencia: hacia dentro
+79|2.4|B|La divergencia es:|Sinónimo de convergencia|Lo contrario: ruedas delanteras más separadas por delante que por detrás|Un defecto de amortiguadores|Divergencia: hacia fuera
+80|2.4|C|El ángulo de caída o "camber" se refiere a:|La presión recomendada|La profundidad del dibujo|La inclinación de la rueda respecto a la vertical, vista de frente|Inclinación vista de frente
+81|2.7|A|Una vibración en el volante que aparece solo a partir de cierta velocidad suele indicar:|Ruedas desequilibradas que requieren equilibrado|Problema de refrigeración|Avería del encendido|Desequilibrado
+82|2.5|B|La suspensión neumática de autobuses y pesados sustituye muelles o ballestas por:|Amortiguadores hidráulicos|Cojines o fuelles de aire comprimido de presión regulable|Frenos de disco|Fuelles de aire
+83|2.4|C|Entre los mecanismos de dirección más habituales están la de cremallera y la de:|Frenos de tambor|Diferencial autoblocante|Bola circulante|Cremallera y bola circulante
+84|2.3|A|Purgar el circuito hidráulico de frenos consiste en:|Eliminar el aire que se haya introducido, que reduce la eficacia|Cambiar los discos|Inflar neumáticos|Sacar el aire
+85|2.3|B|Los discos de freno ventilados, frente a los macizos:|Disipan peor|Tienen conductos internos que mejoran la disipación en uso intenso|Solo para el freno de mano|Mejor disipación
+86|2.3|C|Respecto a los líquidos de frenos (DOT):|Todos tienen el mismo punto de ebullición|El DOT 3 es superior al 5.1|El DOT 4 y el DOT 5.1 tienen, en general, mayor punto de ebullición que el DOT 3|DOT 4/5.1 > DOT 3
+87|2.3|A|Una buena práctica en el circuito de frenos es:|No mezclar líquidos de bases químicas incompatibles sin comprobar su compatibilidad|Mezclar cualquier líquido|Usar agua destilada|No mezclar incompatibles
+88|2.3|B|El "fading" en los frenos consiste en:|Un aumento de eficacia con el uso|Una pérdida de eficacia por sobrecalentamiento de discos/tambores y líquido, típica de descensos largos|Un fallo eléctrico|Pérdida por calor
+89|2.3|C|En vehículos pesados, el freno motor o el retardador se emplean sobre todo para:|Sustituir al freno de servicio siempre|Aumentar la potencia|Controlar la velocidad en descensos largos, reduciendo el desgaste y el calentamiento del freno de servicio|Descensos prolongados
+90|2.7|A|Los neumáticos direccionales:|Tienen un dibujo para un único sentido de rotación, indicado con una flecha|Se montan en cualquier sentido|Solo en eléctricos|Un solo sentido de giro
+91|2.7|B|El marcado del flanco de un neumático incluye, además de sus dimensiones:|Solo el fabricante|Índices de carga y de velocidad, que marcan los límites máximos de uso|La fecha de la ITV|Índices de carga y velocidad
+92|2.2|C|Las juntas homocinéticas de los semiejes en tracción delantera:|Filtran el aceite|Regulan la temperatura|Transmiten el giro a las ruedas permitiendo el movimiento de suspensión y dirección|Transmiten giro con movimiento
+93|2.2|A|Los rodamientos de rueda sirven para:|Permitir el giro libre de la rueda sobre su eje reduciendo el rozamiento|Aumentar la potencia|Filtrar el aire|Giro libre
+94|2.8|B|Una carrocería autoportante, frente a un chasis independiente:|Es la única posible en pesados|Integra la estructura resistente en la propia carrocería, sin bastidor independiente|Elimina la suspensión|Estructura integrada
+95|2.8|C|El silenciador del sistema de escape sirve para:|Aumentar el ruido|Filtrar el aire|Reducir el nivel de ruido del motor|Reduce ruido
+96|2.4|A|El radio de giro de un vehículo está relacionado con:|El ángulo máximo de las ruedas orientables y la distancia entre ejes|La presión de frenos|El refrigerante|Ángulo de giro y batalla
+97|2.6|B|Respecto al mantenimiento de la batería, es importante:|Sustituirla cada vez que se revisa el aceite|Mantener limpios y bien apretados los bornes, evitando la corrosión|Cambiar su polaridad|Bornes limpios y apretados
+98|2.6|C|El regulador de tensión asociado al alternador sirve para:|Aumentar la potencia|Reducir la presión de neumáticos|Evitar que la tensión generada sobrecargue la batería y el sistema eléctrico|Evita sobrecarga
+99|2.6|A|Las luces y el claxon funcionan bien, pero el motor de arranque no gira al girar la llave. Apunta más bien a:|Un fallo del motor de arranque o de su circuito|Batería totalmente descargada|Filtro de aire|Fallo del arranque, no de la batería
+100|2.1|B|¿Qué combinación pertenece íntegramente al circuito de refrigeración?|Embrague, caja de cambios y diferencial|Termostato, radiador, bomba de agua y vaso de expansión|Pastillas, discos y líquido de frenos|Termostato, radiador, bomba, vaso

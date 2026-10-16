@@ -1,0 +1,274 @@
+Q: ¿Cuál de estas materias exige el procedimiento de reforma AGRAVADO del artículo 168 CE?
+A: El derecho a la propiedad privada (art. 33)
+B: El derecho de huelga (art. 28)
+C: El derecho a la negociación colectiva (art. 37)
+OK: B
+WHY: El art. 168 protege el Título Preliminar, la Sección 1.ª del Capítulo II del Título I (arts. 15-29) y el Título II. El derecho de huelga (art. 28) está en la Sección 1.ª.
+TRAP: Propiedad (33) y negociación colectiva (37) son también derechos, pero de la Sección 2.ª (arts. 30-38), que se reforma por el art. 167.
+MEMO: Agravada = Preliminar + arts. 15-29 + Corona.
+SEC: 2.12
+REF: CE arts. 167 y 168
+---
+Q: En la reforma ordinaria del art. 167 CE, ¿quién puede exigir que se celebre referéndum?
+A: Una décima parte de los miembros de cualquiera de las Cámaras, en los 15 días siguientes
+B: El Rey, por iniciativa propia
+C: Nadie: en la reforma ordinaria el referéndum es siempre obligatorio
+OK: A
+WHY: En el art. 167 el referéndum es eventual: solo se celebra si lo solicita 1/10 de los miembros de cualquiera de las Cámaras dentro de los 15 días siguientes a la aprobación.
+TRAP: El referéndum SIEMPRE obligatorio corresponde al art. 168, no al 167.
+MEMO: 167: referéndum "si lo piden" (1/10 en 15 días). 168: referéndum "siempre".
+SEC: 2.12
+REF: CE art. 167
+---
+Q: ¿Qué mayoría exige la reforma ordinaria del art. 167 CE en cada Cámara?
+A: Dos tercios
+B: Tres quintos
+C: Mayoría absoluta
+OK: B
+WHY: El art. 167 exige mayoría de tres quintos de cada Cámara. Los dos tercios corresponden al art. 168 (y a la vía subsidiaria del Congreso en el 167).
+TRAP: 3/5 y 2/3 están muy próximos (60 % y 66,6 %); la pregunta busca que los cruces.
+MEMO: Ordinaria = 3/5. Agravada = 2/3 (dos veces) + disolución.
+SEC: 2.12
+REF: CE art. 167
+---
+Q: El estado de excepción es declarado por:
+A: El Congreso de los Diputados, por mayoría absoluta, a propuesta del Gobierno
+B: El Gobierno mediante decreto en Consejo de Ministros, previa autorización del Congreso
+C: El Gobierno mediante decreto, dando cuenta al Congreso después
+OK: B
+WHY: Excepción: lo declara el Gobierno, pero necesita autorización PREVIA del Congreso.
+TRAP: A describe el estado de sitio y C se parece al de alarma.
+MEMO: Alarma: Gobierno. Excepción: Gobierno + permiso previo del Congreso. Sitio: Congreso.
+SEC: 2.7
+REF: CE art. 116
+---
+Q: ¿Cuál es el plazo máximo inicial del estado de alarma?
+A: 30 días
+B: 60 días
+C: 15 días, prorrogable con autorización del Congreso
+OK: C
+WHY: El estado de alarma se declara por un plazo máximo de 15 días; su prórroga requiere autorización del Congreso.
+TRAP: 30 días es el plazo de convalidación de los decretos-leyes (art. 86), no del estado de alarma.
+MEMO: Alarma: 15 días; prórroga → Congreso.
+SEC: 2.7
+REF: CE art. 116
+---
+Q: ¿Quién refrenda la propuesta y el nombramiento del Presidente del Gobierno?
+A: El Presidente del Congreso
+B: El Presidente del Gobierno saliente
+C: El Ministro de la Presidencia
+OK: A
+WHY: El art. 64 establece que la propuesta y el nombramiento del Presidente del Gobierno y la disolución de las Cortes se refrendan por el Presidente del Congreso.
+TRAP: Como regla general refrenda el Presidente del Gobierno, pero este supuesto es una excepción.
+MEMO: Lo que afecta al propio Presidente del Gobierno lo refrenda el del Congreso.
+SEC: 2.4
+REF: CE art. 64
+---
+Q: ¿Qué composición tiene el Tribunal Constitucional según su origen?
+A: 4 Congreso, 4 Senado, 2 Gobierno y 2 CGPJ
+B: 6 Congreso, 4 Senado y 2 Gobierno
+C: 4 Congreso, 4 Senado y 4 CGPJ
+OK: A
+WHY: El TC tiene 12 miembros nombrados por el Rey: 4 a propuesta del Congreso, 4 del Senado, 2 del Gobierno y 2 del CGPJ.
+TRAP: Todas suman 12; hay que memorizar el reparto, no solo el total.
+MEMO: 4-4-2-2: las Cámaras ponen el doble que Gobierno y CGPJ.
+SEC: 2.11
+REF: CE art. 159
+---
+Q: El Presidente del Tribunal Constitucional es nombrado por el Rey, a propuesta del propio Tribunal en pleno, por un periodo de:
+A: 9 años
+B: 3 años
+C: 4 años
+OK: B
+WHY: El Presidente del TC se nombra por tres años (art. 160). Los 9 años son el mandato de los magistrados.
+TRAP: Se mezclan el mandato del magistrado (9) y la renovación por tercios (cada 3).
+MEMO: Magistrado 9 · se renueva un tercio cada 3 · Presidente 3.
+SEC: 2.11
+REF: CE art. 160
+---
+Q: Un juez, al resolver un pleito, duda de que la ley aplicable sea constitucional. ¿Qué vía utiliza?
+A: Recurso de inconstitucionalidad
+B: Recurso de amparo
+C: Cuestión de inconstitucionalidad
+OK: C
+WHY: La cuestión de inconstitucionalidad (art. 163) la plantea un órgano judicial dentro de un proceso concreto cuando la validez de la ley condiciona el fallo.
+TRAP: El recurso de inconstitucionalidad es un control abstracto promovido por sujetos legitimados, no por el juez del caso.
+MEMO: Juez con dudas = CUESTIÓN. Políticos legitimados = RECURSO. Persona con derecho vulnerado = AMPARO.
+SEC: 2.11
+REF: CE art. 163
+---
+Q: ¿Cuál de estos derechos se encuentra en el Capítulo III del Título I (principios rectores) y, por tanto, NO es directamente exigible ante los tribunales?
+A: Derecho a una vivienda digna (art. 47)
+B: Libertad de expresión (art. 20)
+C: Derecho a la educación (art. 27)
+OK: A
+WHY: La vivienda digna (art. 47) es un principio rector del Capítulo III; solo puede alegarse según las leyes que lo desarrollen (art. 53.3).
+TRAP: La educación (art. 27) suena a "política social", pero es un derecho fundamental de la Sección 1.ª.
+MEMO: Capítulo III (39-52): familia, salud, cultura, medio ambiente, vivienda…
+SEC: 2.3
+REF: CE arts. 47 y 53.3
+---
+Q: ¿Cuál de los siguientes NO puede regularse mediante decreto-ley según el art. 86 CE?
+A: Una medida urgente de política económica
+B: El Derecho electoral general
+C: Una modificación tributaria urgente sin afectar a derechos del Título I
+OK: B
+WHY: El decreto-ley no puede afectar a las instituciones básicas del Estado, a los derechos y libertades del Título I, al régimen de las CCAA ni al Derecho electoral general.
+TRAP: El decreto-ley sí es posible en materias económicas urgentes; la clave son las cuatro materias vetadas.
+MEMO: Decreto-ley no toca: Instituciones, Derechos del Título I, CCAA, Electoral.
+SEC: 2.5
+REF: CE art. 86
+---
+Q: ¿En qué plazo debe el Congreso convalidar o derogar un decreto-ley?
+A: 15 días
+B: 30 días siguientes a su promulgación
+C: 3 meses
+OK: B
+WHY: El decreto-ley debe someterse a debate y votación de totalidad en el Congreso en los 30 días siguientes a su promulgación.
+TRAP: 15 días es el plazo del estado de alarma y de la petición de referéndum en el art. 167.
+MEMO: Decreto-ley: un mes (30 días) para convalidar.
+SEC: 2.5
+REF: CE art. 86
+---
+Q: ¿Qué mayoría exige la aprobación de una ley orgánica?
+A: Mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto
+B: Mayoría de tres quintos de ambas Cámaras
+C: Mayoría simple del Congreso y del Senado
+OK: A
+WHY: El art. 81.2 exige mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto.
+TRAP: Los 3/5 aparecen en la reforma constitucional y en el nombramiento de magistrados del TC.
+MEMO: Ley orgánica = "absoluta en el Congreso".
+SEC: 2.5
+REF: CE art. 81
+---
+Q: ¿En qué materia NO cabe la iniciativa legislativa popular?
+A: Protección de los consumidores
+B: Materias tributarias
+C: Fomento del deporte
+OK: B
+WHY: La iniciativa popular (500.000 firmas) no procede en materias de ley orgánica, tributarias, de carácter internacional ni en la prerrogativa de gracia.
+TRAP: Las otras dos son materias ordinarias sin exclusión expresa.
+MEMO: Ni Orgánica, ni Tributos, ni Internacional, ni Gracia.
+SEC: 2.5
+REF: CE art. 87
+---
+Q: Según el art. 99 CE, si el candidato a Presidente del Gobierno no obtiene mayoría absoluta en la primera votación:
+A: El Rey nombra directamente al candidato
+B: Se celebra nueva votación y basta la mayoría simple
+C: Se disuelven inmediatamente las Cortes
+OK: B
+WHY: En la primera votación se exige mayoría absoluta; si no se alcanza, en una nueva votación basta la mayoría simple.
+TRAP: La disolución no es inmediata tras la primera votación fallida.
+MEMO: Investidura: 1.ª absoluta → 2.ª simple.
+SEC: 2.6
+REF: CE art. 99
+---
+Q: ¿Con qué mayoría se aprueba la moción de censura?
+A: Mayoría simple del Congreso
+B: Tres quintos del Congreso
+C: Mayoría absoluta del Congreso
+OK: C
+WHY: La moción de censura debe aprobarse por mayoría absoluta del Congreso; la cuestión de confianza se otorga por mayoría simple.
+TRAP: Confianza (simple) y censura (absoluta) se confunden con frecuencia.
+MEMO: Para tirar un Gobierno hace falta más (absoluta) que para sostenerlo (simple).
+SEC: 2.7
+REF: CE arts. 112 y 113
+---
+Q: ¿Qué requiere la aplicación del art. 155 CE (coerción estatal)?
+A: Requerimiento previo al Presidente de la Comunidad Autónoma y aprobación por mayoría absoluta del Senado
+B: Autorización del Congreso por mayoría de dos tercios
+C: Sentencia previa del Tribunal Constitucional
+OK: A
+WHY: El Gobierno debe requerir primero al Presidente autonómico y, si no es atendido, obtener la aprobación del Senado por mayoría absoluta.
+TRAP: El Senado, como Cámara territorial, es quien interviene; no el Congreso.
+MEMO: 155 → Requerimiento + Senado (absoluta).
+SEC: 2.10
+REF: CE art. 155
+---
+Q: ¿Cuál de estas afirmaciones sobre los Presupuestos Generales del Estado es correcta?
+A: Si no se aprueban antes del 1 de enero, el Gobierno no puede realizar ningún gasto
+B: Si no se aprueban a tiempo, se prorrogan automáticamente los del ejercicio anterior
+C: Su elaboración corresponde a las Cortes y su aprobación al Gobierno
+OK: B
+WHY: El art. 134.4 establece la prórroga automática de los presupuestos anteriores. Su elaboración corresponde al Gobierno y su aprobación a las Cortes.
+TRAP: La opción C invierte los papeles de Gobierno y Cortes.
+MEMO: Gobierno ELABORA, Cortes APRUEBAN; si no llegan, PRÓRROGA.
+SEC: 2.9
+REF: CE art. 134
+---
+Q: ¿Qué órgano es el supremo órgano consultivo del Gobierno?
+A: El Consejo de Estado
+B: El Tribunal de Cuentas
+C: El Consejo General del Poder Judicial
+OK: A
+WHY: El art. 107 configura al Consejo de Estado como supremo órgano consultivo del Gobierno.
+TRAP: El Tribunal de Cuentas fiscaliza (depende de las Cortes) y el CGPJ gobierna el Poder Judicial.
+MEMO: Consejo de Estado = aconseja. Tribunal de Cuentas = cuenta. CGPJ = gobierna jueces.
+SEC: 2.6
+REF: CE art. 107
+---
+Q: ¿Qué derecho de la Sección 2.ª (arts. 30-38) tiene, excepcionalmente, protección mediante recurso de amparo?
+A: El derecho a contraer matrimonio
+B: La objeción de conciencia (art. 30.2)
+C: El derecho de fundación
+OK: B
+WHY: El art. 53.2 extiende el procedimiento preferente y el amparo al art. 14, la Sección 1.ª y la objeción de conciencia del art. 30.
+TRAP: La regla general es que la Sección 2.ª no tiene amparo; la objeción de conciencia es la excepción.
+MEMO: Amparo = art. 14 + arts. 15-29 + objeción de conciencia.
+SEC: 2.3
+REF: CE art. 53.2
+---
+Q: ¿Qué órgano juzga las causas penales contra Diputados y Senadores?
+A: La Sala de lo Penal del Tribunal Supremo
+B: El Tribunal Constitucional
+C: La Audiencia Nacional
+OK: A
+WHY: El art. 71.3 atribuye a la Sala de lo Penal del Tribunal Supremo las causas contra Diputados y Senadores (aforamiento).
+TRAP: El TC no juzga personas penalmente: resuelve recursos de constitucionalidad y amparo.
+MEMO: Parlamentario aforado → Supremo, Sala Penal.
+SEC: 2.5
+REF: CE art. 71
+---
+Q: ¿Qué artículo de la Constitución introdujo en 2011 el principio de estabilidad presupuestaria?
+A: Art. 134
+B: Art. 135
+C: Art. 136
+OK: B
+WHY: La reforma de 2011 dio nueva redacción al art. 135, que consagra la estabilidad presupuestaria y la prioridad del pago de la deuda.
+TRAP: 134 (Presupuestos), 135 (estabilidad) y 136 (Tribunal de Cuentas) son consecutivos.
+MEMO: 134 Presupuestos · 135 Estabilidad · 136 Tribunal de Cuentas.
+SEC: 2.9
+REF: CE art. 135
+---
+Q: ¿Durante cuál de estas situaciones NO puede iniciarse una reforma constitucional?
+A: Durante la vigencia de un estado de alarma
+B: Durante un periodo electoral autonómico
+C: Durante la tramitación de unos Presupuestos
+OK: A
+WHY: El art. 169 prohíbe iniciar la reforma en tiempo de guerra o de vigencia de alguno de los estados del art. 116 (alarma, excepción o sitio).
+TRAP: Se tiende a pensar que solo afecta a excepción y sitio, pero incluye también la alarma.
+MEMO: Ni guerra ni ninguno de los tres estados.
+SEC: 2.12
+REF: CE art. 169
+---
+Q: ¿Qué contenido NO forma parte del Título Preliminar (arts. 1-9)?
+A: La capitalidad de Madrid
+B: El papel de los partidos políticos
+C: El derecho a la tutela judicial efectiva
+OK: C
+WHY: La tutela judicial efectiva es el art. 24, en la Sección 1.ª del Título I. Madrid (art. 5) y los partidos (art. 6) están en el Preliminar.
+TRAP: Todo suena a "principios básicos", pero el art. 24 ya es Título I.
+MEMO: Preliminar 1-9: Estado, unidad, lengua, bandera, capital, partidos, sindicatos, FFAA, legalidad.
+SEC: 2.2
+REF: CE arts. 1-9 y 24
+---
+Q: ¿Cuántos vocales tiene el Consejo General del Poder Judicial, además de su Presidente?
+A: 12
+B: 20
+C: 9
+OK: B
+WHY: El CGPJ está compuesto por 20 vocales y su Presidente, que lo es también del Tribunal Supremo.
+TRAP: 12 es el número de magistrados del Tribunal Constitucional.
+MEMO: CGPJ 20 + Presidente; TC 12.
+SEC: 2.8
+REF: CE art. 122

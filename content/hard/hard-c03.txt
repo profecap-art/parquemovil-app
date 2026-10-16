@@ -1,0 +1,274 @@
+Q: Un funcionario cometió una falta grave hace 26 meses y nadie ha iniciado expediente. ¿Puede sancionarse hoy?
+A: Sí, las faltas graves prescriben a los 3 años
+B: No, las faltas graves prescriben a los 2 años
+C: Sí, porque las faltas no prescriben mientras el funcionario siga en activo
+OK: B
+WHY: Las faltas graves prescriben a los 2 años desde su comisión; 26 meses superan ese plazo.
+TRAP: 3 años es el plazo de las muy graves.
+MEMO: Faltas: muy graves 3 años · graves 2 años · leves 6 meses.
+SEC: 2.13
+REF: TREBEP art. 97
+---
+Q: ¿Cuál es el plazo de prescripción de una SANCIÓN impuesta por falta leve?
+A: 6 meses
+B: 1 año
+C: 2 años
+OK: B
+WHY: Las faltas leves prescriben a los 6 meses, pero las sanciones por faltas leves prescriben al año.
+TRAP: Confundir prescripción de la falta (6 meses) con la de la sanción (1 año).
+MEMO: En leves, la sanción dura el doble que la falta: 6 meses → 1 año.
+SEC: 2.13
+REF: TREBEP art. 97
+---
+Q: ¿Desde cuándo empieza a contar la prescripción de una sanción disciplinaria?
+A: Desde que se cometió la falta
+B: Desde la firmeza de la resolución sancionadora
+C: Desde la incoación del expediente
+OK: B
+WHY: Las faltas prescriben desde su comisión; las sanciones, desde la firmeza de la resolución que las impone.
+TRAP: Aplicar a la sanción el inicio de cómputo de la falta.
+MEMO: Falta: desde el hecho. Sanción: desde que es firme.
+SEC: 2.13
+REF: TREBEP art. 97
+---
+Q: ¿Cuál de estas sanciones NO puede imponerse por una falta grave?
+A: Traslado forzoso
+B: Separación del servicio
+C: Suspensión firme de funciones
+OK: B
+WHY: La separación del servicio solo procede por faltas muy graves; extingue la condición de funcionario.
+TRAP: La suspensión firme puede llegar a 6 años, pero no extingue la relación.
+MEMO: Separar = solo muy grave.
+SEC: 2.13
+REF: TREBEP art. 96
+---
+Q: ¿Cuál de las siguientes conductas es falta MUY GRAVE según el TREBEP?
+A: Incorrección puntual con un ciudadano
+B: Incumplir las normas sobre incompatibilidades
+C: Falta de asistencia injustificada de un día
+OK: B
+WHY: El incumplimiento de las normas de incompatibilidades figura entre las faltas muy graves del TREBEP; las otras dos son típicamente leves.
+TRAP: Parece una cuestión "administrativa", pero el TREBEP la considera muy grave.
+MEMO: Muy graves: Constitución, discriminación, abandono, secretos, acoso, incompatibilidades…
+SEC: 2.13
+REF: TREBEP art. 95
+---
+Q: Un empleado se niega abiertamente a cumplir una orden de su superior que constituye una infracción manifiesta del ordenamiento jurídico. ¿Comete falta muy grave?
+A: Sí, siempre es desobediencia abierta
+B: No: la desobediencia no es falta cuando la orden constituye infracción manifiesta del ordenamiento
+C: Solo si la orden era verbal
+OK: B
+WHY: La desobediencia abierta es falta muy grave salvo que la orden constituya infracción manifiesta del ordenamiento jurídico.
+TRAP: La excepción está en la propia definición de la falta.
+MEMO: Obedecer siempre, salvo lo manifiestamente ilegal.
+SEC: 2.13
+REF: TREBEP art. 95
+---
+Q: ¿Qué caracteriza a la excedencia voluntaria por interés particular?
+A: Reserva del puesto durante dos años
+B: No devenga retribuciones ni computa antigüedad
+C: Tiene una duración máxima de tres años
+OK: B
+WHY: En la excedencia por interés particular no se perciben retribuciones ni se computa antigüedad; no tiene un máximo predeterminado.
+TRAP: El máximo de 3 años corresponde a las excedencias por cuidado.
+MEMO: Interés particular = "me voy por mí, sin sueldo ni años".
+SEC: 2.8.1
+REF: TREBEP art. 89
+---
+Q: ¿Hasta qué grado de parentesco puede solicitarse la excedencia por cuidado de familiar?
+A: Hasta el primer grado
+B: Hasta el segundo grado de consanguinidad o afinidad
+C: Hasta el cuarto grado
+OK: B
+WHY: La excedencia por cuidado de familiar alcanza hasta el segundo grado de consanguinidad o afinidad, si el familiar no puede valerse por sí mismo y no tiene actividad retribuida.
+TRAP: El cuarto grado es el de la abstención en algunos supuestos, no el de esta excedencia.
+MEMO: Cuidado de familiar: hasta 2.º grado, hasta 3 años.
+SEC: 2.8.1
+REF: TREBEP art. 89.4
+---
+Q: Un funcionario es nombrado Secretario de Estado. ¿En qué situación administrativa queda?
+A: Excedencia voluntaria
+B: Servicios especiales
+C: Servicio en otras Administraciones Públicas
+OK: B
+WHY: El desempeño de altos cargos o cargos políticos da lugar a servicios especiales, con reserva de puesto y cómputo de antigüedad.
+TRAP: No pierde derechos como en la excedencia voluntaria.
+MEMO: Cargo político = servicios especiales = vuelvo a mi sitio.
+SEC: 2.8
+REF: TREBEP art. 87
+---
+Q: Por exceso o acumulación de tareas, ¿durante cuánto tiempo máximo puede nombrarse un funcionario interino?
+A: 6 meses dentro de un periodo de 12 meses
+B: 12 meses dentro de un periodo de 18
+C: 3 años
+OK: A
+WHY: El nombramiento por exceso o acumulación de tareas tiene un plazo máximo de seis meses dentro de un periodo de doce.
+TRAP: 3 años es el máximo de las excedencias por cuidado.
+MEMO: Acumulación de tareas: 6 en 12.
+SEC: 2.2
+REF: TREBEP art. 10
+---
+Q: ¿Qué afirmación sobre el personal eventual es CORRECTA?
+A: Su condición constituye mérito para el acceso a la función pública
+B: Cesa automáticamente cuando cesa la autoridad a la que asesora
+C: Se selecciona por concurso-oposición
+OK: B
+WHY: El eventual cesa, en todo caso, cuando cesa la autoridad a la que presta la función de confianza; su condición no da mérito.
+TRAP: La opción A es exactamente lo contrario de lo que dice la ley.
+MEMO: Eventual: entra y sale con "su jefe político".
+SEC: 2.2
+REF: TREBEP art. 12
+---
+Q: ¿Qué complemento retribuye la peligrosidad de un puesto de conductor?
+A: Complemento de destino
+B: Complemento específico
+C: Complemento de productividad
+OK: B
+WHY: El complemento específico retribuye la especial dificultad técnica, dedicación, incompatibilidad, responsabilidad o peligrosidad del puesto.
+TRAP: El de destino retribuye el nivel/progresión, no las condiciones del puesto.
+MEMO: Específico = lo Especial del puesto (peligro, dificultad).
+SEC: 2.10
+REF: TREBEP art. 24
+---
+Q: Las horas extraordinarias realizadas fuera de la jornada se retribuyen mediante:
+A: Complemento de productividad
+B: Gratificaciones por servicios extraordinarios, que no pueden ser fijas ni periódicas
+C: Trienios
+OK: B
+WHY: Las gratificaciones retribuyen servicios fuera de la jornada normal; no pueden ser fijas en su cuantía ni periódicas en su devengo.
+TRAP: Productividad retribuye rendimiento, no tiempo extra.
+MEMO: Fuera de horario = gratificación.
+SEC: 2.10
+REF: TREBEP art. 24
+---
+Q: ¿Cuáles son las retribuciones BÁSICAS de un funcionario?
+A: Sueldo y complemento de destino
+B: Sueldo y trienios
+C: Trienios y complemento específico
+OK: B
+WHY: Las básicas son sueldo y trienios (y pagas extraordinarias en su parte básica); destino y específico son complementarias.
+TRAP: El complemento de destino es fijo y mensual, pero es complementario.
+MEMO: Básicas: lo que depende del grupo (sueldo) y del tiempo (trienios).
+SEC: 2.10
+REF: TREBEP art. 23
+---
+Q: Un funcionario que se incorporó el 1 de julio, ¿cuántos días de vacaciones le corresponden ese año?
+A: 22 días hábiles completos
+B: La parte proporcional al tiempo de servicios efectivos
+C: Ninguno hasta completar un año
+OK: B
+WHY: Las vacaciones son 22 días hábiles por año completo; si el servicio es inferior, la parte proporcional.
+TRAP: Pensar que hay que esperar al año completo.
+MEMO: 22 hábiles al año; si no llegas al año, proporcional.
+SEC: 2.11
+REF: TREBEP art. 50
+---
+Q: ¿Cuántos días corresponden por fallecimiento de un familiar de primer grado en la misma localidad?
+A: 3 días hábiles
+B: 5 días hábiles
+C: 2 días hábiles
+OK: A
+WHY: Para familiar de primer grado: 3 días hábiles en la misma localidad y 5 si es en distinta localidad. Segundo grado: 2 y 4.
+TRAP: Los 5 días son para el caso de distinta localidad.
+MEMO: 1.er grado 3/5 · 2.º grado 2/4 (misma/otra localidad).
+SEC: 2.11
+REF: TREBEP art. 48
+---
+Q: En una unidad electoral de 49 funcionarios, ¿qué órgano de representación corresponde?
+A: Junta de Personal
+B: Delegados de Personal
+C: Comité de empresa
+OK: B
+WHY: Delegados de Personal: unidades de 6 a 49 funcionarios. Juntas de Personal: 50 o más.
+TRAP: El número 49 está justo en el límite; con 50 ya sería Junta.
+MEMO: Hasta 49 → Delegados; desde 50 → Junta.
+SEC: 2.12
+REF: TREBEP art. 39
+---
+Q: ¿Cuál de estas materias queda EXCLUIDA de la obligación de negociar en la función pública?
+A: Los permisos y vacaciones
+B: Las decisiones que afecten a las potestades de organización de la Administración
+C: Los planes de igualdad
+OK: B
+WHY: Las potestades de organización quedan excluidas de la obligación de negociar; jornada, permisos o planes de igualdad sí son negociables.
+TRAP: Las tres afectan al personal, pero solo una es potestad organizativa.
+MEMO: Organizar es de la Administración; condiciones de trabajo, se negocian.
+SEC: 2.12
+REF: TREBEP art. 37
+---
+Q: ¿Cuál es el procedimiento NORMAL de provisión de puestos de trabajo?
+A: La libre designación
+B: El concurso
+C: La comisión de servicios
+OK: B
+WHY: El concurso es el procedimiento normal; la libre designación se reserva a puestos de especial responsabilidad y confianza.
+TRAP: La libre designación es frecuente en jefaturas, pero es la excepción.
+MEMO: Normal = Concurso. Confianza = Libre designación.
+SEC: 2.9
+REF: TREBEP art. 78
+---
+Q: ¿En qué caso es admisible el sistema de CONCURSO (solo méritos) para el acceso al empleo público?
+A: Siempre que lo decida el órgano convocante
+B: Con carácter excepcional y solo cuando lo prevea una ley
+C: Para todo el personal laboral temporal
+OK: B
+WHY: El concurso como sistema de acceso es excepcional y solo cabe cuando lo prevé expresamente una ley.
+TRAP: No confundir el concurso de ACCESO (excepcional) con el de PROVISIÓN de puestos (normal).
+MEMO: Para entrar, concurso solo por ley; para moverse, concurso es lo normal.
+SEC: 2.3
+REF: TREBEP art. 61
+---
+Q: ¿Qué es la carrera horizontal?
+A: El ascenso a un puesto superior mediante concurso
+B: La progresión de grado, categoría o escalón sin cambiar de puesto
+C: El paso de personal laboral a funcionario
+OK: B
+WHY: La carrera horizontal es progresar sin cambiar de puesto; la vertical implica ascenso mediante provisión.
+TRAP: "Horizontal" sugiere moverse de lado; en realidad es quedarse en el puesto progresando.
+MEMO: Horizontal = mismo puesto, más nivel. Vertical = subo de puesto.
+SEC: 2.9
+REF: TREBEP art. 16
+---
+Q: ¿Cuál es el último requisito para adquirir la condición de funcionario de carrera?
+A: El nombramiento
+B: La toma de posesión en plazo
+C: El acatamiento de la Constitución
+OK: B
+WHY: El orden es: superación del proceso, nombramiento, acatamiento y toma de posesión dentro del plazo establecido.
+TRAP: El nombramiento no basta: falta acatar y tomar posesión.
+MEMO: Aprobar → Nombrar → Acatar → Tomar posesión.
+SEC: 2.4
+REF: TREBEP art. 62
+---
+Q: ¿Qué principio disciplinario impide sancionar por un hecho no tipificado previamente como falta?
+A: Proporcionalidad
+B: Legalidad y tipicidad
+C: Presunción de inocencia
+OK: B
+WHY: Solo puede sancionarse por hechos previamente tipificados como falta y con la sanción prevista para ella.
+TRAP: Presunción de inocencia se refiere a la prueba de los hechos, no a su tipificación.
+MEMO: Sin falta escrita, no hay sanción.
+SEC: 2.13
+REF: TREBEP art. 94
+---
+Q: ¿Para qué faltas cabe un procedimiento sumario?
+A: Para las muy graves, por su urgencia
+B: Para las leves
+C: Para ninguna: siempre hace falta procedimiento ordinario
+OK: B
+WHY: Las faltas graves y muy graves exigen procedimiento previo con audiencia; para las leves cabe un procedimiento sumario.
+TRAP: La urgencia no justifica reducir garantías en las faltas más graves.
+MEMO: Más gravedad, más garantías.
+SEC: 2.13
+REF: TREBEP art. 98
+---
+Q: ¿Qué norma regula las incompatibilidades del personal al servicio de las Administraciones Públicas?
+A: El RDL 5/2015
+B: La Ley 53/1984
+C: La Ley 40/2015
+OK: B
+WHY: Las incompatibilidades se regulan en la Ley 53/1984, fuera del TREBEP.
+TRAP: El TREBEP tipifica como falta incumplirlas, pero no las regula.
+MEMO: Incompatibilidades: "53/84".
+SEC: 2.7
+REF: Ley 53/1984

@@ -1,0 +1,274 @@
+Q: Una furgoneta N1 tiene 8 años. ¿Con qué periodicidad pasa la ITV?
+A: Cada 2 años
+B: Anualmente
+C: Cada 6 meses
+OK: B
+WHY: N1: primera a los 2 años, cada 2 años hasta los 6, anual de 6 a 10 y semestral desde los 10.
+TRAP: Aplicar la regla del turismo (cada 2 años hasta los 10).
+MEMO: N1: 2 → bienal hasta 6 → anual hasta 10 → semestral.
+SEC: 2.5
+REF: RD 920/2017 (ITV) — verificar en el Manual de Procedimiento
+---
+Q: Un turismo M1 matriculado hace 11 años, ¿cada cuánto pasa la ITV?
+A: Cada 2 años
+B: Anualmente
+C: Cada 6 meses
+OK: B
+WHY: El turismo pasa la ITV cada 2 años hasta los 10 años y anualmente a partir de entonces.
+TRAP: El semestral es para pesados y autobuses mayores.
+MEMO: Turismo: 4 · 2 · 2 · 2 → a los 10, anual.
+SEC: 2.5
+REF: Normativa ITV (verificar)
+---
+Q: Un autobús M3 de 6 años, ¿cada cuánto pasa la ITV?
+A: Anualmente
+B: Cada 6 meses
+C: Cada 2 años
+OK: B
+WHY: Los autobuses pasan ITV anual hasta los 5 años y cada 6 meses después.
+TRAP: El umbral de los autobuses es 5 años, no 10 como en los camiones.
+MEMO: Bus: semestral desde los 5. Camión: semestral desde los 10.
+SEC: 2.5
+REF: Normativa ITV (verificar)
+---
+Q: Un vehículo histórico de 42 años, ¿con qué periodicidad pasa la ITV?
+A: Cada 2 años
+B: Cada 3 años
+C: Está exento
+OK: B
+WHY: Históricos: 30-39 años cada 2; 40-44 cada 3; 45-59 cada 4; 60 o más exentos.
+TRAP: Las franjas cambian cada pocos años; 42 está en la de 40-44.
+MEMO: 30→2 · 40→3 · 45→4 · 60→exento.
+SEC: 2.5
+REF: Normativa ITV (verificar)
+---
+Q: Un microbús tiene 20 plazas (incluido el conductor) y 6.000 kg de MMA. ¿Su categoría?
+A: M1
+B: M2
+C: M3
+OK: C
+WHY: M2 y M3 son autobuses; la frontera está en 5.000 kg de MMA. Con 6.000 kg es M3.
+TRAP: El número de plazas no decide entre M2 y M3: decide la masa.
+MEMO: Autobús hasta 5 t: M2; más de 5 t: M3.
+SEC: 2.1
+REF: RGV, anexo II
+---
+Q: Un remolque de 3.000 kg de MMA pertenece a la categoría:
+A: O1
+B: O2
+C: O3
+OK: B
+WHY: O1 ≤ 750 kg; O2 de 750 a 3.500 kg; O3 de 3.500 a 10.000 kg; O4 > 10.000 kg.
+TRAP: 3.000 kg es "pesado" para un turismo, pero sigue en O2.
+MEMO: O: 750 · 3.500 · 10.000.
+SEC: 2.1
+REF: RGV, anexo II
+---
+Q: Un camión de 12.500 kg de MMA es de categoría:
+A: N2
+B: N3
+C: O4
+OK: B
+WHY: N3 son los vehículos de mercancías de más de 12.000 kg.
+TRAP: O4 es remolque, no vehículo de motor.
+MEMO: N: 3,5 t y 12 t son las fronteras.
+SEC: 2.1
+REF: RGV, anexo II
+---
+Q: ¿A qué velocidad está fijado el limitador de un autobús M3?
+A: 90 km/h
+B: 100 km/h
+C: 120 km/h
+OK: B
+WHY: El limitador de los autobuses M2/M3 se fija en 100 km/h; el de los camiones N2/N3, en 90 km/h.
+TRAP: 90 km/h es el de camiones.
+MEMO: Bus 100 · Camión 90 (coinciden con su límite en autopista).
+SEC: 2.2
+REF: Normativa de limitadores (verificar)
+---
+Q: ¿Está obligada una furgoneta N1 de 3.200 kg a llevar limitador de velocidad?
+A: Sí, todas las furgonetas
+B: No, con carácter general
+C: Solo si tiene más de 10 años
+OK: B
+WHY: El limitador es obligatorio con carácter general en N2/N3 y M2/M3, no en N1.
+TRAP: La antigüedad no cambia esta obligación.
+MEMO: Limitador: pesados y buses.
+SEC: 2.2
+REF: Normativa de limitadores (verificar)
+---
+Q: ¿Qué controla el tacógrafo?
+A: El consumo de combustible
+B: Los tiempos de conducción y descanso
+C: La velocidad máxima, limitándola
+OK: B
+WHY: El tacógrafo registra tiempos de conducción y descanso; el limitador es el que limita la velocidad.
+TRAP: El tacógrafo registra velocidad, pero su finalidad es controlar jornadas; no limita.
+MEMO: Tacógrafo = registra. Limitador = frena el acelerador.
+SEC: 2.2
+REF: Normativa de tacógrafos
+---
+Q: ¿Desde cuándo es obligatorio el tacógrafo inteligente de segunda generación en vehículos pesados de nueva matriculación?
+A: 21 de agosto de 2023
+B: 1 de enero de 2020
+C: 21 de agosto de 2025
+OK: A
+WHY: Desde el 21 de agosto de 2023 en vehículos de nueva matriculación.
+TRAP: 2025 es la fecha de adaptación de vehículos ya en circulación (retrofit), no la de nuevas matriculaciones.
+MEMO: Nuevos: agosto 2023.
+SEC: 2.2
+REF: Reglamento (UE) 165/2014 y desarrollo
+---
+Q: Un vehículo ha obtenido ITV "desfavorable". ¿Qué puede hacer?
+A: Nada, queda inmovilizado de inmediato
+B: Circular de forma limitada para subsanar los defectos dentro del plazo fijado
+C: Circular normalmente hasta la próxima ITV ordinaria
+OK: B
+WHY: Con resultado desfavorable puede circular de forma limitada para reparar y volver a inspección dentro del plazo.
+TRAP: La inmovilización corresponde al resultado negativo.
+MEMO: Desfavorable = "ve al taller". Negativo = "no te muevas".
+SEC: 2.5
+REF: Normativa ITV
+---
+Q: Un conductor vendió su coche hace 20 días y no comunicó la venta. El comprador comete una infracción. ¿Quién figura como responsable?
+A: El comprador, automáticamente
+B: El vendedor, mientras no se notifique la transferencia
+C: Nadie, al no estar actualizado el registro
+OK: B
+WHY: El vendedor debe comunicar la venta en 10 días; si no lo hace, sigue siendo responsable legal hasta que se notifique.
+TRAP: Haber vendido no basta: hay que comunicarlo.
+MEMO: Vendedor 10 días; comprador 30.
+SEC: 2.3
+REF: RGV (transferencias)
+---
+Q: ¿Qué documento acredita que un vehículo ha pasado la inspección técnica?
+A: El permiso de circulación
+B: La tarjeta ITV o ficha técnica
+C: El recibo del seguro
+OK: B
+WHY: La ficha técnica recoge el resultado de la inspección; el permiso de circulación acredita la matriculación.
+TRAP: Ambos son documentos del vehículo, pero acreditan cosas distintas.
+MEMO: Circulación = matrícula. Ficha = técnica.
+SEC: 2.4
+REF: RGV
+---
+Q: Un coche tiene ITV favorable pero el seguro obligatorio está vencido. ¿Puede circular?
+A: Sí, porque la ITV está en vigor
+B: No, le falta el seguro obligatorio
+C: Sí, si lleva distintivo ambiental
+OK: B
+WHY: Todos los requisitos son acumulativos; sin seguro no se puede circular, y además es infracción grave.
+TRAP: Ningún documento suple a otro.
+MEMO: Matrícula + ITV + seguro: los tres a la vez.
+SEC: 2.4
+REF: RDL 6/2015 y Ley de responsabilidad civil y seguro
+---
+Q: ¿Cuándo es exigible el distintivo ambiental de la DGT?
+A: Siempre, en cualquier vía
+B: Cuando se circula por una Zona de Bajas Emisiones que lo exija
+C: Solo en autopista
+OK: B
+WHY: El distintivo es exigible cuando el vehículo circula por una ZBE que lo requiera.
+TRAP: No es un documento obligatorio con carácter general.
+MEMO: Etiqueta = llave de la ZBE.
+SEC: 2.4
+REF: Normativa ZBE
+---
+Q: Un híbrido enchufable con 55 km de autonomía eléctrica, ¿qué etiqueta tiene?
+A: ECO
+B: 0 emisiones
+C: C
+OK: B
+WHY: Los híbridos enchufables con 40 km o más de autonomía obtienen la etiqueta 0 emisiones; por debajo de 40 km, ECO.
+TRAP: "Híbrido" lleva a pensar en ECO, pero la autonomía decide.
+MEMO: Enchufable: ≥40 km → 0 · <40 km → ECO.
+SEC: 2.4
+REF: Clasificación de distintivos de la DGT
+---
+Q: Un turismo diésel matriculado en 2010, ¿qué distintivo le corresponde?
+A: C
+B: B
+C: Ninguno
+OK: B
+WHY: Etiqueta B: gasolina desde 2001 y diésel desde 2006. La C exige diésel desde 2015.
+TRAP: 2010 es posterior a 2006 pero anterior a 2015.
+MEMO: Diésel: 2006 → B; 2015 → C.
+SEC: 2.4
+REF: Clasificación de distintivos de la DGT
+---
+Q: ¿Cuál es el color de fondo de una matrícula temporal de empresa?
+A: Verde
+B: Roja
+C: Amarilla
+OK: B
+WHY: Las matrículas temporales son verdes para particulares y rojas para empresas.
+TRAP: El rojo también identifica a los remolques.
+MEMO: Temporal: verde particular, roja empresa.
+SEC: 2.3
+REF: RGV (placas de matrícula)
+---
+Q: ¿Qué diferencia la baja temporal de la definitiva de un vehículo?
+A: La temporal no cancela la inscripción y permite reactivar el vehículo
+B: La temporal obliga a nueva matriculación
+C: Ninguna: solo cambia el plazo
+OK: A
+WHY: La baja definitiva cancela permanentemente la inscripción; la temporal no, y permite reactivar el vehículo.
+TRAP: Reactivar no exige rematricular.
+MEMO: Temporal = pausa. Definitiva = fin.
+SEC: 2.3
+REF: RGV
+---
+Q: ¿Desde cuándo se usa el formato de matrícula de 4 números y 3 letras?
+A: 1990
+B: Septiembre de 2000
+C: 2010
+OK: B
+WHY: El formato actual, sin indicativo provincial, se implantó en septiembre de 2000; las matrículas anteriores siguen siendo válidas.
+TRAP: Pensar que las antiguas debieron cambiarse.
+MEMO: 2000 = adiós a la provincia en la matrícula.
+SEC: 2.3
+REF: RGV
+---
+Q: ¿Qué ocurre si se instala un motor más potente (reforma de importancia) sin reflejarlo en la documentación?
+A: Nada, si el coche pasa la ITV después
+B: Es una irregularidad sancionable: la documentación no coincide con el vehículo
+C: Solo afecta al seguro
+OK: B
+WHY: Las reformas de importancia deben inspeccionarse y reflejarse en la ficha técnica; si no, el vehículo circula irregularmente.
+TRAP: La ITV posterior no legaliza por sí sola una reforma no tramitada.
+MEMO: Reforma → inspección → ficha técnica.
+SEC: 2.4
+REF: RGV y RD de reformas de vehículos
+---
+Q: ¿Qué regula el RD 52/2026?
+A: El Registro de Vehículos Personales Ligeros
+B: La supresión de la ITV para históricos
+C: Un nuevo sistema de puntos
+OK: A
+WHY: El RD 52/2026 modifica el RGV para crear el registro de VPL (patinetes eléctricos y asimilados).
+TRAP: No afecta a la ITV de los históricos.
+MEMO: 52/2026 = patinetes registrados.
+SEC: 2.6
+REF: RD 52/2026
+---
+Q: ¿Qué validez tiene mostrar el permiso de conducir en la app miDGT en un control?
+A: Ninguna, se exige el físico
+B: La misma que el documento físico
+C: Solo vale fuera de poblado
+OK: B
+WHY: Desde 2025 la app miDGT permite mostrar permiso y ficha técnica con la misma validez legal.
+TRAP: El papel ya no es imprescindible.
+MEMO: Vigente importa; el soporte, no.
+SEC: 2.4
+REF: DGT (miDGT)
+---
+Q: ¿Qué medida pueden adoptar los agentes ante un vehículo con frenos claramente deficientes?
+A: Solo denunciar
+B: Inmovilizarlo si supone un riesgo grave
+C: Retirar la matrícula
+OK: B
+WHY: El incumplimiento grave de las condiciones técnicas que suponga riesgo grave permite la inmovilización.
+TRAP: Reducir la velocidad no lo hace seguro.
+MEMO: Riesgo grave → inmovilización.
+SEC: 2.2
+REF: RDL 6/2015

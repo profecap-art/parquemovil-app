@@ -1,0 +1,274 @@
+Q: Un conductor toma una curva demasiado rápido sin frenar y el coche empieza a derrapar. ¿Qué sistema puede intervenir?
+A: El ABS
+B: El ESP
+C: El pretensor del cinturón
+OK: B
+WHY: El ESP actúa en cualquier momento, con o sin frenada, frenando ruedas individualmente para corregir la trayectoria.
+TRAP: El ABS solo actúa cuando se frena.
+MEMO: Sin pisar el freno, solo el ESP puede ayudar.
+SEC: 2.2
+REF: Elaboración propia sobre el temario
+---
+Q: En una frenada de emergencia sobre hielo, el ABS:
+A: Acorta siempre la distancia de frenado
+B: Permite mantener la dirección, aunque la distancia pueda ser algo mayor
+C: Desactiva el ESP para frenar más
+OK: B
+WHY: El objetivo del ABS es evitar el bloqueo para conservar el control direccional; en superficies muy deslizantes puede alargar ligeramente la frenada.
+TRAP: "ABS frena antes" es la creencia errónea más común.
+MEMO: ABS = poder girar mientras frenas.
+SEC: 4
+REF: Elaboración propia sobre el temario
+---
+Q: Al arrancar con fuerza en una calzada mojada, una rueda motriz gira en vacío. ¿Qué sistema actúa?
+A: Control de tracción (ASR/TCS)
+B: ABS
+C: AEB
+OK: A
+WHY: El control de tracción reduce la potencia o frena la rueda que patina al acelerar.
+TRAP: El ABS actúa al frenar, no al acelerar.
+MEMO: Acelerar → tracción. Frenar → ABS. Derrapar → ESP.
+SEC: 2.2
+REF: Elaboración propia sobre el temario
+---
+Q: ¿Qué diferencia hay entre FCW y AEB?
+A: Son el mismo sistema
+B: El FCW solo avisa; el AEB puede frenar automáticamente
+C: El AEB solo avisa; el FCW frena
+OK: B
+WHY: El aviso de colisión frontal alerta al conductor; el frenado autónomo de emergencia, además, frena si no se reacciona.
+TRAP: Las siglas se parecen y suelen ir juntas en los coches.
+MEMO: W = Warning (aviso). B = Braking (frenado).
+SEC: 2.6
+REF: Reglamento (UE) 2019/2144
+---
+Q: El asistente inteligente de velocidad (ISA) obligatorio por el Reglamento (UE) 2019/2144:
+A: Frena el coche al superar el límite
+B: Avisa al conductor cuando supera el límite de velocidad
+C: Bloquea el acelerador permanentemente
+OK: B
+WHY: El ISA informa mediante señales en el salpicadero o vibración del pedal; no impone la velocidad.
+TRAP: "Inteligente" sugiere que actúa solo; en realidad avisa.
+MEMO: ISA = aviso, no freno.
+SEC: 2.6
+REF: Reglamento (UE) 2019/2144
+---
+Q: ¿Desde cuándo son obligatorios los sistemas del Reglamento (UE) 2019/2144 en TODOS los vehículos nuevos matriculados?
+A: Julio de 2022
+B: Julio de 2024
+C: Enero de 2026
+OK: B
+WHY: Obligatorios en nuevas homologaciones de tipo desde julio de 2022 y en todos los vehículos nuevos matriculados desde julio de 2024.
+TRAP: 2022 es la fecha de los nuevos tipos, no de todas las matriculaciones.
+MEMO: Tipos nuevos 2022 → todos los nuevos 2024.
+SEC: 2.6
+REF: Reglamento (UE) 2019/2144
+---
+Q: ¿Desde qué año es obligatorio el ESP en todos los turismos de nueva matriculación en la UE?
+A: 2011
+B: 2014
+C: 2018
+OK: B
+WHY: El Reglamento (CE) 661/2009 lo exigió en nuevos tipos desde 2011 y en todos los matriculados desde 2014.
+TRAP: 2018 es el año del eCall.
+MEMO: ESP 2011/2014 · eCall 2018.
+SEC: 2.6
+REF: Reglamento (CE) 661/2009
+---
+Q: ¿A qué nivel de seguridad pertenece el corte automático de combustible tras un impacto?
+A: Activa
+B: Pasiva
+C: Terciaria
+OK: C
+WHY: Actúa después del accidente para evitar riesgos añadidos como el incendio: es seguridad terciaria.
+TRAP: Se activa con el impacto, pero su función es posterior.
+MEMO: Después del golpe = terciaria.
+SEC: 2.5
+REF: Elaboración propia sobre el temario
+---
+Q: ¿Cómo se denomina también la seguridad pasiva en la clasificación por niveles?
+A: Primaria
+B: Secundaria
+C: Terciaria
+OK: B
+WHY: Activa = primaria; pasiva = secundaria; post-colisión = terciaria.
+TRAP: Asociar "pasiva" con "terciaria" por actuar tras el impacto.
+MEMO: 1.º evitar, 2.º proteger, 3.º rescatar.
+SEC: 2.5
+REF: Elaboración propia sobre el temario
+---
+Q: Se instala una silla infantil a contramarcha en el asiento del copiloto. ¿Qué es obligatorio?
+A: Mantener el airbag frontal activado
+B: Desactivar el airbag frontal de ese asiento
+C: Retirar el reposacabezas
+OK: B
+WHY: El airbag frontal golpearía el respaldo de la silla a contramarcha; debe desactivarse.
+TRAP: Pensar que más airbag protege más.
+MEMO: Contramarcha delante = airbag OFF.
+SEC: 2.7
+REF: RGC (sistemas de retención infantil)
+---
+Q: El testigo del ABS se queda encendido fijo durante la marcha. ¿Qué significa?
+A: El ABS está actuando
+B: Hay una avería del ABS; los frenos convencionales siguen funcionando sin antibloqueo
+C: Los frenos han dejado de funcionar por completo
+OK: B
+WHY: El testigo fijo indica avería del sistema antibloqueo; el frenado convencional se mantiene.
+TRAP: Un testigo de ESP parpadeante sí indica intervención; el de ABS fijo, avería.
+MEMO: Fijo = avería. Parpadeo de ESP = trabajando.
+SEC: 2.8
+REF: Elaboración propia sobre el temario
+---
+Q: El testigo del ESP parpadea en una curva con lluvia. ¿Qué indica normalmente?
+A: Avería grave: hay que detenerse
+B: El sistema está interviniendo para corregir la trayectoria
+C: El ESP se ha desconectado
+OK: B
+WHY: El parpadeo del ESP durante la marcha indica, con carácter general, que el sistema está actuando.
+TRAP: Confundirlo con un aviso de avería.
+MEMO: ESP que parpadea = te está ayudando: levanta el pie.
+SEC: 2.8
+REF: Elaboración propia sobre el temario
+---
+Q: ¿Qué función tiene el limitador de fuerza del cinturón?
+A: Tensar más el cinturón en el impacto
+B: Evitar que el propio cinturón cause lesiones torácicas
+C: Bloquear el cinturón tras cualquier frenada
+OK: B
+WHY: El pretensor retrae el cinturón; el limitador de fuerza libera tensión controladamente para no lesionar el tórax.
+TRAP: Pretensor y limitador hacen funciones opuestas y complementarias.
+MEMO: Pretensor aprieta; limitador afloja lo justo.
+SEC: 2.3
+REF: Elaboración propia sobre el temario
+---
+Q: ¿Qué protege el airbag de cortina?
+A: Las rodillas en impacto frontal
+B: La cabeza de los ocupantes en impacto lateral o vuelco
+C: Al peatón atropellado
+OK: B
+WHY: Los airbags de cortina protegen la cabeza en impactos laterales y vuelcos.
+TRAP: El airbag de rodilla y el peatonal son otros tipos.
+MEMO: Cortina = ventanilla = cabeza.
+SEC: 2.7
+REF: Elaboración propia sobre el temario
+---
+Q: El detector de somnolencia (DDR) exigido por el Reglamento (UE) 2019/2144 se basa principalmente en:
+A: Un análisis de sangre
+B: La información del volante y una cámara que vigila la trayectoria en el carril
+C: Un test periódico de alcoholemia
+OK: B
+WHY: Analiza los movimientos del volante y la trayectoria en el carril para detectar patrones de fatiga.
+TRAP: El alcolock es otro sistema (interfaz de antiarranque).
+MEMO: DDR mira cómo conduces, no a ti.
+SEC: 2.6
+REF: Reglamento (UE) 2019/2144
+---
+Q: ¿Qué registra el EDR o "caja negra" del vehículo?
+A: Conversaciones del habitáculo
+B: Parámetros como velocidad y frenada antes y después de un accidente
+C: Solo los datos que el conductor activa manualmente
+OK: B
+WHY: El EDR registra datos técnicos en los segundos previos y posteriores a un accidente.
+TRAP: No sustituye al atestado policial.
+MEMO: EDR = memoria del choque.
+SEC: 2.6
+REF: Reglamento (UE) 2019/2144
+---
+Q: Un coche de 2019 no lleva AEB. ¿Es ilegal circular con él?
+A: Sí, debe instalarse en taller
+B: No: los vehículos homologados antes de la obligación no están obligados a incorporarlo
+C: Solo puede circular en ciudad
+OK: B
+WHY: Las nuevas obligaciones se aplican a nuevas homologaciones y matriculaciones, no a vehículos anteriores.
+TRAP: Pensar que la norma es retroactiva.
+MEMO: La norma de equipamiento mira hacia delante.
+SEC: 2.6
+REF: Reglamento (UE) 2019/2144
+---
+Q: ¿Por qué el parabrisas laminado es un elemento de seguridad pasiva?
+A: Porque mejora la aerodinámica
+B: Porque no se fragmenta en trozos cortantes y ayuda a mantener la integridad del habitáculo
+C: Porque evita deslumbramientos
+OK: B
+WHY: Sus capas evitan fragmentos cortantes y contribuyen a la rigidez en colisiones y vuelcos.
+TRAP: La mejora de visibilidad no es su función de seguridad principal.
+MEMO: Laminado = se raja, no estalla.
+SEC: 2.3
+REF: Elaboración propia sobre el temario
+---
+Q: ¿Qué elemento de seguridad pasiva es el más determinante para reducir muertes y lesiones graves?
+A: El airbag frontal
+B: El cinturón de seguridad
+C: El reposacabezas
+OK: B
+WHY: El cinturón es, con diferencia, el elemento pasivo más eficaz; el airbag está diseñado para complementarlo.
+TRAP: El airbag es más llamativo, pero depende del cinturón.
+MEMO: Sin cinturón, nada funciona bien.
+SEC: 2.3
+REF: Elaboración propia sobre el temario
+---
+Q: ¿Qué sistema ADAS mantiene automáticamente la distancia con el vehículo de delante?
+A: Control de crucero adaptativo
+B: LDW
+C: ISA
+OK: A
+WHY: El crucero adaptativo regula la velocidad para mantener la distancia con el vehículo precedente.
+TRAP: El LDW avisa de salida de carril; el ISA informa del límite de velocidad.
+MEMO: Adaptativo = se adapta al de delante.
+SEC: 2.2
+REF: Elaboración propia sobre el temario
+---
+Q: ¿Para qué sirve el encendido automático de los warnings tras una frenada muy brusca?
+A: Para avisar de una avería del motor
+B: Para prevenir alcances de los vehículos que siguen
+C: Para sustituir a las luces de posición
+OK: B
+WHY: Advierte a los que circulan detrás y reduce el riesgo de colisiones secundarias.
+TRAP: No es un aviso para el propio conductor.
+MEMO: Warnings automáticos = protege tu parte trasera.
+SEC: 2.5
+REF: Elaboración propia sobre el temario
+---
+Q: ¿Cuál es la función del reposacabezas y de qué depende su eficacia?
+A: Comodidad; de su material
+B: Prevenir el latigazo cervical; de su correcta regulación en altura y distancia
+C: Proteger en impactos frontales; de su color
+OK: B
+WHY: Evita el latigazo en alcances traseros, siempre que esté bien regulado respecto a la cabeza.
+TRAP: Un reposacabezas mal ajustado apenas protege.
+MEMO: Reposacabezas: a la altura de la cabeza y cerca de ella.
+SEC: 2.3
+REF: Elaboración propia sobre el temario
+---
+Q: Unos neumáticos con poca presión, ¿cómo afectan a la seguridad activa?
+A: No afectan si el coche tiene ABS y ESP
+B: Reducen la adherencia de la que dependen el ABS y el ESP
+C: Solo afectan al consumo
+OK: B
+WHY: Los sistemas electrónicos dependen de la adherencia real que los neumáticos transmiten al asfalto.
+TRAP: La electrónica no compensa un neumático en mal estado.
+MEMO: La electrónica manda; el neumático ejecuta.
+SEC: 2.8
+REF: Elaboración propia sobre el temario
+---
+Q: Un vehículo eléctrico sufre un impacto grave. ¿Qué sistema terciario reduce el riesgo de electrocución?
+A: El ESP
+B: La desconexión automática de la batería de alta tensión
+C: El pretensor
+OK: B
+WHY: Tras un impacto grave, la batería de alta tensión se desconecta para evitar electrocuciones e incendios.
+TRAP: Es una medida posterior al impacto, no de prevención.
+MEMO: Eléctrico golpeado = alta tensión desconectada.
+SEC: 2.5
+REF: Elaboración propia sobre el temario
+---
+Q: ¿Qué afirmación sobre los ADAS es correcta?
+A: Al ser obligatorios, no pueden fallar
+B: Son ayudas basadas en sensores que pueden fallar; el conductor sigue siendo responsable
+C: Convierten el coche en autónomo de nivel 5
+OK: B
+WHY: Son sistemas de asistencia con limitaciones; la responsabilidad sigue siendo del conductor.
+TRAP: "Obligatorio" no significa "infalible".
+MEMO: Ayuda ≠ piloto automático.
+SEC: 2.4
+REF: Elaboración propia sobre el temario

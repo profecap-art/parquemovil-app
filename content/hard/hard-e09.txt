@@ -1,0 +1,241 @@
+Q: Un conductor con 1 año de permiso da 0,20 mg/l en aire espirado en un control. ¿Qué situación es?
+A: Correcta, porque no llega a 0,25 mg/l
+B: Infracción administrativa, porque supera su límite de 0,15 mg/l
+C: Delito automático
+OK: B
+WHY: Para noveles (menos de 2 años) el límite es 0,15 mg/l; 0,20 lo supera, pero está muy lejos del umbral delictivo de 0,60.
+TRAP: Aplicarle la tasa general de 0,25.
+MEMO: Novel y profesional: 0,15.
+SEC: 2.4
+REF: Normativa de tráfico (tasas) según material del curso
+---
+Q: Un conductor profesional del PME, de servicio con un vehículo oficial, da 0,22 mg/l. Lleva 20 años con permiso. ¿Qué límite le aplica?
+A: 0,25 mg/l, por su antigüedad
+B: 0,15 mg/l, por ser conductor profesional
+C: 0,60 mg/l
+OK: B
+WHY: El límite de 0,15 mg/l se aplica a conductores profesionales con independencia de la antigüedad del permiso.
+TRAP: Pensar que la experiencia "sube" la tasa.
+MEMO: Profesional = 0,15 aunque tenga 30 años de carné.
+SEC: 2.4
+REF: Normativa de tráfico (tasas)
+---
+Q: Un conductor da 0,45 mg/l, circula en zigzag, habla con dificultad y no se tiene en pie. ¿Puede ser delito?
+A: No, porque no llega a 0,60 mg/l
+B: Sí, si se acredita la afectación de sus facultades (conducción bajo la influencia)
+C: Solo si causa un accidente
+OK: B
+WHY: Por debajo de 0,60 puede haber delito del 379.2 si se prueba la afectación.
+TRAP: Creer que por debajo de 0,60 nunca es delito.
+MEMO: 0,60 es "delito seguro", no "delito mínimo".
+SEC: 2.4
+REF: Art. 379.2 CP
+---
+Q: Un conductor da 0,62 mg/l y no muestra ningún síntoma externo. ¿Qué ocurre?
+A: Es solo infracción administrativa porque no hay síntomas
+B: Es delito del art. 379.2 CP con independencia de los síntomas
+C: Hay que repetir la prueba al día siguiente
+OK: B
+WHY: A partir de 0,60 mg/l en aire (1,2 g/l en sangre) el delito es automático.
+TRAP: Exigir síntomas por encima del umbral.
+MEMO: Más de 0,60: delito sin más.
+SEC: 2.4
+REF: Art. 379.2 CP
+---
+Q: Un conductor se niega a soplar porque "no ha bebido nada". ¿Cuál es la consecuencia?
+A: Ninguna, si después demuestra que no bebió
+B: Comete el delito del art. 383 CP, con independencia de si había bebido
+C: Solo una multa por no colaborar
+OK: B
+WHY: La negativa ante el requerimiento de un agente es un delito autónomo.
+TRAP: Pensar que la negativa solo importa si iba bebido.
+MEMO: Negarse ya es el delito.
+SEC: 2.5
+REF: Art. 383 CP
+---
+Q: Por una autovía limitada a 120 km/h un radar capta a un turismo a 195 km/h. ¿Es delito del art. 379.1 CP?
+A: Sí, porque supera el límite en más de 60 km/h
+B: No, porque en vía interurbana el delito exige superar el límite en más de 80 km/h (más de 200 km/h aquí)
+C: Sí, siempre que supere 180 km/h
+OK: B
+WHY: En vía interurbana el umbral es +80 km/h: 120 + 80 = 200. A 195 es infracción administrativa muy grave, no delito.
+TRAP: Aplicar el umbral urbano (+60).
+MEMO: Urbana +60, interurbana +80.
+SEC: 2.3
+REF: Art. 379.1 CP
+---
+Q: En una calle limitada a 30 km/h un conductor circula a 95 km/h. ¿Es delito?
+A: No, porque no llega a 110 km/h
+B: Sí, porque supera el límite en más de 60 km/h en vía urbana
+C: Solo si atropella a alguien
+OK: B
+WHY: 95 − 30 = 65 km/h de exceso, superior a 60 en vía urbana.
+TRAP: Pensar en una velocidad absoluta en lugar de en el exceso.
+MEMO: Se mide el exceso sobre el límite del punto.
+SEC: 2.3
+REF: Art. 379.1 CP
+---
+Q: Un conductor atropella a un peatón por despiste (imprudencia) y huye sin auxiliarle ni llamar a nadie. ¿Qué pena prevé el art. 195.3 CP por la omisión?
+A: Multa de 3 a 12 meses
+B: Prisión de 6 meses a 18 meses
+C: Prisión de 6 meses a 4 años
+OK: C
+WHY: Si el accidente se debe a imprudencia del que omite el auxilio, la pena es prisión de 6 meses a 4 años.
+TRAP: Confundir con el supuesto fortuito (6-18 meses).
+MEMO: Lo causé por imprudencia y huí: hasta 4 años.
+SEC: 2.2
+REF: Art. 195.3 CP
+---
+Q: Un conductor que pasa por el lugar ve a un herido grave, no se detiene y tampoco avisa al 112, pudiendo hacerlo sin riesgo. ¿Qué tipo se le aplicaría?
+A: Ninguno, porque no causó el accidente
+B: Tipo básico de omisión del deber de socorro: multa de 3 a 12 meses
+C: Tipo agravado del 195.3
+OK: B
+WHY: El tipo básico se aplica a cualquiera que no socorra pudiendo hacerlo sin riesgo; el agravado solo a quien causó el accidente.
+TRAP: Pensar que solo responde el causante.
+MEMO: Cualquiera: multa. Causante: prisión.
+SEC: 2.2
+REF: Art. 195 CP
+---
+Q: Un conductor no sabe primeros auxilios y no se atreve a tocar al herido, pero llama inmediatamente al 112 y señaliza. ¿Comete omisión del deber de socorro?
+A: Sí, porque no auxilió personalmente
+B: No: reclamar con urgencia auxilio ajeno cumple el deber cuando no puede auxiliarse directamente
+C: Sí, salvo que sea médico
+OK: B
+WHY: El art. 195.2 castiga a quien, impedido de auxiliar, no reclama auxilio ajeno; llamar al 112 cumple ese deber.
+TRAP: Creer que el deber exige siempre intervención física.
+MEMO: Si no puedes ayudar, llama: eso también es socorrer.
+SEC: 2.2
+REF: Art. 195 CP
+---
+Q: Hay un herido grave inconsciente dentro de un coche y empieza a salir humo del motor. ¿Qué debe hacerse?
+A: No moverlo nunca, pase lo que pase
+B: Sacarlo con el mayor cuidado posible, porque hay riesgo inminente de incendio
+C: Esperar a los bomberos sin hacer nada
+OK: B
+WHY: La regla de no mover a heridos graves cede ante un riesgo inminente (incendio, explosión, atropello).
+TRAP: Aplicar la regla general de forma absoluta.
+MEMO: No mover… salvo que el peligro sea mayor.
+SEC: 2.1
+REF: Tema 9
+---
+Q: Un conductor sigue conduciendo después de que un juez le haya privado cautelarmente del permiso. ¿Qué delito comete?
+A: El del art. 384 CP
+B: El del art. 383 CP
+C: Ninguno, si conduce bien
+OK: A
+WHY: Conducir tras privación cautelar o definitiva por decisión judicial es uno de los supuestos del 384.
+TRAP: Confundir el 383 (negativa a pruebas) con el 384 (sin permiso).
+MEMO: 383 no sopla; 384 no tiene carné.
+SEC: 2.3
+REF: Art. 384 CP
+---
+Q: Un joven conduce un turismo sin haber obtenido nunca el permiso, sin causar ningún peligro. ¿Puede ser delito?
+A: No, si no hay peligro
+B: Sí, es uno de los supuestos alternativos del art. 384 CP
+C: Solo una infracción administrativa
+OK: B
+WHY: Basta con uno de los tres supuestos del 384; no exige peligro concreto.
+TRAP: Exigir un resultado o peligro.
+MEMO: Sin carné nunca obtenido: 384.
+SEC: 2.3
+REF: Art. 384 CP
+---
+Q: Un conductor conduce a gran velocidad en sentido contrario por una autovía, poniendo en concreto peligro a otros, con manifiesto desprecio por su vida. ¿Qué artículo y qué pena de prisión?
+A: Art. 380, prisión de 6 meses a 2 años
+B: Art. 381.1, prisión de 2 a 5 años
+C: Art. 379, prisión de 3 a 6 meses
+OK: B
+WHY: El desprecio manifiesto por la vida de los demás con concreto peligro es el tipo agravado del 381.1.
+TRAP: Quedarse en la temeridad simple del 380.
+MEMO: Desprecio por la vida: 381, de 2 a 5.
+SEC: 2.3
+REF: Art. 381 CP
+---
+Q: Como consecuencia de una conducción temeraria (art. 380) se causan lesiones graves a un peatón. Según el art. 382 CP:
+A: Se suman sin límite las penas de los dos delitos
+B: Se aprecia solo la infracción más gravemente penada, en su mitad superior, más la responsabilidad civil
+C: Solo se castiga la temeridad
+OK: B
+WHY: El art. 382 establece la regla de la infracción más grave en su mitad superior y la condena a la responsabilidad civil.
+TRAP: Pensar en la acumulación aritmética.
+MEMO: 382: la peor, en su mitad alta, y pagar daños.
+SEC: 2.3
+REF: Art. 382 CP
+---
+Q: ¿En cuál de estos delitos puede el juez rebajar en un grado la pena de prisión por la menor entidad del riesgo (art. 385 ter)?
+A: Conducción temeraria (art. 380)
+B: Manifiesto desprecio por la vida (art. 381)
+C: Conducción sin permiso (art. 384)
+OK: C
+WHY: El 385 ter se aplica a los arts. 379, 383, 384 y 385; no a los de temeridad.
+TRAP: Pensar que se aplica a todos los delitos viales.
+MEMO: Rebaja posible: 379, 383, 384, 385. Nunca la temeridad.
+SEC: 2.3
+REF: Art. 385 ter CP
+---
+Q: Una persona derrama aceite intencionadamente en una curva para que derrapen los vehículos. ¿Qué artículo se aplica?
+A: Art. 385 CP (creación de grave riesgo para la circulación)
+B: Art. 380 CP
+C: Art. 195 CP
+OK: A
+WHY: Derramar sustancias deslizantes para crear un grave riesgo es una conducta del art. 385.
+TRAP: Pensar que solo pueden cometer delitos viales los conductores.
+MEMO: 385: el que sabotea la carretera.
+SEC: 2.3
+REF: Art. 385 CP
+---
+Q: Tras un control de drogas, la prueba de saliva da positivo en cannabis. El conductor dice que fumó hace días y se encuentra perfectamente. ¿Qué puede hacer?
+A: Nada; el positivo es definitivo
+B: Solicitar una prueba de contraste mediante análisis de sangre
+C: Exigir que le repitan la saliva hasta que salga negativo
+OK: B
+WHY: Ante un positivo, el conductor puede pedir contraste por análisis de sangre en un centro sanitario; además, la muestra se analiza en laboratorio.
+TRAP: Pensar que no hay garantías.
+MEMO: Positivo en saliva → contraste en sangre.
+SEC: 2.5
+REF: Tema 9 (procedimiento del control)
+---
+Q: Para las drogas, ¿existe una "tasa permitida" como en el alcohol?
+A: Sí, 0,25 mg/l
+B: Sí, la misma que para noveles
+C: No: cualquier positivo puede ser sancionado administrativamente
+OK: C
+WHY: En drogas no hay umbral permitido; con afectación acreditada, además, vía penal.
+TRAP: Trasladar el sistema de tasas del alcohol a las drogas.
+MEMO: Drogas: tolerancia cero.
+SEC: 2.5
+REF: Tema 9
+---
+Q: Un conductor implicado en un accidente leve, sin heridos, cree que la culpa es del otro y se marcha sin dar sus datos. ¿Ha actuado bien?
+A: Sí, porque no es responsable
+B: No: facilitar los datos es obligación de todo implicado, sea o no responsable
+C: Sí, si no hay heridos
+OK: B
+WHY: Las obligaciones tras el accidente existen con independencia de la responsabilidad.
+TRAP: Vincular las obligaciones a la culpa.
+MEMO: Implicado = datos, culpable o no.
+SEC: 2.1
+REF: Tema 9
+---
+Q: ¿Qué diferencia de naturaleza hay entre el delito del art. 379 y el del art. 380 CP?
+A: Ninguna
+B: El 379 es de peligro abstracto; el 380 exige un peligro concreto para la vida o integridad
+C: El 379 exige lesiones
+OK: B
+WHY: El 379 se consuma con la conducta (velocidad, alcohol); el 380 exige acreditar un concreto peligro.
+TRAP: Pensar que todos los delitos viales exigen peligro concreto.
+MEMO: 379 abstracto; 380 concreto.
+SEC: 2.3
+REF: Código Penal; doctrina
+---
+Q: ¿Cuál de estas penas corresponde al delito de negativa a las pruebas (art. 383 CP)?
+A: Prisión de 6 meses a 1 año y privación del permiso de más de 1 y hasta 4 años
+B: Prisión de 2 a 5 años
+C: Multa de 3 a 12 meses únicamente
+OK: A
+WHY: Son las penas del art. 383 recogidas en el material del curso.
+TRAP: Confundir con el 381.1 o con el 195.1.
+MEMO: No soplar: medio año a un año.
+SEC: 2.3
+REF: Art. 383 CP

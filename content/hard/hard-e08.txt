@@ -1,0 +1,219 @@
+Q: En una intersección hay una señal de STOP y un semáforo en verde para usted. No hay agente. ¿Qué debe hacer?
+A: Detenerse obligatoriamente por el STOP
+B: Pasar, porque el semáforo prevalece sobre la señal vertical
+C: Detenerse y después ceder a la derecha
+OK: B
+WHY: En la jerarquía, el semáforo está por encima de las señales verticales.
+TRAP: Pensar que el STOP es "la señal más fuerte".
+MEMO: Luz manda sobre chapa.
+SEC: 2.5
+REF: RD 1428/2003 (RGC), orden de prioridad
+---
+Q: Un semáforo está en verde, pero un agente le hace la señal de detenerse. ¿Qué hace?
+A: Pasar, porque el semáforo está en verde
+B: Detenerse: la indicación del agente prevalece
+C: Pasar despacio y avisar con el claxon
+OK: B
+WHY: El agente está en lo más alto de la jerarquía.
+TRAP: El verde no da derecho frente a un agente.
+MEMO: Persona > luz > chapa > pintura.
+SEC: 2.5
+REF: RD 1428/2003 (RGC)
+---
+Q: En una obra, un señalista con paleta muestra "STOP" y el semáforo provisional está en verde. ¿Qué prevalece?
+A: El semáforo provisional, por ser señalización circunstancial
+B: La paleta del señalista, que equivale a un agente a estos efectos
+C: Ninguno: se aplica la prioridad a la derecha
+OK: B
+WHY: Quien regula manualmente el tráfico se sitúa en el primer nivel de la jerarquía.
+TRAP: Pensar que un operario "no es autoridad".
+MEMO: Paleta en mano = agente.
+SEC: 2.5
+REF: Tema 8
+---
+Q: Una línea continua pintada en la calzada prohíbe adelantar, pero una señal vertical de obras amarilla indica "fin de prohibición de adelantar". ¿Qué prevalece?
+A: La línea continua
+B: La señalización circunstancial de obras
+C: Se anulan entre sí
+OK: B
+WHY: La señalización circunstancial está por encima de la vertical y de las marcas viales.
+TRAP: Pensar que la marca vial es más "permanente" y por tanto prevalece.
+MEMO: Pintura es lo último.
+SEC: 2.5
+REF: RD 1428/2003 (RGC)
+---
+Q: En el mismo tramo hay una señal de velocidad máxima 90 y, más adelante, otra de 70, sin señal de fin. ¿Qué rige desde la segunda?
+A: 90, porque es la primera
+B: 70, la más restrictiva
+C: 80, el promedio
+OK: B
+WHY: Entre señales del mismo nivel que se contradicen, prevalece la más restrictiva salvo derogación expresa.
+TRAP: Creer que la primera señal "manda" hasta que haya un fin.
+MEMO: Duda entre dos: la más estricta.
+SEC: 2.5
+REF: Tema 8
+---
+Q: Una señal circular con fondo azul y una bicicleta blanca significa:
+A: Prohibido circular en bicicleta
+B: Vía reservada para ciclos (obligación)
+C: Peligro: ciclistas
+OK: B
+WHY: Círculo azul con pictograma blanco = obligación; R-407 es vía reservada para ciclos.
+TRAP: Confundir con la prohibición (borde rojo) o el peligro (triángulo).
+MEMO: Azul obliga, rojo prohíbe, triángulo avisa.
+SEC: 2.2
+REF: Catálogo oficial de señales
+---
+Q: ¿Cuál de estas señales tiene forma de triángulo pero NO es de peligro?
+A: La R-1, ceda el paso, con el vértice hacia abajo
+B: La P-20, peatones
+C: La P-13, curva
+OK: A
+WHY: La R-1 es un triángulo invertido de la serie de prioridad; las de peligro tienen el vértice hacia arriba.
+TRAP: Clasificar por "triángulo" sin mirar la orientación.
+MEMO: Vértice abajo, cede; vértice arriba, peligro.
+SEC: 2.2
+REF: Catálogo oficial de señales
+---
+Q: Una señal R-305 con un panel complementario que muestra un camión significa:
+A: Prohibido adelantar a camiones
+B: La prohibición de adelantar se aplica solo a los camiones (aplicación selectiva)
+C: Obligación de adelantar a los camiones
+OK: B
+WHY: El panel de aplicación selectiva limita la señal a un tipo de vehículo.
+TRAP: Interpretar el pictograma del panel como objeto de la prohibición.
+MEMO: Panel con vehículo = la señal es para él.
+SEC: 2.7
+REF: Catálogo oficial de señales (paneles complementarios)
+---
+Q: Un panel rectangular con "500 m" bajo una señal de peligro por obras indica:
+A: Que la obra mide 500 m
+B: Que el peligro está a 500 m de la señal
+C: Que la velocidad máxima es 500
+OK: B
+WHY: Bajo una señal de peligro, el panel de distancia indica a qué distancia está el peligro; la longitud del tramo se indica con un panel de extensión.
+TRAP: Confundir panel de distancia con panel de extensión.
+MEMO: "A 500 m" = distancia; "en 500 m" = extensión.
+SEC: 2.7
+REF: Catálogo oficial de señales (paneles complementarios)
+---
+Q: Bajo una señal de limitación de velocidad aparece un panel con un copo de nieve. ¿Cuándo rige la limitación?
+A: Siempre
+B: Solo cuando existan las condiciones meteorológicas indicadas
+C: Solo en invierno, de diciembre a marzo
+OK: B
+WHY: El panel de condiciones meteorológicas condiciona la vigencia de la señal.
+TRAP: Pensar que el panel es decorativo o estacional.
+MEMO: El panel pone la condición.
+SEC: 2.7
+REF: Catálogo oficial de señales (paneles complementarios)
+---
+Q: Un panel complementario aparece solo, sin señal principal, por haberse caído la señal. ¿Qué valor tiene?
+A: El mismo que si estuviera la señal
+B: Ninguno propio: su función es matizar la señal principal
+C: Se interpreta como STOP
+OK: B
+WHY: El panel carece de significado independiente.
+TRAP: Darle valor autónomo.
+MEMO: Panel sin señal, nada.
+SEC: 2.7
+REF: Catálogo oficial de señales
+---
+Q: ¿Qué norma aprobó la actualización del catálogo de señales en vigor desde el 1 de julio de 2025, según el material del curso?
+A: El RD 1428/2003
+B: El RD 465/2025
+C: El RD 518/2026
+OK: B
+WHY: El RD 465/2025, de 10 de junio, modificó el RGC en materia de señalización; el RD 518/2026 es otra reforma (usuarios vulnerables, 2026).
+TRAP: Confundir las dos reformas recientes del RGC.
+MEMO: 465 = señales (2025); 518 = vulnerables (2026).
+SEC: 2.6
+REF: RD 465/2025 según material del curso; verificar en BOE
+---
+Q: ¿Qué diferencia de fechas es correcta en la reforma de señales de 2025?
+A: Aprobada el 1 de julio y en vigor el 10 de junio
+B: Aprobada el 10 de junio y en vigor el 1 de julio
+C: Aprobada y en vigor el mismo día
+OK: B
+WHY: Aprobación: 10/06/2025; entrada en vigor: 01/07/2025.
+TRAP: Invertir las fechas.
+MEMO: Junio se aprueba, julio se aplica.
+SEC: 2.6
+REF: RD 465/2025 según material del curso
+---
+Q: Tras la reforma de 2025, en una carretera conviven una señal con pictograma antiguo y otra con el nuevo, ambas con el mismo significado. ¿Es válida la antigua?
+A: No, quedó anulada el 1 de julio de 2025
+B: Las señales obsoletas debían retirarse en un plazo, con sustitución progresiva; el significado no cambia por el diseño
+C: Solo es válida de noche
+OK: B
+WHY: Se previó un plazo de retirada y una sustitución progresiva; el rediseño no cambia el significado.
+TRAP: Pensar que todo cambió de golpe.
+MEMO: Cambia el dibujo, no la norma.
+SEC: 2.6
+REF: Material del curso; verificar
+---
+Q: ¿Cuál de estas señales es de prohibición y NO de obligación?
+A: R-400 sentido obligatorio
+B: R-307 parada y estacionamiento prohibidos
+C: R-412 cadenas
+OK: B
+WHY: La serie R-3xx corresponde a prohibiciones; R-4xx a obligaciones.
+TRAP: No conocer la lógica de la numeración.
+MEMO: R-1 prioridad, R-100/200/300 prohibición, R-400 obligación.
+SEC: 2.2
+REF: Catálogo oficial de señales
+---
+Q: Una señal de obras de fondo amarillo limita a 40 km/h y una señal fija de fondo blanco a 80 km/h en el mismo punto. ¿Qué límite rige?
+A: 80 km/h
+B: 40 km/h, porque la señalización de obras es circunstancial y prevalece
+C: 60 km/h
+OK: B
+WHY: La señalización circunstancial prevalece sobre la fija mientras dura la obra.
+TRAP: Aplicar el criterio de "la más reciente" sin pensar en la jerarquía.
+MEMO: Amarillo manda mientras haya obra.
+SEC: 2.5
+REF: RD 1428/2003 (RGC)
+---
+Q: Usted ve a lo lejos una señal cuadrada azul con un símbolo blanco. Sin distinguir el símbolo, ¿qué tipo de mensaje espera?
+A: Una prohibición
+B: Una información o indicación (serie S)
+C: Un peligro
+OK: B
+WHY: Forma cuadrada/rectangular y fondo azul = indicación.
+TRAP: Asociar "azul" siempre a obligación; la obligación es circular.
+MEMO: Azul redondo obliga; azul cuadrado informa.
+SEC: 2.3
+REF: Catálogo oficial de señales
+---
+Q: ¿Qué figura en el primer nivel de la jerarquía de señalización junto a los agentes de tráfico?
+A: Los semáforos de obra
+B: Quien regula manualmente el tráfico (por ejemplo, un señalista en una obra)
+C: Las marcas viales amarillas
+OK: B
+WHY: El primer nivel corresponde a quien regula el tráfico de forma manual; los semáforos de obra son señalización circunstancial (segundo nivel).
+TRAP: Confundir "circunstancial" con "agente".
+MEMO: Lo humano va primero.
+SEC: 2.5
+REF: Tema 8
+---
+Q: Bajo una señal de entrada prohibida aparece el panel "excepto servicio público". Usted conduce un vehículo oficial del PME, no de servicio público. ¿Puede entrar?
+A: Sí, porque es un vehículo oficial
+B: No, salvo que esté incluido en la excepción del panel
+C: Sí, si va en servicio urgente sin señales especiales
+OK: B
+WHY: El panel de aplicación selectiva solo excluye a quien se indica; ser vehículo oficial no exime por sí mismo.
+TRAP: Pensar que el vehículo oficial tiene privilegio general.
+MEMO: La excepción es la que dice el panel, ni una más.
+SEC: 2.7
+REF: Catálogo oficial de señales (paneles complementarios)
+---
+Q: El octógono rojo se reserva para:
+A: Cualquier prohibición grave
+B: Exclusivamente el STOP (R-2)
+C: El ceda el paso
+OK: B
+WHY: La forma octogonal es exclusiva del STOP, para reconocerlo incluso por detrás o cubierto de nieve.
+TRAP: Confundir R-1 y R-2.
+MEMO: Ocho lados, parar del todo.
+SEC: 2.2
+REF: Catálogo oficial de señales

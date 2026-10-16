@@ -1,0 +1,296 @@
+Q: En una vía con dos carriles por sentido y una larga retención, un conductor va por el carril izquierdo. ¿Hacia dónde debe orillarse para formar el carril de emergencia?
+A: Hacia la derecha, junto al otro carril
+B: Hacia la izquierda, dejando libre el centro de la vía
+C: Hacia el arcén derecho, cruzando el carril derecho
+OK: B
+WHY: Con dos carriles el pasillo se forma en el centro: el carril izquierdo se orilla a la izquierda y el derecho a la derecha.
+TRAP: Pensar que todos deben apartarse a la derecha "como siempre" bloquea precisamente el centro.
+MEMO: Dos carriles: cada uno a su lado, el hueco en medio.
+SEC: 2.5
+REF: Reforma RGC (RD 518/2026) según material del curso
+---
+Q: En una autovía de tres carriles por sentido, durante una retención, el conductor del carril central debe:
+A: Orillarse hacia la derecha, porque el pasillo queda entre el carril izquierdo y el central
+B: Quedarse en el centro exacto de su carril
+C: Orillarse hacia la izquierda, igual que el carril izquierdo
+OK: A
+WHY: Con tres o más carriles el pasillo se abre entre el carril más a la izquierda y su contiguo; el central se aparta a la derecha.
+TRAP: Aplicar la regla de dos carriles ("el hueco en medio") a una vía de tres.
+MEMO: Tres o más: el hueco detrás del carril izquierdo.
+SEC: 2.5
+REF: Reforma RGC (RD 518/2026) según material del curso
+---
+Q: ¿En cuál de estas situaciones NO es exigible formar el carril de emergencia según la regla estudiada?
+A: Retención en autovía con vehículos detenidos
+B: Niebla intensa que afecta a la circulación en autopista
+C: Atasco en una avenida urbana de dos carriles por sentido
+OK: C
+WHY: La obligación se refiere a autopistas y autovías; no a vías urbanas.
+TRAP: Creer que cualquier vía con varios carriles exige el pasillo.
+MEMO: Carril de emergencia = autopista y autovía.
+SEC: 2.5
+REF: Reforma RGC (RD 518/2026) según material del curso
+---
+Q: Un motorista se encuentra en una autovía congestionada. Ve un arcén amplio sin señalización especial. ¿Puede circular por él a 25 km/h?
+A: Sí, porque no supera los 30 km/h
+B: No, porque el uso extraordinario solo se permite en tramos previamente habilitados y señalizados
+C: Sí, siempre que lleve el intermitente derecho encendido
+OK: B
+WHY: Las dos condiciones son acumulativas: tramo habilitado y señalizado, y velocidad máxima de 30 km/h.
+TRAP: Quedarse solo con la cifra de 30 km/h y olvidar el requisito del tramo habilitado.
+MEMO: Arcén moto = tramo señalizado + 30 como máximo.
+SEC: 2.4
+REF: Reforma RGC (RD 518/2026) según material del curso
+---
+Q: Un tractor (vehículo especial) de 5.000 kg circula por una carretera con arcén transitable. Según la regla general estudiada:
+A: Está obligado a circular por el arcén
+B: Tiene prohibido circular por esa carretera
+C: No está incluido en la obligación general de circular por el arcén, que alcanza a los vehículos especiales de hasta 3.500 kg
+OK: C
+WHY: La obligación de circular por el arcén alcanza a vehículos especiales de masa igual o inferior a 3.500 kg.
+TRAP: Pensar que todo vehículo lento debe ir por el arcén.
+MEMO: Especial ligero (≤3.500) al arcén; especial pesado, no.
+SEC: 2.4
+REF: Material del curso (RGC)
+---
+Q: Un tramo estrecho tiene pendiente del 10%. Un turismo sube y un camión baja. El turismo tiene un apartadero habilitado a 20 m; el camión no tiene ninguno cerca. ¿Quién debe ceder?
+A: El turismo, porque puede alcanzar antes el apartadero
+B: El camión, porque baja
+C: El camión, porque es más grande
+OK: A
+WHY: La regla general da preferencia a quien sube, pero si este puede llegar antes a un apartadero habilitado, debe usarlo y ceder.
+TRAP: Aplicar la regla general de "quien sube pasa" sin ver la excepción del apartadero.
+MEMO: Sube pasa… salvo que tenga el apartadero más cerca.
+SEC: 2.3
+REF: Material del curso (RGC)
+---
+Q: En un tramo estrecho con pendiente del 4%, sin señalización específica, dos vehículos no pueden cruzarse. ¿Se aplica automáticamente la preferencia de quien sube?
+A: Sí, en cualquier pendiente
+B: No; la regla especial se refiere a pendientes superiores al 7% o donde la señalización lo indique
+C: Sí, pero solo de noche
+OK: B
+WHY: La preferencia especial en pendiente está prevista para tramos de pendiente superior al 7% o señalizados; en otro caso rigen los criterios generales.
+TRAP: Generalizar la regla a cualquier cuesta.
+MEMO: Más del 7% → manda quien sube.
+SEC: 2.3
+REF: Material del curso (RGC)
+---
+Q: Un conductor que quiere ser "prudente" circula por el arcén de una carretera convencional para no molestar. ¿Cómo debe valorarse?
+A: Es correcto: cumple la norma de circular lo más a la derecha posible
+B: Es incorrecto: el borde derecho al que se refiere la norma es el de la calzada, no el arcén
+C: Es correcto si circula a menos de 40 km/h
+OK: B
+WHY: El arcén no forma parte de la calzada y su uso es excepcional; circular por él fuera de los supuestos tasados es sancionable.
+TRAP: Confundir "lo más a la derecha posible" con "por el arcén".
+MEMO: Borde derecho de la calzada, no del asfalto.
+SEC: 2.2
+REF: RD 1428/2003 (RGC)
+---
+Q: En un túnel de dos carriles en el mismo sentido, bien iluminado, el carril izquierdo está libre. ¿Puede adelantarse a un camión lento?
+A: Sí, porque hay dos carriles en el mismo sentido
+B: Con carácter general no; la regla de los túneles prohíbe adelantar salvo señalización que lo permita
+C: Sí, si el túnel mide menos de 500 metros
+OK: B
+WHY: La norma general en túneles prohíbe adelantar; solo cambia si la señalización lo autoriza expresamente.
+TRAP: Pensar que la prohibición solo existe en túneles de doble sentido.
+MEMO: Túnel: ni adelantar, ni girar, ni atrás.
+SEC: 2.3
+REF: RD 1428/2003 (RGC); tema 4
+---
+Q: Dentro de un túnel se declara un incendio delante de su vehículo y el humo avanza hacia usted. ¿Qué debe hacer?
+A: Quedarse en el coche con las ventanillas cerradas
+B: Dar la vuelta con el vehículo y salir en sentido contrario
+C: Dejar el vehículo y alejarse a pie en sentido contrario al humo, buscando una salida de emergencia o un poste SOS
+OK: C
+WHY: Ante un incendio la prioridad es alejarse del humo a pie hacia el aire limpio y usar los medios de emergencia; cambiar de sentido está prohibido y es peligroso.
+TRAP: "El coche protege": frente al humo tóxico no protege.
+MEMO: Humo → a pie, en contra del humo, al SOS.
+SEC: 2.3
+REF: Tema 4 (recomendaciones de seguridad)
+---
+Q: Un vehículo de policía circula muy rápido y en sentido contrario, sin sirena ni luces especiales encendidas. ¿Está amparado por el régimen de vehículo prioritario?
+A: Sí, siempre que sea un vehículo oficial
+B: No; para exceptuar normas debe usar las señales luminosas y acústicas y que las circunstancias lo justifiquen
+C: Sí, si va a una urgencia aunque no la señalice
+OK: B
+WHY: Sin señales especiales activadas el vehículo debe respetar las normas generales.
+TRAP: Pensar que ser "vehículo oficial" basta.
+MEMO: Prioritario = urgencia + luces + sirena.
+SEC: 2.3
+REF: RD 1428/2003 (RGC)
+---
+Q: Usted espera en un semáforo en rojo y llega por detrás una ambulancia con sirena. ¿Cuál es la conducta más correcta?
+A: Saltarse el semáforo a toda velocidad sin mirar
+B: Quedarse inmóvil aunque la ambulancia no pueda pasar
+C: Apartarse ordenadamente, avanzando con precaución si es necesario para facilitarle el paso, sin crear un peligro
+OK: C
+WHY: El deber es facilitar el paso del prioritario, siempre con precaución y sin generar un riesgo nuevo.
+TRAP: Las dos respuestas extremas (no moverse o cruzar sin mirar).
+MEMO: Facilitar paso sí; crear peligro no.
+SEC: 2.3
+REF: Tema 4
+---
+Q: Una señal de proyección de gravilla aparece al inicio de un tramo. ¿Qué combinación de conductas es la correcta?
+A: Reducir velocidad, aumentar la distancia con el vehículo de delante y evitar frenazos y volantazos
+B: Acelerar para salir antes y pegarse al vehículo de delante para que nos "abra" camino
+C: Frenar a fondo justo al empezar la gravilla
+OK: A
+WHY: La gravilla reduce la adherencia y las piedras despedidas pueden romper lunas; más distancia y suavidad.
+TRAP: Pegarse al de delante aumenta las piedras que recibimos.
+MEMO: Gravilla: lento, lejos y suave.
+SEC: 2.3
+REF: Tema 4
+---
+Q: Una señal de paso de animales en libertad aparece en una carretera de montaña al anochecer. ¿Qué es lo más adecuado si un ciervo aparece de repente muy cerca?
+A: Dar un volantazo fuerte para esquivarlo
+B: Frenar de forma enérgica pero controlada manteniendo la trayectoria, evitando maniobras bruscas que hagan perder el control
+C: Acelerar para pasar antes que el animal
+OK: B
+WHY: El volantazo puede provocar salida de vía o choque frontal, con consecuencias peores que el impacto con el animal.
+TRAP: El instinto de esquivar a toda costa.
+MEMO: Frena recto; el volantazo mata más que el ciervo.
+SEC: 2.3
+REF: Tema 4
+---
+Q: En una cañada señalizada, un rebaño cruza la carretera. ¿Qué norma se aplica?
+A: El ganado tiene preferencia de paso; hay que esperar
+B: Tiene preferencia el vehículo si utiliza el claxon
+C: El pastor debe apartar el ganado ante cualquier vehículo
+OK: A
+WHY: En cañadas y vías pecuarias señalizadas, el ganado tiene preferencia.
+TRAP: Suponer que siempre manda el vehículo a motor.
+MEMO: Cañada señalizada: primero el ganado.
+SEC: 2.3
+REF: Tema 4 (RGC)
+---
+Q: En una zona de obras, la señal fija marca 60 km/h, pero un señalista le indica que se detenga. ¿Qué prevalece?
+A: La señal fija, por ser permanente
+B: La indicación del señalista
+C: Lo que el conductor considere más seguro
+OK: B
+WHY: Las indicaciones de los agentes y señalistas, y la señalización provisional, prevalecen sobre la señalización fija.
+TRAP: Pensar que la señal "oficial" de chapa manda más que una persona.
+MEMO: Persona > provisional > fija.
+SEC: 2.3
+REF: Tema 4; jerarquía de señales (tema 8)
+---
+Q: Una señal de obras tiene fondo amarillo y otra del mismo tipo fondo blanco, en el mismo punto. ¿Cuál debe respetarse?
+A: La de fondo blanco, por ser la definitiva
+B: Ninguna, se anulan entre sí
+C: La de fondo amarillo, porque la señalización de obras es provisional y prevalece
+OK: C
+WHY: La señalización de obras (fondo amarillo) prevalece sobre la fija mientras duran las obras.
+TRAP: Creer que la señal blanca "de siempre" es la válida.
+MEMO: Amarillo de obras manda sobre el blanco.
+SEC: 2.3
+REF: Tema 4; jerarquía de señales
+---
+Q: Un vehículo se avería en un carril de una autovía sin poder moverse. ¿Qué es lo prioritario?
+A: Esperar dentro del vehículo sin señalizar
+B: Señalizar el obstáculo y, en cuanto sea posible, retirarlo de la calzada
+C: Dejar el vehículo y abandonar la zona sin señalizar
+OK: B
+WHY: Un obstáculo no señalizado es un peligro añadido; hay que señalizar y retirar lo antes posible.
+TRAP: Pensar que la grúa se encarga de todo.
+MEMO: Obstáculo: señaliza y retira.
+SEC: 2.3
+REF: Tema 4
+---
+Q: En un cambio de rasante con línea discontinua y buena visibilidad aparente, ¿puede detenerse un momento para consultar el GPS?
+A: Sí, si es solo un momento
+B: No, parar y estacionar en cambios de rasante está prohibido por la falta de visibilidad
+C: Sí, si enciende los intermitentes de emergencia
+OK: B
+WHY: La prohibición de parar en un cambio de rasante deriva de la visibilidad de quien llega, no del tipo de línea.
+TRAP: Pensar que la línea discontinua autoriza a parar.
+MEMO: En la cima no se para.
+SEC: 2.3
+REF: Tema 4 (RGC)
+---
+Q: El carril VAO de una autovía exige dos ocupantes y está activo de 7 a 10 h. A las 15 h, sin otra indicación, un turismo con solo el conductor:
+A: Puede utilizarlo, porque fuera de su horario es de uso general salvo indicación
+B: No puede usarlo nunca
+C: Solo puede usarlo si va a más de 100 km/h
+OK: A
+WHY: Las restricciones del carril VAO se aplican en las condiciones u horario señalizados.
+TRAP: Pensar que la reserva es permanente.
+MEMO: VAO: lee la hora y los ocupantes.
+SEC: 2.2
+REF: Tema 4
+---
+Q: En un carril reversible, sobre su carril aparece un aspa roja. ¿Qué significa?
+A: Que puede circular con precaución
+B: Que el carril está cerrado para su sentido de circulación
+C: Que debe reducir la velocidad a 50 km/h
+OK: B
+WHY: En carriles reversibles, la flecha verde indica carril abierto y el aspa roja, cerrado.
+TRAP: Confundir el aspa con una advertencia genérica.
+MEMO: Flecha verde, pasa; aspa roja, fuera.
+SEC: 2.2
+REF: Tema 4
+---
+Q: Un ciclomotor quiere usar un carril-bici protegido para evitar el atasco. Sin señal que lo autorice:
+A: Puede hacerlo porque es un vehículo de dos ruedas
+B: Puede hacerlo si no supera 25 km/h
+C: No puede, salvo señalización o autorización expresa
+OK: C
+WHY: Los ciclomotores no pueden circular por vías ciclistas salvo que se permita expresamente.
+TRAP: Asimilar ciclomotor a bicicleta.
+MEMO: Bici sí, ciclomotor no (salvo señal).
+SEC: 2.4
+REF: Reforma RGC (RD 518/2026) según material del curso
+---
+Q: ¿Cuál de estos grupos está formado SOLO por usuarios vulnerables según la reforma estudiada?
+A: Peatones, ciclistas y conductores de autobús
+B: Peatones, ciclistas, usuarios de VMP y motociclistas
+C: Ciclistas, conductores de camión y peatones
+OK: B
+WHY: La reforma identifica como vulnerables a peatones, ciclistas, usuarios de VMP y motociclistas.
+TRAP: Incluir a conductores profesionales por ir "más expuestos" en horas de trabajo.
+MEMO: Vulnerable = sin carrocería que te proteja.
+SEC: 2.4
+REF: Reforma RGC (RD 518/2026) según material del curso
+---
+Q: Nieva intensamente en una autovía de tres carriles. ¿Qué carril debe utilizar un turismo?
+A: El izquierdo, porque suele estar más limpio
+B: El central, para tener margen a ambos lados
+C: El derecho, dejando libres los izquierdos para quitanieves y emergencias, y sin adelantar
+OK: C
+WHY: Con nieve en autopistas y autovías se debe circular por el carril derecho, sin adelantar.
+TRAP: Elegir el carril "más limpio" en lugar del que marca la norma.
+MEMO: Nieve: derecha y sin adelantar.
+SEC: 2.5
+REF: Material del curso (RGC)
+---
+Q: ¿Qué diferencia una berma de un arcén?
+A: La berma está más allá del arcén y, con carácter general, no está pavimentada
+B: La berma forma parte de la calzada
+C: Son la misma cosa con distinto nombre
+OK: A
+WHY: La berma es la franja contigua a la parte exterior del arcén, normalmente sin pavimentar.
+TRAP: Confundir berma con mediana o con arcén.
+MEMO: Calzada → arcén → berma (de dentro a fuera).
+SEC: 2.1
+REF: RD 1428/2003 (RGC)
+---
+Q: Un peatón se queda a mitad de una calzada ancha en una pequeña superficie elevada con bordillo. ¿Cómo se llama ese elemento?
+A: Mediana
+B: Isleta
+C: Berma
+OK: B
+WHY: La isleta encauza el tráfico o sirve de refugio a los peatones; la mediana separa calzadas de sentidos opuestos.
+TRAP: Llamar "mediana" a cualquier zona central.
+MEMO: Isleta = islita de refugio.
+SEC: 2.1
+REF: RD 1428/2003 (RGC)
+---
+Q: Un conductor reduce la velocidad dentro de la curva, frenando fuerte porque entró rápido. ¿Cuál es el error técnico?
+A: No hay error: frenar en la curva es lo recomendado
+B: Debió acelerar para salir antes
+C: Debió reducir antes de entrar; frenar en plena curva compromete la adherencia y la trayectoria
+OK: C
+WHY: La velocidad se ajusta antes de la curva; en curva el neumático ya trabaja lateralmente y frenar fuerte puede provocar la pérdida de control.
+TRAP: Pensar que frenar siempre es la opción segura.
+MEMO: Frena en recta, gira sin frenar.
+SEC: 2.3
+REF: Tema 4

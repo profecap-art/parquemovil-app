@@ -1,0 +1,241 @@
+Q: Circula por una carretera convencional fuera de poblado limitada a 90 km/h y va a adelantar a un ciclista. Según la reforma estudiada, ¿a qué velocidad máxima debe hacerlo?
+A: A 90 km/h, el límite de la vía
+B: A 70 km/h como máximo (al menos 20 km/h menos que el límite)
+C: A 30 km/h, como en ciudad
+OK: B
+WHY: Fuera de poblado debe reducirse al menos 20 km/h respecto al límite de la vía: 90 − 20 = 70.
+TRAP: Calcular los 20 km/h sobre la velocidad que lleva en ese momento.
+MEMO: Límite menos 20, no "tu velocidad menos 20".
+SEC: 2.6
+REF: RD 518/2026 (reforma art. 85 RGC) según material del curso
+---
+Q: En una autovía de dos carriles por sentido, un ciclista circula por el arcén. Para adelantarlo, según la reforma:
+A: Basta con apartarse 1,5 m sin cambiar de carril
+B: Debe realizar un cambio de carril completo
+C: Puede adelantarlo sin modificar su posición porque va por el arcén
+OK: B
+WHY: En calzadas con más de un carril por sentido, el adelantamiento a un usuario vulnerable exige cambio de carril completo.
+TRAP: Pensar que si el ciclista va por el arcén no hace falta separarse.
+MEMO: Varios carriles: carril entero para el vulnerable.
+SEC: 2.6
+REF: RD 518/2026 (reforma art. 85 RGC) según material del curso
+---
+Q: Un grupo de ocho ciclistas circula unido por una carretera. A efectos de adelantamiento:
+A: Debe adelantarse ciclista a ciclista, reincorporándose entre ellos
+B: Se considera una sola unidad: el adelantamiento debe completarse sobre todo el grupo
+C: Está prohibido adelantar a grupos
+OK: B
+WHY: El grupo que circula unido se considera una sola unidad.
+TRAP: Meterse entre los ciclistas del grupo.
+MEMO: Pelotón = un solo vehículo largo.
+SEC: 2.6
+REF: RD 518/2026 según material del curso
+---
+Q: ¿Con cuál de estos usuarios NO era obligatoria de forma expresa la distancia de 1,5 m antes de la reforma, pero sí lo es después?
+A: Ciclistas
+B: Usuarios de VMP (patinetes eléctricos)
+C: Ninguno: la reforma no cambia nada
+OK: B
+WHY: Antes la exigencia expresa era para ciclistas; la reforma la extiende a peatones, animales, ciclomotores y VMP.
+TRAP: Elegir "ciclistas", que ya estaban incluidos.
+MEMO: Antes: bici. Ahora: todo lo vulnerable.
+SEC: 2.6
+REF: RD 518/2026 según material del curso
+---
+Q: Una grúa está asistiendo a un vehículo averiado en el arcén de una carretera de un carril por sentido con línea continua. ¿Qué debe hacer?
+A: Mantener su carril y velocidad, porque la línea continua impide apartarse
+B: Rebasar dejando al menos 1,5 m y reduciendo la velocidad, aunque para ello tenga que ocupar parte del sentido contrario si es seguro
+C: Detenerse hasta que termine la asistencia
+OK: B
+WHY: La reforma del art. 88 exige 1,5 m al rebasar vehículos inmovilizados o en asistencia, aunque haya que invadir el sentido contrario, siempre con seguridad.
+TRAP: Pensar que la línea continua obliga a pasar pegado.
+MEMO: Inmovilizado: 1,5 m y frena.
+SEC: 2.6
+REF: RD 518/2026 (reforma art. 88 RGC) según material del curso
+---
+Q: Delante de usted, un vehículo señaliza que va a girar a la izquierda y se coloca a la izquierda de su carril. ¿Por dónde puede adelantarlo?
+A: Por la izquierda, como siempre
+B: Por la derecha, si hay espacio y puede hacerse con seguridad
+C: No puede adelantarlo en ningún caso
+OK: B
+WHY: Es una de las excepciones tasadas a la regla de adelantar por la izquierda.
+TRAP: Aplicar la regla general sin ver la excepción.
+MEMO: Gira a la izquierda → pásale por la derecha.
+SEC: 2.2
+REF: RD 1428/2003 (RGC)
+---
+Q: En una carretera de doble sentido con un carril por sentido, el vehículo de delante va lento y no señaliza nada. Usted lo rebasa por el arcén derecho. ¿Cómo se valora?
+A: Correcto, porque no invade el sentido contrario
+B: Infracción: adelantar por la derecha fuera de las excepciones tasadas
+C: Correcto si lo hace a menos de 50 km/h
+OK: B
+WHY: Fuera de las excepciones (giro a la izquierda señalizado, sentido único con varios carriles), adelantar por la derecha es infracción; además, circular por el arcén está prohibido.
+TRAP: Creer que evitar el carril contrario lo hace más seguro y legal.
+MEMO: Por la derecha solo si la ley lo dice.
+SEC: 2.2
+REF: RD 1428/2003 (RGC)
+---
+Q: Va a iniciar un adelantamiento y por el retrovisor ve que el vehículo de detrás ya ha puesto el intermitente y se ha desplazado para adelantar. ¿Qué debe hacer?
+A: Iniciar su adelantamiento a la vez, porque usted está delante
+B: Esperar a que el otro complete su maniobra
+C: Acelerar para que el otro no pueda adelantar
+OK: B
+WHY: No se puede iniciar un adelantamiento si un vehículo que le sigue ya ha iniciado la misma maniobra.
+TRAP: Creer que tener "posición delantera" da preferencia.
+MEMO: Quien empezó antes, adelanta primero.
+SEC: 2.2
+REF: RD 1428/2003 (RGC)
+---
+Q: Hay un paso a nivel con barreras levantadas, visibilidad perfecta y ningún tren a la vista. ¿Puede adelantar en él?
+A: Sí, porque no hay peligro
+B: No, la prohibición se aplica bajo cualquier circunstancia
+C: Sí, si el vehículo de delante es agrícola
+OK: B
+WHY: La prohibición de adelantar en pasos a nivel no depende de visibilidad ni del estado de las barreras.
+TRAP: Pensar que la prohibición existe solo cuando hay barreras bajadas.
+MEMO: Paso a nivel: nunca se adelanta.
+SEC: 2.3
+REF: RD 1428/2003 (RGC)
+---
+Q: Se aproxima a un paso de peatones y un peatón está en la acera, claramente a punto de cruzar. El vehículo de delante frena. ¿Puede adelantarlo?
+A: Sí, porque el peatón aún no ha pisado el paso
+B: No, la prohibición alcanza a peatones a punto de cruzar
+C: Sí, si toca el claxon
+OK: B
+WHY: La prohibición se aplica cuando hay peatones cruzando o a punto de hacerlo.
+TRAP: Esperar a que el peatón "esté dentro" para considerarlo.
+MEMO: Pie en el bordillo = prohibido adelantar.
+SEC: 2.3
+REF: RD 1428/2003 (RGC)
+---
+Q: En una curva sin visibilidad, un camión se ha averiado y está detenido ocupando su carril. Para rebasarlo:
+A: Puede hacerlo pese a la prohibición general, pero solo si comprueba que puede hacerlo con seguridad
+B: Puede hacerlo sin más comprobación, porque es una excepción
+C: Nunca, porque está en una curva
+OK: A
+WHY: La excepción permite rebasar a vehículos parados, pero no elimina la obligación de comprobar que la maniobra es segura.
+TRAP: Pensar que la excepción es un "permiso automático".
+MEMO: Excepción ≠ barra libre.
+SEC: 2.3
+REF: RD 1428/2003 (RGC)
+---
+Q: En un túnel de dos carriles por sentido, la señalización permite adelantar. ¿Puede cambiar de sentido si se ha equivocado de salida?
+A: Sí, porque la señalización permite adelantar
+B: No, el cambio de sentido en túneles está prohibido
+C: Sí, si el túnel está poco transitado
+OK: B
+WHY: Que se permita adelantar según señalización no autoriza el cambio de sentido, que en túneles está prohibido.
+TRAP: Extender un permiso de una maniobra a otra distinta.
+MEMO: Adelantar quizá; dar la vuelta, jamás.
+SEC: 2.4
+REF: RD 1428/2003 (RGC)
+---
+Q: Se ha pasado la salida en una autovía. ¿Qué es lo correcto?
+A: Detenerse en el arcén y retroceder marcha atrás hasta la salida
+B: Cambiar de sentido aprovechando un hueco en la mediana
+C: Continuar hasta la siguiente salida o punto habilitado
+OK: C
+WHY: En autopistas y autovías la marcha atrás está prohibida (salvo emergencia) y el cambio de sentido solo se permite en lugares habilitados.
+TRAP: Pensar que retroceder "por el arcén" es seguro.
+MEMO: Te pasaste la salida: sigue a la siguiente.
+SEC: 2.5
+REF: RD 1428/2003 (RGC)
+---
+Q: Un conductor recorre 300 metros marcha atrás por una calle para no dar la vuelta a la manzana. ¿Qué principio incumple?
+A: Ninguno, si la calle está vacía
+B: El de la marcha atrás como maniobra excepcional y por el trayecto más corto posible
+C: Solo el de la señalización
+OK: B
+WHY: La marcha atrás solo se admite como maniobra complementaria y por el trayecto más corto; usarla como forma de desplazamiento es contrario a su naturaleza.
+TRAP: Creer que si no hay tráfico vale todo.
+MEMO: Marcha atrás: corta y para maniobrar.
+SEC: 2.5
+REF: RD 1428/2003 (RGC)
+---
+Q: Va a salir marcha atrás de un vado con un furgón y no ve la acera por detrás. ¿Qué es lo más correcto?
+A: Salir despacio tocando el claxon
+B: Pedir a otra persona que le oriente desde fuera, si la visibilidad directa no es suficiente
+C: Salir rápido para estar el menor tiempo posible en la acera
+OK: B
+WHY: Si la visibilidad directa no es suficiente, la norma contempla la ayuda de otra persona.
+TRAP: Pensar que el claxon sustituye a la comprobación.
+MEMO: Si no ves, que te guíen.
+SEC: 2.5
+REF: RD 1428/2003 (RGC)
+---
+Q: Mientras hace marcha atrás para aparcar, golpea a un vehículo que circulaba correctamente. ¿Sobre quién recae, con carácter general, la responsabilidad?
+A: Sobre el que circulaba, por no frenar
+B: Sobre quien hacía la marcha atrás
+C: Se reparte siempre al 50%
+OK: B
+WHY: Quien maniobra debe garantizar la ausencia de riesgo; en marcha atrás, la responsabilidad recae en principio en quien la realiza.
+TRAP: Pensar que quien circula debe prever todas las maniobras de los demás.
+MEMO: Quien maniobra, responde.
+SEC: 2.5
+REF: Información divulgativa DGT; tema 6
+---
+Q: Sale de un aparcamiento en línea y un coche se acerca por su carril a cierta distancia. Si sale, obligará a ese coche a frenar con suavidad. ¿Qué debe hacer?
+A: Salir, porque ha señalizado con el intermitente
+B: Esperar: provocaría un entorpecimiento indebido a quien ya circula
+C: Salir rápido para que tenga que frenar menos
+OK: B
+WHY: Quien se incorpora debe hacerlo sin riesgo ni entorpecimiento indebido; señalizar no da prioridad.
+TRAP: Creer que el intermitente concede preferencia.
+MEMO: Intermitente avisa, no da derecho.
+SEC: 2.1
+REF: RD 1428/2003 (RGC)
+---
+Q: En una calzada de sentido único con tres carriles y tráfico denso, el carril derecho avanza más rápido que el izquierdo. Rebasar a los del carril izquierdo:
+A: Es siempre infracción
+B: Está admitido, porque en calzadas de sentido único con varios carriles puede adelantarse por la derecha en determinadas circunstancias
+C: Solo lo pueden hacer los autobuses
+OK: B
+WHY: Es una de las excepciones tasadas a la regla de adelantar por la izquierda.
+TRAP: Aplicar a todas las vías la prohibición de adelantar por la derecha.
+MEMO: Sentido único con varios carriles: la derecha también vale.
+SEC: 2.2
+REF: RD 1428/2003 (RGC)
+---
+Q: ¿En cuál de estas situaciones el cambio de sentido SÍ es posible?
+A: En una intersección donde una señal lo autoriza expresamente
+B: En un cambio de rasante de poca visibilidad sin tráfico
+C: En el interior de un túnel de dos carriles por sentido
+OK: A
+WHY: En intersecciones se prohíbe salvo que la señalización lo permita; en rasantes y túneles está prohibido.
+TRAP: Pensar que "sin tráfico" cambia una prohibición.
+MEMO: Intersección: solo con señal que lo permita.
+SEC: 2.4
+REF: RD 1428/2003 (RGC)
+---
+Q: Tras adelantar a un camión, un conductor vuelve a su carril cerrándose bruscamente justo delante. ¿Qué incumple?
+A: Nada, porque ya lo había rebasado
+B: La obligación de reincorporarse sin obligar al adelantado a maniobras bruscas
+C: Solo el límite de velocidad
+OK: B
+WHY: La reincorporación debe hacerse en cuanto sea posible pero sin crear una maniobra brusca para el vehículo adelantado.
+TRAP: Pensar que el adelantamiento termina al rebasar el morro.
+MEMO: Vuelve cuando lo veas entero en el retrovisor.
+SEC: 2.2
+REF: RD 1428/2003 (RGC)
+---
+Q: La reducción de 20 km/h al adelantar a un usuario vulnerable, en una vía urbana limitada a 50 km/h:
+A: Es exigible igual que fuera de poblado
+B: Está formulada expresamente para adelantamientos fuera de poblado
+C: Obliga a ir a 10 km/h
+OK: B
+WHY: La obligación de reducir 20 km/h se formula para fuera de poblado; dentro de poblado se mantiene la exigencia de anchura y precaución.
+TRAP: Extender la regla a vías urbanas.
+MEMO: −20: fuera de poblado.
+SEC: 2.6
+REF: RD 518/2026 según material del curso
+---
+Q: ¿Por qué el cambio de sentido en autovía está restringido a puntos habilitados?
+A: Porque los vehículos que llegan lo hacen a gran velocidad y no esperan encontrar un vehículo cruzándose
+B: Porque las autovías no tienen arcén
+C: Porque está prohibido usar el intermitente
+OK: A
+WHY: La combinación de maniobra lenta y alta velocidad de aproximación de terceros es la que justifica la prohibición.
+TRAP: Buscar razones físicas de la vía en lugar del riesgo.
+MEMO: Lento + rápido = choque.
+SEC: 2.4
+REF: Tema 6

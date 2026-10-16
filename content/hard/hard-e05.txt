@@ -1,0 +1,274 @@
+Q: Un turismo circula por una vía convencional con arcén de 1,6 m sin pavimentar (tierra compactada). ¿Cuál es su límite genérico?
+A: 100 km/h, porque el arcén supera 1,5 m
+B: 90 km/h, porque el arcén no está pavimentado
+C: 80 km/h, por tratarse de un arcén de tierra
+OK: B
+WHY: Para el límite de 100 km/h el arcén debe cumplir DOS requisitos a la vez: estar pavimentado y medir 1,5 m o más. Si falta uno, se aplica el de vía sin arcén: 90 km/h.
+TRAP: La anchura (1,6 m) distrae: cumplir solo uno de los dos requisitos no basta.
+MEMO: 100 = arcén "ancho Y asfaltado". Si falla uno → 90.
+SEC: 2.1
+REF: RGC art. 48 / RDL 6/2015
+---
+Q: En una vía urbana de un solo carril por sentido, ¿qué límite genérico rige para un turismo?
+A: 50 km/h, el general urbano
+B: 20 km/h, por ser vía estrecha
+C: 30 km/h
+OK: C
+WHY: Las vías urbanas de un único carril por sentido tienen límite de 30 km/h. 50 km/h es el general para vías de dos o más carriles por sentido y 20 km/h corresponde a la plataforma única.
+TRAP: Se tiende a aplicar 50 km/h a toda la ciudad; el número de carriles por sentido cambia el límite.
+MEMO: Ciudad: 20 (plataforma única) – 30 (un carril/sentido) – 50 (resto).
+SEC: 2.1
+REF: RGC art. 50
+---
+Q: ¿Cuál de estas afirmaciones sobre la velocidad adecuada es INCORRECTA?
+A: Puede ser inferior al límite genérico
+B: Puede ser superior al límite genérico si la vía está despejada
+C: Su incumplimiento puede sancionarse aunque no se supere el límite
+OK: B
+WHY: La velocidad adecuada nunca puede superar el máximo legal; solo puede ser igual o inferior según las circunstancias.
+TRAP: Las preguntas con "INCORRECTA" invierten la lógica: busca la afirmación falsa.
+MEMO: El límite es un techo; la adecuación solo puede bajar, nunca subir.
+SEC: 2.2
+REF: RDL 6/2015 (velocidad adecuada)
+---
+Q: Si a 50 km/h un vehículo necesita unos 15 m para frenar, a 100 km/h y en idénticas condiciones necesitará aproximadamente:
+A: 30 m
+B: 60 m
+C: 45 m
+OK: B
+WHY: La distancia de frenado crece con el cuadrado de la velocidad. Duplicar la velocidad la multiplica por 4: 15 × 4 = 60 m.
+TRAP: El cálculo "lineal" (duplicar → 30 m) es el error más habitual.
+MEMO: Doble de velocidad = cuádruple de frenado (2² = 4).
+SEC: 2.3
+REF: Principio físico: E = ½·m·v²
+---
+Q: Si se triplica la velocidad, manteniendo iguales el resto de condiciones, la energía cinética del vehículo se multiplica por:
+A: 3
+B: 6
+C: 9
+OK: C
+WHY: La energía cinética es proporcional al cuadrado de la velocidad: 3² = 9.
+TRAP: 6 parece intermedio pero no responde a ninguna regla física.
+MEMO: Factor de velocidad al cuadrado: ×2 → ×4; ×3 → ×9.
+SEC: 4
+REF: Principio físico: E = ½·m·v²
+---
+Q: Un conductor distraído con el móvil tarda más en empezar a frenar. ¿Qué distancia aumenta directamente?
+A: La distancia de frenado
+B: La distancia de reacción
+C: La distancia de frenado y no la de reacción
+OK: B
+WHY: La distracción retrasa la percepción y la respuesta: aumenta el tiempo y la distancia de reacción. La distancia de frenado depende de velocidad, neumáticos, firme y frenos.
+TRAP: El enunciado habla de "frenar", pero el retraso ocurre ANTES de pisar el freno.
+MEMO: Reacción = cabeza (del peligro al pedal). Frenado = máquina (del pedal a parar).
+SEC: 2.3
+REF: Elaboración propia sobre el temario
+---
+Q: Aplicando la regla de los segundos con lluvia intensa, el conductor cuenta y llega al punto de referencia al decir "dos". ¿Qué debe hacer?
+A: Nada: 2 segundos es la distancia recomendada
+B: Ampliar la separación hasta 3 segundos o más
+C: Reducir la separación a 1 segundo para no perder de vista al vehículo
+OK: B
+WHY: Con condiciones adversas la separación mínima recomendada sube a 3 segundos o más. Dos segundos solo es suficiente en condiciones normales.
+TRAP: "Dos segundos" es correcto… pero solo con buen tiempo.
+MEMO: Seco: 2 s. Lluvia, niebla o poca visibilidad: 3 s o más.
+SEC: 2.3
+REF: Regla práctica DGT
+---
+Q: La distancia total de detención está formada por:
+A: Distancia de reacción + distancia de frenado
+B: Distancia de seguridad + distancia de frenado
+C: Distancia de frenado − distancia de reacción
+OK: A
+WHY: Detención total = lo recorrido mientras se reacciona + lo recorrido mientras se frena.
+TRAP: La distancia de seguridad es el hueco que dejas con el de delante, no un componente de la detención.
+MEMO: Ver → Reaccionar → Frenar → Parar: suma las dos fases.
+SEC: 2.3
+REF: Elaboración propia sobre el temario
+---
+Q: En autopista, ¿qué límite máximo corresponde a un autobús?
+A: 90 km/h
+B: 100 km/h
+C: 120 km/h
+OK: B
+WHY: Autobús en autopista/autovía: 100 km/h. Turismo: 120 km/h. Camión o furgón de más de 3.500 kg: 90 km/h.
+TRAP: El autobús comparte límite con el turismo en vía convencional (90), pero NO en autopista.
+MEMO: Autopista: Turismo 120 · Bus 100 · Camión 90.
+SEC: 2.1
+REF: RGC art. 48 (verificar texto consolidado)
+---
+Q: En vía convencional, ¿qué vehículo tiene un límite máximo DIFERENTE a los otros dos?
+A: Turismo
+B: Autobús
+C: Camión de más de 3.500 kg
+OK: C
+WHY: En vía convencional turismo y autobús comparten 90 km/h; el camión de más de 3.500 kg tiene 80 km/h.
+TRAP: En autopista los tres son distintos, pero en convencional turismo y bus coinciden.
+MEMO: Convencional: Turismo 90 = Bus 90 · Camión 80.
+SEC: 2.1
+REF: RGC art. 48 (verificar texto consolidado)
+---
+Q: Un autobús de transporte escolar circula por autopista. ¿Cuál es su velocidad máxima?
+A: 90 km/h
+B: 100 km/h
+C: 80 km/h
+OK: A
+WHY: Al autobús le corresponden 100 km/h en autopista, pero el transporte escolar circula 10 km/h por debajo del límite de su categoría: 90 km/h.
+TRAP: Hay que encadenar dos datos: límite del autobús (100) y reducción por transporte escolar (−10).
+MEMO: Escolar y mercancías peligrosas: "menos diez" sobre su categoría.
+SEC: 2.1
+REF: RGC art. 48 (verificar texto consolidado)
+---
+Q: Un camión de más de 3.500 kg que transporta mercancías peligrosas circula por vía convencional. Su velocidad máxima será:
+A: 80 km/h
+B: 70 km/h
+C: 90 km/h
+OK: B
+WHY: Camión >3.500 kg en convencional: 80 km/h; mercancías peligrosas: 10 km/h menos → 70 km/h.
+TRAP: Olvidar la reducción de 10 km/h lleva a marcar 80.
+MEMO: Base de la categoría − 10 = escolar / mercancías peligrosas.
+SEC: 2.1
+REF: RGC art. 48 (verificar texto consolidado)
+---
+Q: ¿Cuál es la velocidad mínima de un turismo en una vía convencional con límite genérico de 90 km/h, salvo causa justificada?
+A: 60 km/h
+B: 45 km/h
+C: 30 km/h
+OK: B
+WHY: Fuera de autopistas y autovías la mínima es la mitad del límite genérico de esa categoría en esa vía: 90 / 2 = 45 km/h.
+TRAP: 60 km/h es la mínima de autopista y autovía, no de la vía convencional.
+MEMO: Autopista: 60 fijo. Resto: la mitad del límite.
+SEC: 2.1
+REF: RGC art. 49
+---
+Q: Respecto a las velocidades mínimas, ¿qué afirmación es correcta?
+A: Las regula el artículo 48 del RGC
+B: Las regula el artículo 49 del RGC
+C: No existen velocidades mínimas en la normativa española
+OK: B
+WHY: El artículo 48 del RGC regula las velocidades máximas y el 49, las mínimas.
+TRAP: Los números son consecutivos y es fácil intercambiarlos.
+MEMO: 48 = Máximas (va antes, como la "M" grande); 49 = mínimas.
+SEC: 2.1
+REF: RGC arts. 48 y 49
+---
+Q: Un vehículo especial sin dispositivo de frenado de servicio adecuado, ¿a qué velocidad máxima puede circular?
+A: 25 km/h
+B: 40 km/h
+C: 30 km/h
+OK: A
+WHY: Sin freno de servicio adecuado: 25 km/h. Con freno adecuado: 40 km/h. 30 km/h es el máximo en vía sin pavimentar.
+TRAP: Tres cifras parecidas (25, 30, 40) de supuestos distintos.
+MEMO: Especial sin freno 25 · con freno 40 · sin pavimentar 30.
+SEC: 2.1
+REF: RGC art. 48 (verificar texto consolidado)
+---
+Q: Tras la reforma del artículo 48 del RGC, un turismo adelanta en una convencional de 90 km/h alcanzando 105 km/h. ¿Qué ocurre?
+A: Es legal, porque el margen de adelantamiento es de 20 km/h
+B: Es legal solo si el adelantamiento dura menos de 15 segundos
+C: Comete exceso de velocidad: el límite rige también durante el adelantamiento
+OK: C
+WHY: La reforma eliminó el margen de 20 km/h para adelantar en convencionales; el límite debe respetarse durante toda la maniobra.
+TRAP: La regla antigua (margen de +20 km/h) sigue apareciendo en manuales desactualizados.
+MEMO: Adelantar no da "bonus": 90 es 90 también adelantando.
+SEC: 2.1
+REF: RGC art. 48, reforma 2026 (RD 518/2026)
+---
+Q: Un vehículo que por sus características no alcanza la velocidad mínima y genera riesgo de colisión debe:
+A: Circular por el arcén obligatoriamente en todo caso
+B: Activar las luces de emergencia
+C: Detenerse en el carril hasta que pase el tráfico
+OK: B
+WHY: Cuando no se puede alcanzar la velocidad mínima y existe riesgo de colisión, deben usarse las luces de emergencia para advertir al resto.
+TRAP: Detenerse en el carril crea un peligro mayor.
+MEMO: Lento con riesgo = "warning" encendido.
+SEC: 2.2
+REF: RGC art. 49
+---
+Q: ¿Por qué la vía urbana de plataforma única tiene el límite urbano más bajo (20 km/h)?
+A: Porque calzada y acera están al mismo nivel y vehículos y peatones comparten el espacio
+B: Porque está prohibida la circulación de turismos
+C: Porque son vías de sentido único obligatoriamente
+OK: A
+WHY: En la plataforma única no hay bordillo que separe al peatón; el riesgo es mayor y el límite, menor.
+TRAP: No es zona peatonal: los vehículos sí pueden circular.
+MEMO: Sin bordillo, sin prisa: 20.
+SEC: 2.1
+REF: RGC art. 50
+---
+Q: Un conductor circula a 90 km/h en una convencional de 90 km/h con niebla densa y visibilidad de 40 m. ¿Puede ser sancionado?
+A: No, porque no supera el límite genérico
+B: Solo si provoca un accidente
+C: Sí, por no adecuar la velocidad a las circunstancias
+OK: C
+WHY: El límite es el máximo para condiciones normales; con niebla densa la velocidad adecuada es muy inferior y no adaptarla es sancionable.
+TRAP: "No supera el límite" parece exculpatorio, pero no lo es.
+MEMO: El límite te dice "hasta dónde"; las circunstancias, "cuánto de verdad".
+SEC: 2.2
+REF: RDL 6/2015 (velocidad adecuada)
+---
+Q: ¿Qué factor NO influye en la distancia de frenado?
+A: El estado de los neumáticos
+B: El tiempo de reacción del conductor
+C: El estado del firme
+OK: B
+WHY: El tiempo de reacción determina la distancia de reacción, no la de frenado. Frenado depende de velocidad, neumáticos, firme y frenos.
+TRAP: Las dos distancias se confunden fácilmente porque se suman en la detención total.
+MEMO: Lo humano va a reacción; lo mecánico y la vía, a frenado.
+SEC: 2.3
+REF: Elaboración propia sobre el temario
+---
+Q: Un camión articulado con remolque circula por autopista. ¿Qué límite tiene con carácter general?
+A: 100 km/h, como un autobús
+B: 90 km/h, como un camión o furgón de más de 3.500 kg
+C: 80 km/h, por llevar remolque
+OK: B
+WHY: El camión con remolque comparte el límite general de los camiones y furgones de más de 3.500 kg en autopista: 90 km/h.
+TRAP: 80 km/h es el límite del camión pesado en vía convencional, no en autopista.
+MEMO: Pesado en autopista 90; en convencional 80.
+SEC: 2.1
+REF: RGC art. 48 (verificar texto consolidado)
+---
+Q: Un turismo circula por autopista a 50 km/h sin causa justificada y entorpece el tráfico. ¿Qué infracción comete?
+A: Incumplir la velocidad mínima exigida
+B: Exceso de velocidad
+C: Ninguna, porque no supera el máximo
+OK: A
+WHY: En autopista y autovía la mínima es 60 km/h; circular por debajo sin causa justificada es infracción.
+TRAP: Se olvida que también existen mínimas, no solo máximas.
+MEMO: Autopista: entre 60 y el máximo de tu vehículo.
+SEC: 2.1
+REF: RGC art. 49
+---
+Q: ¿Cuál de las siguientes circunstancias NO obliga, por sí misma, a reducir la velocidad por debajo del límite?
+A: Presencia de ciclistas en la calzada
+B: Calzada seca, recta y con buena visibilidad
+C: Gravilla suelta sobre el firme
+OK: B
+WHY: Calzada seca, recta y con visibilidad son condiciones óptimas; las otras dos son circunstancias que exigen moderar la velocidad.
+TRAP: Pregunta en negativo: elige la única situación favorable.
+MEMO: Usuarios vulnerables, firme deslizante, poca visibilidad → bajar.
+SEC: 2.2
+REF: RDL 6/2015 (velocidad adecuada)
+---
+Q: Según el temario, ¿cuál fue uno de los motivos alegados para eliminar el margen de 20 km/h al adelantar?
+A: Su incompatibilidad con los radares de tramo, que miden velocidad media
+B: La desaparición de las vías convencionales de doble sentido
+C: Que lo exigiera una directiva europea de forma expresa
+OK: A
+WHY: El margen era incompatible con los radares de tramo y España era el único país de la UE que lo mantenía; además se buscaba reducir colisiones frontales.
+TRAP: España era un caso único en la UE, pero no se cita una directiva que lo obligara.
+MEMO: Radar de tramo + frontales + único en la UE.
+SEC: 2.1
+REF: RGC art. 48, reforma 2026
+---
+Q: Dos turismos idénticos circulan a la misma velocidad; uno lleva los neumáticos desgastados. ¿Qué ocurre con su distancia total de detención?
+A: Es igual, porque la velocidad es la misma
+B: Es mayor, porque aumenta su distancia de frenado
+C: Es mayor solo porque aumenta su distancia de reacción
+OK: B
+WHY: Los neumáticos desgastados reducen la adherencia y alargan la frenada; al aumentar la distancia de frenado, aumenta la detención total.
+TRAP: Los neumáticos no afectan al conductor, por lo que la reacción no cambia.
+MEMO: Goma gastada → frena peor → para más tarde.
+SEC: 2.3
+REF: Elaboración propia sobre el temario

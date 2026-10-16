@@ -1,0 +1,274 @@
+Q: Una persona de 15 años quiere rectificar la mención registral de su sexo. ¿Cómo debe hacerlo?
+A: Por sí misma, asistida por sus representantes legales
+B: Mediante autorización judicial en jurisdicción voluntaria
+C: No puede hasta cumplir 16 años
+OK: A
+WHY: Entre 14 y 16 años la persona lo solicita por sí misma, asistida por sus representantes legales.
+TRAP: La autorización judicial corresponde al tramo de 12 a 14 años.
+MEMO: 16+ solo · 14-16 acompañado · 12-14 juez · <12 nada.
+SEC: 2.2
+REF: Ley 4/2023, art. 43
+---
+Q: Una persona de 13 años solicita la rectificación registral del sexo. ¿Qué procedimiento procede?
+A: Solicitud directa ante el Registro Civil
+B: Solicitud propia asistida por sus padres ante el Registro
+C: Autorización judicial mediante expediente de jurisdicción voluntaria
+OK: C
+WHY: Entre 12 y 14 años se requiere autorización judicial por la vía de la jurisdicción voluntaria.
+TRAP: La asistencia de representantes es el régimen de 14 a 16.
+MEMO: Entre 12 y 14 decide un juez.
+SEC: 2.2
+REF: Ley 4/2023, art. 43
+---
+Q: Una empresa exige 1,80 m de altura a todos los candidatos a un puesto administrativo, sin justificación. ¿Qué tipo de discriminación puede suponer?
+A: Discriminación directa por razón de sexo
+B: Discriminación indirecta por razón de sexo
+C: Ninguna, porque el criterio se aplica a todos por igual
+OK: B
+WHY: Un criterio aparentemente neutro que pone en desventaja particular a personas de un sexo, sin justificación objetiva, es discriminación indirecta.
+TRAP: "Se aplica a todos por igual" es precisamente la apariencia de neutralidad.
+MEMO: Neutral en el papel, desigual en el resultado = indirecta.
+SEC: 2.1
+REF: LO 3/2007, art. 6
+---
+Q: Un órgano colegiado de 10 miembros tiene 7 hombres y 3 mujeres. ¿Cumple la composición equilibrada?
+A: Sí, porque hay personas de ambos sexos
+B: No, porque las mujeres son el 30 %, por debajo del 40 %
+C: Sí, porque no se exige paridad estricta
+OK: B
+WHY: Composición equilibrada: ningún sexo supera el 60 % ni baja del 40 %. 30 % incumple el mínimo.
+TRAP: No se exige el 50 %, pero sí la banda 40-60.
+MEMO: Con 10 personas: entre 4 y 6 de cada sexo.
+SEC: 2.1
+REF: LO 3/2007, disp. adic. 1.ª
+---
+Q: Las medidas de acción positiva del art. 11 LO 3/2007 se caracterizan por ser:
+A: Permanentes, una vez aprobadas
+B: Razonables, proporcionadas y aplicables mientras subsista la desigualdad
+C: Obligatorias para todas las empresas privadas
+OK: B
+WHY: Las acciones positivas corrigen desigualdades de hecho; deben ser razonables y proporcionadas y se aplican en tanto subsista la desigualdad.
+TRAP: Su carácter temporal es el matiz clave.
+MEMO: Acción positiva = medicina temporal, no tratamiento de por vida.
+SEC: 2.1
+REF: LO 3/2007, art. 11
+---
+Q: ¿Cuándo debe elaborarse el informe de impacto de género de un proyecto normativo?
+A: Antes de su aprobación
+B: Un año después de su entrada en vigor
+C: Solo si lo solicita el Instituto de las Mujeres
+OK: A
+WHY: El informe evalúa el efecto sobre mujeres y hombres antes de aprobar la norma o el plan.
+TRAP: No es una evaluación posterior.
+MEMO: Impacto de género = mirar antes de firmar.
+SEC: 2.1
+REF: LO 3/2007, art. 19
+---
+Q: ¿Qué órgano COORDINA las políticas de igualdad de los distintos ministerios?
+A: El Consejo de Participación de las Mujeres
+B: La Comisión Interministerial de Igualdad
+C: El Instituto de las Mujeres
+OK: B
+WHY: La Comisión Interministerial de Igualdad coordina las políticas de los departamentos ministeriales. El Consejo de Participación es consultivo; el Instituto ejecuta políticas.
+TRAP: Tres órganos con funciones parecidas: coordinar, consultar, ejecutar.
+MEMO: Interministerial = entre ministerios = coordina.
+SEC: 2.1
+REF: LO 3/2007
+---
+Q: El distintivo "Igualdad en la Empresa" es:
+A: Una sanción por incumplir el plan de igualdad
+B: Un reconocimiento que pueden solicitar las empresas destacadas en igualdad
+C: Un requisito para contratar con la Administración
+OK: B
+WHY: Es un reconocimiento voluntario, no una sanción ni una obligación.
+TRAP: El nombre oficial puede sugerir un requisito.
+MEMO: Distintivo = premio.
+SEC: 2.1
+REF: LO 3/2007, arts. 49-50
+---
+Q: Una empresa de 55 trabajadores, ¿qué debe tener en materia de igualdad LGTBI según la Ley 4/2023?
+A: Nada, es voluntario
+B: Un conjunto planificado de medidas con protocolo frente al acoso, en 12 meses
+C: Un plan de igualdad negociado cada 5 años
+OK: B
+WHY: Las empresas de más de 50 trabajadores deben contar con un conjunto planificado de medidas LGTBI que incluya un protocolo frente al acoso, en el plazo de 12 meses.
+TRAP: El plan de igualdad de la LO 3/2007 es otra obligación distinta.
+MEMO: >50 trabajadores: plan de igualdad (sexo) + medidas LGTBI (12 meses).
+SEC: 2.2
+REF: Ley 4/2023
+---
+Q: ¿Qué grado de dependencia corresponde a una persona que necesita ayuda dos o tres veces al día pero no apoyo permanente?
+A: Grado I, moderada
+B: Grado II, severa
+C: Grado III, gran dependencia
+OK: B
+WHY: Grado II (severa): ayuda dos o tres veces al día sin necesitar apoyo permanente de un cuidador.
+TRAP: Grado III exige apoyo indispensable y continuo.
+MEMO: I = una vez al día · II = 2-3 veces · III = continuo.
+SEC: 2.3
+REF: Ley 39/2006, art. 26
+---
+Q: ¿Qué instrumento determina los servicios o prestaciones concretos para una persona dependiente?
+A: La resolución de reconocimiento del grado
+B: El Programa Individual de Atención (PIA)
+C: El certificado de discapacidad
+OK: B
+WHY: Tras reconocer el grado, el PIA determina los servicios y/o prestaciones más adecuados.
+TRAP: La resolución reconoce el grado, pero no concreta las prestaciones.
+MEMO: Grado = cuánto. PIA = qué.
+SEC: 2.3
+REF: Ley 39/2006
+---
+Q: En el SAAD, ¿qué tiene prioridad con carácter general?
+A: Las prestaciones económicas
+B: Los servicios
+C: La prestación por cuidados familiares
+OK: B
+WHY: La ley prioriza la prestación de servicios; las económicas proceden cuando no es posible acceder a un servicio adecuado.
+TRAP: Las prestaciones económicas son habituales en la práctica, pero no la regla preferente.
+MEMO: Primero servicio; si no hay, dinero.
+SEC: 2.3
+REF: Ley 39/2006
+---
+Q: ¿Qué nivel de protección del SAAD garantiza la Administración General del Estado en todo el territorio?
+A: El nivel adicional
+B: El nivel acordado
+C: El nivel mínimo
+OK: C
+WHY: El nivel mínimo lo garantiza la AGE; el acordado se pacta con las CCAA; el adicional lo añade cada Comunidad.
+TRAP: El "acordado" también implica a la AGE, pero junto con la Comunidad Autónoma.
+MEMO: Mínimo (Estado) + Acordado (Estado+CCAA) + Adicional (CCAA).
+SEC: 2.3
+REF: Ley 39/2006
+---
+Q: Una empresa de 200 trabajadores, ¿cuántas personas con discapacidad debe tener como mínimo por la cuota de reserva?
+A: 2
+B: 4
+C: 10
+OK: B
+WHY: La cuota es del 2 % en empresas de 50 o más trabajadores: 2 % de 200 = 4.
+TRAP: 10 sería el 5 %, cifra que no corresponde a esta cuota.
+MEMO: Cuota de reserva: 2 de cada 100.
+SEC: 2.4
+REF: RDL 1/2013, art. 42
+---
+Q: ¿Qué grado mínimo de discapacidad permite computar en la cuota de reserva de empleo?
+A: 25 %
+B: 33 %
+C: 65 %
+OK: B
+WHY: Se exige un grado de discapacidad reconocido igual o superior al 33 %.
+TRAP: El 65 % aparece en otros ámbitos (prestaciones), no en la cuota.
+MEMO: Cuota: 2 % de la plantilla, con un 33 % de discapacidad.
+SEC: 2.4
+REF: RDL 1/2013, art. 42
+---
+Q: ¿Cuál de estas NO es una medida alternativa a la cuota de reserva?
+A: Contratar servicios con un centro especial de empleo
+B: Realizar una donación monetaria para la inserción laboral
+C: Pagar una tasa anual a la Seguridad Social por cada puesto no cubierto
+OK: C
+WHY: Las medidas alternativas son contratos con CEE o autónomos con discapacidad, donaciones y patrocinios, y enclaves laborales. No existe una "tasa" sustitutiva.
+TRAP: Suena razonable, pero no es una medida prevista.
+MEMO: Alternativas: CEE, donación/patrocinio, enclave.
+SEC: 2.4
+REF: RDL 1/2013
+---
+Q: La empresa despide a un trabajador porque cuida de su hijo con discapacidad y falta a veces. ¿Qué figura puede apreciarse?
+A: Discriminación por asociación
+B: Discriminación indirecta por razón de sexo
+C: Acoso por razón de sexo
+OK: A
+WHY: La discriminación por asociación es el trato desfavorable a una persona por su relación con una persona con discapacidad.
+TRAP: El trabajador no tiene discapacidad, pero queda protegido por su vínculo.
+MEMO: Te discriminan "por asociación" con alguien protegido.
+SEC: 2.4
+REF: RDL 1/2013
+---
+Q: ¿Qué diferencia la accesibilidad universal del diseño para todas las personas?
+A: Son sinónimos
+B: La accesibilidad es la condición que deben cumplir los entornos; el diseño universal es la actividad de proyectarlos sin necesidad de adaptación posterior
+C: La accesibilidad solo afecta a edificios y el diseño, a productos
+OK: B
+WHY: Accesibilidad universal = resultado/condición; diseño para todas las personas = método desde el origen.
+TRAP: Ambas abarcan entornos, productos y servicios, no solo edificios.
+MEMO: Diseño (cómo lo hago) → Accesibilidad (cómo queda).
+SEC: 2.4
+REF: RDL 1/2013
+---
+Q: Un aspirante con discapacidad visual pide más tiempo para el examen tipo test. ¿Qué procede?
+A: Eximirle del examen
+B: Adaptar tiempos y medios si es necesario, garantizando la igualdad de condiciones
+C: Denegarlo porque rompe la igualdad entre aspirantes
+OK: B
+WHY: Los procesos selectivos deben prever adaptaciones de tiempos y medios cuando sean necesarias; nunca la exención automática.
+TRAP: Adaptar no rompe la igualdad: la hace real.
+MEMO: Adaptar sí, eximir no.
+SEC: 2.4
+REF: RDL 1/2013
+---
+Q: ¿Qué afirmación sobre la Ley 4/2023 y la violencia de género es correcta?
+A: Deroga la Ley Orgánica 1/2004
+B: Aclara que la protección frente a la violencia de género alcanza a las mujeres trans
+C: Excluye a las mujeres trans de esa protección
+OK: B
+WHY: La Ley 4/2023 clarifica que las mujeres trans víctimas de violencia de género en la pareja están protegidas, sin derogar la LO 1/2004.
+TRAP: Clarificar no es derogar.
+MEMO: Amplía protección, no la sustituye.
+SEC: 2.2
+REF: Ley 4/2023
+---
+Q: Un centro educativo puede usar el "nombre sentido" de un alumno trans menor:
+A: Solo después de la rectificación registral
+B: Aunque no haya rectificación registral, con participación de sus representantes legales
+C: Nunca, por protección de datos
+OK: B
+WHY: La ley permite usar el nombre sentido en el entorno escolar sin necesidad de rectificación previa, con participación de los representantes legales.
+TRAP: El uso escolar no depende del Registro Civil.
+MEMO: En el cole, el nombre sentido; en el Registro, el procedimiento.
+SEC: 2.2
+REF: Ley 4/2023
+---
+Q: En el ámbito de la función pública, ¿qué duración máxima tiene la excedencia por cuidado de familiar?
+A: 2 años, igual que en el Estatuto de los Trabajadores
+B: 3 años, según el TREBEP
+C: 1 año
+OK: B
+WHY: El art. 89.4 TREBEP fija 3 años para funcionarios; el Estatuto de los Trabajadores establece, con carácter general, 2 años para el personal laboral.
+TRAP: La cifra cambia según el régimen jurídico aplicable.
+MEMO: Funcionario: 3 y 3. Laboral (ET): 3 por hijo, 2 por familiar.
+SEC: 2.1
+REF: TREBEP art. 89.4; ET art. 46.3
+---
+Q: Las cuidadoras no profesionales de una persona dependiente pueden:
+A: Darse de alta como trabajadoras de la persona cuidada obligatoriamente
+B: Suscribir un convenio especial con la Seguridad Social
+C: Cobrar una pensión contributiva directa
+OK: B
+WHY: La normativa de dependencia permite a los cuidadores no profesionales acceder a un convenio especial con la Seguridad Social.
+TRAP: No existe relación laboral con la persona cuidada.
+MEMO: Cuidar en casa → convenio especial.
+SEC: 2.3
+REF: Ley 39/2006
+---
+Q: ¿Qué principio obliga a integrar la igualdad en TODAS las políticas públicas, no solo en las de igualdad?
+A: Acción positiva
+B: Transversalidad de género
+C: Composición equilibrada
+OK: B
+WHY: La transversalidad exige integrar activamente la igualdad en la adopción y ejecución de todas las normas y políticas.
+TRAP: La acción positiva son medidas concretas; la transversalidad es un enfoque general.
+MEMO: Transversal = atraviesa todo.
+SEC: 2.1
+REF: LO 3/2007, art. 15
+---
+Q: ¿Cuál de estos servicios NO forma parte del catálogo del SAAD?
+A: Teleasistencia
+B: Centro de día y de noche
+C: Pensión no contributiva por jubilación
+OK: C
+WHY: El catálogo incluye prevención, teleasistencia, ayuda a domicilio, centros de día y de noche, atención residencial y prestaciones económicas; las pensiones no contributivas son otro sistema.
+TRAP: Todas son prestaciones sociales, pero solo dos pertenecen al SAAD.
+MEMO: SAAD = cuidar; pensiones = Seguridad Social.
+SEC: 2.3
+REF: Ley 39/2006

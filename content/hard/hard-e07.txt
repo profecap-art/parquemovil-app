@@ -1,0 +1,252 @@
+Q: De noche, circula con luces largas por una carretera sin tráfico y alcanza a un vehículo que va delante en su mismo sentido. ¿Qué debe hacer?
+A: Mantener las largas, porque el otro no viene de frente
+B: Cambiar a cortas con antelación, porque las largas le deslumbrarían por los retrovisores
+C: Apagar todas las luces un instante para avisarle
+OK: B
+WHY: El deslumbramiento afecta también a quien circula delante; hay que cambiar a cortas al alcanzarlo.
+TRAP: Pensar que solo se deslumbra al que viene de frente.
+MEMO: Delante o de frente: cortas.
+SEC: 2.1
+REF: RD 1428/2003 (RGC)
+---
+Q: Sus luces de cruce iluminan con claridad unos 40 m y su distancia de detención a 90 km/h supera ampliamente esa cifra. ¿Qué indica?
+A: Que circula correctamente si no supera el límite de la vía
+B: Que debe reducir la velocidad hasta poder detenerse dentro del espacio iluminado
+C: Que debe poner las antiniebla para iluminar más
+OK: B
+WHY: La regla nocturna es poder detenerse dentro de lo que alumbran las propias luces.
+TRAP: Creer que respetar el límite genérico basta.
+MEMO: No corras más de lo que ves.
+SEC: 2.1
+REF: Tema 7 (adecuación de la velocidad)
+---
+Q: Un vehículo que viene de frente no cambia a cortas y le deslumbra. ¿Qué técnica es la correcta?
+A: Mirar fijamente sus faros para que su vista se acostumbre
+B: Darle largas continuas hasta que cambie
+C: Desviar la vista hacia el borde derecho de la calzada y reducir la velocidad, deteniéndose si es necesario
+OK: C
+WHY: No mirar a la fuente de luz, guiarse por el borde derecho y reducir velocidad; la visión tarda segundos en recuperarse.
+TRAP: "Responder" con largas: se deslumbran ambos.
+MEMO: Ojos a la derecha, pie fuera del acelerador.
+SEC: 2.1
+REF: Tema 7
+---
+Q: Llueve de forma moderada, sin que la visibilidad se reduzca significativamente. ¿Debe encender la antiniebla trasera?
+A: Sí, siempre que llueva
+B: No: solo procede con condiciones especialmente desfavorables; encenderla aquí es uso indebido
+C: Sí, si circula por autovía
+OK: B
+WHY: La antiniebla trasera es obligatoria solo con visibilidad especialmente reducida (lluvia intensa, niebla densa…).
+TRAP: Asociar "lluvia" a "antiniebla".
+MEMO: Lluvia intensa sí; lluvia normal no.
+SEC: 2.2
+REF: RD 1428/2003 (RGC, condiciones que disminuyen la visibilidad)
+---
+Q: Por una carretera de 6 m de anchura con señal de curvas peligrosas sucesivas, de noche y sin niebla, ¿puede encender la antiniebla delantera?
+A: Sí, está permitido en vías estrechas y sinuosas (≤ 6,50 m) señalizadas con curvas sucesivas
+B: No, solo se puede usar con niebla
+C: Solo si el vehículo es pesado
+OK: A
+WHY: Es el supuesto especial de uso permitido de la antiniebla delantera.
+TRAP: Aplicar a la delantera la regla de la trasera.
+MEMO: Delantera: niebla o curvas en vía estrecha.
+SEC: 2.2
+REF: RD 1428/2003 (RGC)
+---
+Q: La niebla que justificaba encender la antiniebla trasera ha desaparecido hace varios kilómetros, pero el conductor la mantiene "por si acaso". ¿Cómo se valora?
+A: Es una medida prudente
+B: Es uso indebido y puede deslumbrar a quien circula detrás
+C: Solo es incorrecto de día
+OK: B
+WHY: Al cesar la condición deben apagarse; mantenerlas deslumbra por el retrovisor.
+TRAP: Pensar que "más luz" es siempre más seguro.
+MEMO: Se acabó la niebla, se apaga la antiniebla.
+SEC: 2.2
+REF: RD 1428/2003 (RGC)
+---
+Q: A 110 km/h sobre una gran lámina de agua, nota que la dirección se vuelve "ligera" y el coche no responde. ¿Qué debe hacer?
+A: Frenar a fondo para reducir velocidad
+B: Girar el volante con decisión para buscar zona seca
+C: Soltar el acelerador con suavidad, sujetar el volante recto y esperar a recuperar la adherencia
+OK: C
+WHY: En aquaplaning no hay contacto con el asfalto: frenar o girar es inútil y, al recuperar adherencia, provoca la pérdida de control.
+TRAP: El reflejo de frenar fuerte.
+MEMO: Agua bajo las ruedas: suelta y recto.
+SEC: 2.3
+REF: Tema 7
+---
+Q: Dos turismos idénticos circulan bajo la misma lluvia: uno con neumáticos de 7 mm de dibujo y otro con 2 mm. ¿Cuál es más propenso al aquaplaning?
+A: El de 7 mm, porque tiene más goma
+B: El de 2 mm, porque evacua peor el agua aunque cumpla el mínimo legal
+C: Los dos por igual
+OK: B
+WHY: Menos profundidad de dibujo = menos capacidad de evacuar agua, incluso cumpliendo el mínimo de 1,6 mm.
+TRAP: Pensar que si es legal, es igual de seguro.
+MEMO: Legal no es lo mismo que bueno.
+SEC: 2.3
+REF: Tema 7
+---
+Q: Tras atravesar una balsa de agua profunda, ¿qué conviene hacer primero?
+A: Frenar suavemente varias veces para comprobar y secar los frenos
+B: Acelerar fuerte para secar los neumáticos
+C: Circular varios kilómetros sin tocar el freno
+OK: A
+WHY: El agua puede reducir la eficacia de frenado; hay que comprobar que responden con suavidad.
+TRAP: Las respuestas "mágicas" de acelerar o no tocar nada.
+MEMO: Salir del agua: tocar freno suave.
+SEC: 2.3
+REF: Tema 7
+---
+Q: En plena niebla densa, el conductor enciende las largas para "ver más lejos". ¿Qué ocurre?
+A: Ve más lejos, por eso es lo recomendado
+B: Empeora la visibilidad, porque la luz se refleja en las gotas y crea una "pared blanca"
+C: No cambia nada
+OK: B
+WHY: El haz largo rebota en las partículas de agua y deslumbra al propio conductor.
+TRAP: Creer que más luz es siempre más visibilidad.
+MEMO: Niebla + largas = pared blanca.
+SEC: 2.4
+REF: Tema 7
+---
+Q: Entra en un banco de niebla repentino a 120 km/h en autovía. ¿Cuál es la secuencia más segura?
+A: Frenar en seco y encender las largas
+B: Reducir la velocidad progresivamente, encender cruce y antiniebla, aumentar la distancia
+C: Mantener la velocidad para no ser alcanzado
+OK: B
+WHY: Frenar en seco provoca alcances; hay que reducir progresivamente y adaptar luces y distancia.
+TRAP: Los dos extremos: frenar en seco o no frenar.
+MEMO: Niebla de golpe: frena de a poco.
+SEC: 2.4
+REF: Tema 7
+---
+Q: En niebla, ve las luces traseras del vehículo de delante cada vez más grandes y brillantes. ¿Qué significa y qué debe hacer?
+A: El otro ha encendido la antiniebla; no hay que hacer nada
+B: Se está acercando demasiado; debe aumentar la distancia
+C: El otro va a adelantar
+OK: B
+WHY: Es una señal visual de que la distancia de seguridad se está reduciendo.
+TRAP: Atribuirlo a las luces del otro.
+MEMO: Luces que crecen = distancia que mengua.
+SEC: 2.4
+REF: Tema 7
+---
+Q: La niebla es tan espesa que no puede continuar. ¿Dónde debe detenerse?
+A: En el carril, con las luces de cruce
+B: Fuera de la calzada (arcén o zona segura), con las luces de emergencia
+C: Detrás del primer vehículo que encuentre, muy cerca para no perderlo
+OK: B
+WHY: Detenerse en el carril con niebla multiplica el riesgo de alcance.
+TRAP: Pensar que con las luces encendidas basta.
+MEMO: Si paras en niebla, fuera de la calzada.
+SEC: 2.4
+REF: Tema 7
+---
+Q: Es invierno, temperatura cercana a 0 °C. La carretera está seca, pero se acerca a un viaducto. ¿Qué riesgo debe anticipar?
+A: Ninguno, porque la calzada está seca
+B: Placas de hielo en el viaducto, que se enfría por ambas caras y se hiela antes
+C: Más adherencia por el firme de hormigón
+OK: B
+WHY: Puentes y viaductos se enfrían por arriba y por abajo y se hielan antes que el resto.
+TRAP: Juzgar todo el tramo por lo que se ve en la parte seca.
+MEMO: Puente frío: hielo primero.
+SEC: 2.5
+REF: Tema 7
+---
+Q: Desciende un puerto con nieve compactada. ¿Cómo debe controlar la velocidad?
+A: Con frenadas largas y continuas
+B: En punto muerto, usando el freno de mano
+C: Con una marcha corta y el freno motor, frenando suavemente solo si es necesario
+OK: C
+WHY: El freno motor reduce el riesgo de bloqueo; las frenadas prolongadas o el punto muerto aumentan el riesgo de pérdida de control.
+TRAP: Punto muerto "para que ruede suave".
+MEMO: Bajar con nieve: marcha corta.
+SEC: 2.5
+REF: Tema 7
+---
+Q: Un furgón con tracción delantera debe montar cadenas. ¿Dónde se colocan?
+A: En las ruedas traseras
+B: En las ruedas delanteras, que son las motrices
+C: En las cuatro ruedas siempre
+OK: B
+WHY: Las cadenas se colocan en las ruedas motrices.
+TRAP: Pensar que siempre van atrás (como en vehículos de propulsión).
+MEMO: Cadenas donde tira el motor.
+SEC: 2.5
+REF: Tema 7
+---
+Q: Un neumático solo lleva el marcado M+S. Un tramo exige equipo de invierno. ¿Qué afirmación es más precisa?
+A: El M+S garantiza por sí solo un rendimiento ensayado en nieve
+B: El 3PMSF acredita rendimiento ensayado en nieve; el M+S por sí solo no ofrece esa garantía, por lo que conviene llevar cadenas homologadas
+C: Ambos son lo mismo
+OK: B
+WHY: El 3PMSF se concede tras ensayo homologado; el M+S es una indicación del fabricante.
+TRAP: Confundir los dos símbolos.
+MEMO: Montaña con copo > M+S.
+SEC: 2.7
+REF: Material del curso; verificar regulación vigente
+---
+Q: ¿Qué significa la señal R-412?
+A: Cadenas para nieve obligatorias
+B: Fin de prohibición por nieve
+C: Peligro por hielo
+OK: A
+WHY: R-412 es una señal de obligación: cadenas para nieve.
+TRAP: Confundir obligación (R, redonda azul) con peligro (P).
+MEMO: R de "requiere cadenas".
+SEC: 2.7
+REF: Catálogo de señales (RGC)
+---
+Q: Circula con un furgón vacío por un viaducto con viento lateral fuerte. Al salir de un túnel justo antes, ¿qué debe prever?
+A: Menos viento por el efecto túnel
+B: Una ráfaga súbita al salir, sujetando el volante con firmeza y moderando la velocidad
+C: Nada especial
+OK: B
+WHY: La salida de un túnel a una zona expuesta genera cambios bruscos de viento; los vehículos de gran superficie lateral son los más afectados.
+TRAP: Pensar que un vehículo vacío es más estable.
+MEMO: Salir del túnel: manos firmes.
+SEC: 2.6
+REF: Tema 7
+---
+Q: Con viento lateral fuerte, adelanta a un camión. ¿En qué momento debe esperar el empujón más fuerte?
+A: Antes de iniciar la maniobra
+B: Al salir de su "abrigo", al rebasar su parte delantera
+C: Nunca hay empujón
+OK: B
+WHY: Mientras se va a su lado el camión hace de pantalla; al rebasarlo, el viento golpea de nuevo de golpe.
+TRAP: Pensar que el riesgo solo está al empezar.
+MEMO: Fin de la pantalla, golpe de viento.
+SEC: 2.6
+REF: Tema 7
+---
+Q: De noche y con lluvia intensa, ¿cuál es la combinación de medidas más correcta?
+A: Largas y velocidad normal
+B: Cruce (y antiniebla si la visibilidad se reduce mucho), menos velocidad y más distancia
+C: Antiniebla delantera y trasera siempre, aunque la visibilidad sea buena
+OK: B
+WHY: Noche y lluvia combinan menor percepción y menor adherencia: luces adecuadas, menos velocidad y más distancia.
+TRAP: Pensar que las luces resuelven el problema solas.
+MEMO: Luces ayudan, velocidad salva.
+SEC: 2.3
+REF: Tema 7
+---
+Q: ¿Qué artículo del RGC regula el deslumbramiento, según los materiales del curso?
+A: Artículo 100
+B: Artículo 102
+C: Artículo 106
+OK: B
+WHY: 100 largas, 101 cortas, 102 deslumbramiento, 106 condiciones que disminuyen la visibilidad.
+TRAP: Confundir los artículos consecutivos del alumbrado.
+MEMO: 100 lejos, 101 cerca, 102 ciega.
+SEC: 2.7
+REF: RD 1428/2003 (RGC), según material del curso
+---
+Q: En una zona umbría de una carretera de montaña, de mañana en invierno, el resto del firme está seco. ¿Qué debe prever?
+A: Que la sombra estará igual de seca
+B: Placas de hielo en la zona de sombra, aunque el resto esté seco
+C: Más adherencia por la humedad
+OK: B
+WHY: Las zonas de sombra permanente mantienen el hielo cuando el resto ya se ha secado.
+TRAP: Generalizar el estado del firme soleado.
+MEMO: Sombra en invierno = posible hielo.
+SEC: 2.5
+REF: Tema 7

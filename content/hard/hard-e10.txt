@@ -1,0 +1,241 @@
+Q: Bajando un puerto largo con un furgón cargado, el pedal de freno se nota cada vez menos eficaz aunque lo pisa igual. ¿Qué fenómeno es y cómo se previene?
+A: Aquaplaning; reduciendo la presión de los neumáticos
+B: Fading por sobrecalentamiento; usando marchas cortas y el freno motor en lugar de frenar de forma continuada
+C: Fallo del alternador; apagando las luces
+OK: B
+WHY: El fading es la pérdida de eficacia por calor en discos, tambores y líquido; el freno motor reparte el esfuerzo.
+TRAP: Confundir pérdida de eficacia con falta de adherencia.
+MEMO: Bajada larga: marcha corta, pie suave.
+SEC: 2.3
+REF: Tema 10
+---
+Q: El líquido de frenos tiene dos años y nunca se ha cambiado. ¿Cuál es el riesgo principal?
+A: Que se congele en verano
+B: Que haya absorbido humedad, bajando su punto de ebullición y su eficacia
+C: Ninguno, porque es un circuito cerrado
+OK: B
+WHY: El líquido de frenos es higroscópico: absorbe humedad con el tiempo, lo que reduce su eficacia y favorece la corrosión.
+TRAP: Pensar que el circuito cerrado lo protege totalmente.
+MEMO: Líquido de frenos viejo = agua dentro.
+SEC: 2.3
+REF: Tema 10
+---
+Q: Un vehículo deja de tener asistencia en la dirección en plena marcha. ¿Qué ocurre?
+A: La dirección se bloquea y no se puede girar
+B: Se puede seguir dirigiendo, pero con un esfuerzo mucho mayor
+C: El vehículo se detiene automáticamente
+OK: B
+WHY: La avería de la asistencia no impide dirigir; aumenta mucho el esfuerzo necesario.
+TRAP: Creer que sin asistencia no hay dirección.
+MEMO: Sin asistencia, brazos fuertes.
+SEC: 2.4
+REF: Tema 10
+---
+Q: Un turismo tiene los neumáticos delanteros desgastados solo por los dos bordes exteriores de la banda. ¿Qué causa es la más probable?
+A: Presión excesiva
+B: Presión insuficiente
+C: Exceso de dibujo
+OK: B
+WHY: Con poca presión el neumático apoya más en los laterales; con presión excesiva se desgasta el centro.
+TRAP: Invertir los dos patrones.
+MEMO: Poco aire, bordes; mucho aire, centro.
+SEC: 2.7
+REF: Tema 10
+---
+Q: A partir de 100 km/h el volante vibra, pero a 60 km/h no. ¿Qué revisar primero?
+A: El equilibrado de las ruedas
+B: El termostato
+C: El filtro de habitáculo
+OK: A
+WHY: Una vibración que aparece a partir de cierta velocidad es típica del desequilibrado.
+TRAP: Pensar en el motor.
+MEMO: Vibra a cierta velocidad: equilibrar.
+SEC: 2.7
+REF: Tema 10
+---
+Q: Un turismo se desvía hacia la derecha en recta y los neumáticos delanteros se desgastan de forma irregular. ¿Qué es lo más probable?
+A: Un fallo de la batería
+B: Un problema de geometría de la dirección (alineación)
+C: Exceso de aceite
+OK: B
+WHY: La geometría incorrecta produce desvío de trayectoria y desgaste irregular.
+TRAP: Pensar solo en la presión.
+MEMO: Tira de un lado = alinear.
+SEC: 2.4
+REF: Tema 10
+---
+Q: Un coche con amortiguadores muy gastados pero frenos nuevos realiza una frenada de emergencia en un firme bacheado. Respecto a uno con amortiguadores en buen estado:
+A: Frenará igual, porque los frenos son nuevos
+B: Necesitará más distancia, porque las ruedas pierden contacto con el suelo en algunos instantes
+C: Frenará antes
+OK: B
+WHY: Sin buen control del rebote, la rueda deja de tocar el suelo y en esos instantes no transmite fuerza de frenado.
+TRAP: Pensar que la frenada depende solo del sistema de frenos.
+MEMO: Rueda en el aire no frena.
+SEC: 2.5
+REF: Tema 10
+---
+Q: Al arrancar, las luces del cuadro y el claxon funcionan con normalidad, pero al girar la llave el motor de arranque no hace nada. ¿Qué es más probable?
+A: Batería completamente descargada
+B: Fallo del motor de arranque o de su circuito
+C: Filtro de aire obstruido
+OK: B
+WHY: Si la batería alimenta otros consumos con normalidad, el problema apunta al propio arranque.
+TRAP: Culpar siempre a la batería.
+MEMO: Luces sí, arranque no: el arranque.
+SEC: 2.6
+REF: Tema 10
+---
+Q: Con el motor en marcha se enciende el testigo de carga de la batería. ¿Qué elemento es el principal sospechoso?
+A: El alternador o su circuito de carga
+B: El filtro de combustible
+C: El diferencial
+OK: A
+WHY: Con el motor en marcha quien carga la batería es el alternador; si el testigo se enciende, no está cargando correctamente.
+TRAP: Pensar que el testigo indica solo "batería vieja".
+MEMO: Motor en marcha + testigo de batería = alternador.
+SEC: 2.6
+REF: Tema 10
+---
+Q: Un motor diésel moderno, usado solo en trayectos urbanos muy cortos, empieza a perder potencia y se enciende un testigo del sistema anticontaminación. ¿Qué componente es el más probable?
+A: El FAP/DPF saturado de hollín, que no ha podido regenerarse
+B: El catalizador de gasolina
+C: El termostato
+OK: A
+WHY: El FAP se regenera quemando el hollín a alta temperatura; en trayectos cortos no alcanza esa temperatura.
+TRAP: Confundir con el AdBlue, que reduce NOx, no partículas.
+MEMO: Diésel en ciudad: FAP lleno.
+SEC: 2.1
+REF: Tema 10
+---
+Q: ¿Qué sistema reduce los óxidos de nitrógeno (NOx) en un diésel mediante una solución de urea?
+A: FAP/DPF
+B: SCR con AdBlue
+C: Intercooler
+OK: B
+WHY: El SCR inyecta AdBlue (urea) en el escape para reducir los NOx; el FAP retiene partículas.
+TRAP: Mezclar FAP (hollín) con SCR (NOx).
+MEMO: AdBlue = NOx; FAP = hollín.
+SEC: 2.1
+REF: Tema 10
+---
+Q: Sale humo blanco-azulado por el escape de forma persistente con el motor caliente. ¿Qué indica?
+A: Combustión con exceso de combustible
+B: Probable quema de aceite
+C: Funcionamiento normal
+OK: B
+WHY: Humo blanco-azulado suele indicar quema de aceite; el negro, exceso de combustible.
+TRAP: Confundir con el vapor de agua normal en frío.
+MEMO: Azul de aceite, negro de gasóleo.
+SEC: 2.1
+REF: Tema 10
+---
+Q: En verano, con atasco y el vehículo parado, sube la temperatura del motor. ¿Qué elemento debería estar actuando para evitarlo?
+A: El electroventilador del radiador
+B: El intercooler
+C: El alternador
+OK: A
+WHY: A baja velocidad o parado, el aire que atraviesa el radiador es insuficiente y el electroventilador refuerza la refrigeración.
+TRAP: Pensar que a más velocidad, más calor.
+MEMO: Parado y caliente: ventilador.
+SEC: 2.1
+REF: Tema 10
+---
+Q: El motor tarda mucho en alcanzar su temperatura y la calefacción apenas calienta en invierno. ¿Qué componente puede estar fallando?
+A: El termostato, quedándose abierto
+B: El vaso de expansión, por exceso de líquido
+C: La bomba de frenos
+OK: A
+WHY: El termostato regula el paso del refrigerante según la temperatura; si queda abierto, el motor se enfría en exceso.
+TRAP: Pensar que solo puede fallar provocando sobrecalentamiento.
+MEMO: Termostato abierto = motor frío.
+SEC: 2.1
+REF: Tema 10
+---
+Q: ¿Por qué no se debe rellenar el circuito de refrigeración solo con agua del grifo de forma habitual?
+A: Porque el agua sola no protege contra la corrosión ni la congelación
+B: Porque el agua refrigera demasiado
+C: Porque está prohibido por la ITV
+OK: A
+WHY: El refrigerante lleva aditivos anticorrosión (y anticongelantes); el agua sola no los tiene.
+TRAP: Pensar que "refrigerar" es solo enfriar.
+MEMO: Refrigerante, nunca agua sola.
+SEC: 2.1
+REF: Tema 10
+---
+Q: Un vehículo con tracción delantera hace un ruido de "clac-clac" rítmico al girar con el volante muy girado. ¿Qué elemento es sospechoso?
+A: Las juntas homocinéticas
+B: El catalizador
+C: El filtro de aceite
+OK: A
+WHY: Las homocinéticas transmiten el giro a las ruedas motrices mientras giran; su desgaste se manifiesta al girar mucho.
+TRAP: Pensar en la dirección asistida.
+MEMO: Ruido al girar fuerte: homocinética.
+SEC: 2.2
+REF: Tema 10 (ampliación técnica)
+---
+Q: ¿Qué diferencia existe entre el freno de estacionamiento y el freno de servicio?
+A: Ninguna: son el mismo sistema
+B: El de estacionamiento mantiene el vehículo inmovilizado; el de servicio es el que frena en marcha
+C: El de estacionamiento es más potente
+OK: B
+WHY: El freno de estacionamiento no sustituye al de servicio: su función es mantener el vehículo inmóvil.
+TRAP: Pensar que puede usarse como freno principal.
+MEMO: Freno de mano: aparcar, no frenar.
+SEC: 2.3
+REF: Tema 10
+---
+Q: En un autobús con frenos neumáticos se enciende el aviso de baja presión de aire. ¿Qué puede ocurrir?
+A: Nada; es un aviso informativo
+B: Retrasos en la frenada e incluso la inmovilización del vehículo por los sistemas de seguridad
+C: Más potencia de frenado
+OK: B
+WHY: Con presión insuficiente en el circuito neumático puede retrasarse la frenada o actuar la inmovilización de seguridad.
+TRAP: Ignorar el aviso.
+MEMO: Poco aire, freno en peligro.
+SEC: 2.3
+REF: Tema 10
+---
+Q: Un neumático tiene 2 mm de dibujo. ¿Qué afirmación es correcta?
+A: Es ilegal
+B: Es legal (supera 1,6 mm), pero conviene cambiarlo: por seguridad se recomienda hacerlo en torno a 3 mm (verano)
+C: Es la profundidad óptima
+OK: B
+WHY: 1,6 mm es el mínimo legal; la recomendación de seguridad es cambiarlos antes.
+TRAP: Confundir mínimo legal con seguridad.
+MEMO: 1,6 es la ley; 3 es la prudencia.
+SEC: 2.7
+REF: Tema 10
+---
+Q: La presión de los neumáticos de un furgón se ha ajustado "en vacío" y se carga al máximo para un viaje largo. ¿Qué debe hacer?
+A: Nada; la presión no depende de la carga
+B: Ajustar la presión a la indicada por el fabricante para esa carga
+C: Bajar la presión para mejorar el agarre
+OK: B
+WHY: La presión recomendada varía según la carga; con presión insuficiente para la carga aumenta el riesgo de sobrecalentamiento y reventón.
+TRAP: Pensar que hay una única presión.
+MEMO: Más carga, revisar presión.
+SEC: 2.7
+REF: Tema 10
+---
+Q: Ordene correctamente los cuatro tiempos de un motor de combustión:
+A: Compresión – admisión – escape – explosión
+B: Admisión – compresión – explosión – escape
+C: Admisión – explosión – compresión – escape
+OK: B
+WHY: El pistón aspira la mezcla, la comprime, se produce la combustión y salen los gases.
+TRAP: Poner la explosión antes de la compresión.
+MEMO: Aspira, aprieta, explota, expulsa.
+SEC: 2.1
+REF: Mecánica general (ampliación)
+---
+Q: Si se rompe la correa de distribución de un motor "interferente" en marcha, ¿qué daño puede producirse?
+A: Ninguno grave
+B: Choque entre válvulas y pistones, con avería grave del motor
+C: Solo se descarga la batería
+OK: B
+WHY: La distribución sincroniza válvulas y pistones; sin ella, en un motor interferente, chocan.
+TRAP: Subestimar la importancia de cambiar la correa en plazo.
+MEMO: Correa rota, motor roto.
+SEC: 2.1
+REF: Mecánica general (ampliación)

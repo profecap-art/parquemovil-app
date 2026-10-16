@@ -1,0 +1,274 @@
+Q: ¿Cuál de las siguientes facultades SÍ puede ejercer el Vicepresidente que sustituye al Presidente por enfermedad?
+A: Proponer al Rey la disolución de las Cortes
+B: Convocar y presidir el Consejo de Ministros
+C: Plantear la cuestión de confianza
+OK: B
+WHY: La suplencia asume las funciones ordinarias del Presidente, pero nunca incluye disolver las Cámaras, plantear la cuestión de confianza ni proponer referéndum.
+TRAP: Las tres parecen funciones del Presidente; dos de ellas están expresamente excluidas de la suplencia.
+MEMO: El suplente gestiona, pero no "Disuelve, Confía ni Consulta".
+SEC: 2.3
+REF: Ley 50/1997, art. 13
+---
+Q: ¿Qué órgano examina TODOS los asuntos que se elevan al Consejo de Ministros (salvo nombramientos y ceses de altos cargos)?
+A: El Secretariado del Gobierno
+B: Las Comisiones Delegadas del Gobierno
+C: La Comisión General de Secretarios de Estado y Subsecretarios
+OK: C
+WHY: La Comisión General de Secretarios de Estado y Subsecretarios prepara y examina los asuntos del Consejo, sin decidir por delegación.
+TRAP: El Secretariado es apoyo administrativo (convocatorias, actas, BOE), no examina el fondo.
+MEMO: "La General" lo ve todo antes del Consejo.
+SEC: 2.8
+REF: Ley 50/1997, art. 8
+---
+Q: ¿Qué órgano se encarga de custodiar las actas del Consejo de Ministros y velar por la publicación en el BOE?
+A: Los Gabinetes
+B: El Secretariado del Gobierno
+C: La Comisión General de Secretarios de Estado y Subsecretarios
+OK: B
+WHY: El Secretariado del Gobierno remite convocatorias, custodia actas y vela por la correcta publicación de las disposiciones.
+TRAP: Los Gabinetes son apoyo político y técnico de confianza, no apoyo documental.
+MEMO: Secretariado = papeles (convocar, actas, BOE).
+SEC: 2.8
+REF: Ley 50/1997, art. 9
+---
+Q: ¿Cómo se determina el número y denominación de los Ministerios?
+A: Por Real Decreto del Presidente del Gobierno
+B: Por Real Decreto acordado en Consejo de Ministros
+C: Por Ley aprobada en Cortes
+OK: A
+WHY: Corresponde al Presidente crear, modificar y suprimir por Real Decreto los Departamentos ministeriales y las Secretarías de Estado.
+TRAP: La estructura interna (órganos superiores y directivos) sí se aprueba por Real Decreto del Consejo de Ministros.
+MEMO: Cuántos Ministerios hay → Presidente. Cómo se organizan por dentro → Consejo de Ministros.
+SEC: 2.13
+REF: Ley 50/1997, art. 2.2
+---
+Q: Una nueva sección de nivel inferior a Subdirección General se crea mediante:
+A: Real Decreto del Consejo de Ministros
+B: Orden Ministerial
+C: Resolución del Subsecretario
+OK: B
+WHY: Los órganos inferiores a Subdirección General se crean, modifican y suprimen por Orden Ministerial.
+TRAP: Hasta Subdirección General es Real Decreto; por debajo, Orden.
+MEMO: De Subdirector para arriba: Real Decreto. Para abajo: Orden Ministerial.
+SEC: 2.13
+REF: Ley 40/2015 (creación de órganos)
+---
+Q: ¿De qué órgano depende jerárquicamente el Secretario General Técnico de un Ministerio?
+A: Del Ministro directamente
+B: Del Subsecretario
+C: Del Secretario de Estado
+OK: B
+WHY: El Secretario General Técnico depende jerárquicamente del Subsecretario.
+TRAP: Por su nombre "Secretario General" puede parecer que depende del Ministro.
+MEMO: SGT cuelga del Subsecretario (ambos gestionan los servicios comunes).
+SEC: 2.13
+REF: Ley 40/2015 (órganos directivos)
+---
+Q: ¿Cuál de los siguientes es un órgano SUPERIOR (no directivo) de la AGE?
+A: Subsecretario
+B: Secretario General
+C: Secretario de Estado
+OK: C
+WHY: Órganos superiores: Ministros y Secretarios de Estado. El Subsecretario y el Secretario General son órganos directivos.
+TRAP: El Subsecretario tiene rango alto, pero es órgano directivo.
+MEMO: Superiores solo dos: Ministro y Secretario de Estado.
+SEC: 2.13
+REF: Ley 40/2015 (órganos superiores y directivos)
+---
+Q: El Gobierno en funciones necesita aprobar los Presupuestos Generales del Estado. ¿Puede hacerlo?
+A: Sí, si existe urgencia acreditada
+B: No: el Gobierno en funciones no puede aprobar el proyecto de Presupuestos
+C: Sí, con autorización del Senado
+OK: B
+WHY: La Ley 50/1997 prohíbe expresamente al Gobierno en funciones aprobar el proyecto de Ley de PGE y presentar proyectos de ley.
+TRAP: La cláusula de urgencia permite otras medidas, pero no los Presupuestos.
+MEMO: En funciones: ni Presupuestos ni proyectos de ley.
+SEC: 2.5
+REF: Ley 50/1997, art. 21
+---
+Q: ¿Cuántos días deben transcurrir desde la presentación de una moción de censura hasta su votación?
+A: 2 días
+B: 5 días
+C: 10 días
+OK: B
+WHY: La moción no puede votarse hasta que transcurran cinco días; en los dos primeros pueden presentarse mociones alternativas.
+TRAP: El "2" corresponde al plazo para mociones alternativas, no a la votación.
+MEMO: 5 días para votar; los 2 primeros, para alternativas.
+SEC: 2.4
+REF: CE art. 113
+---
+Q: ¿Cuál es la duración inicial máxima del estado de excepción?
+A: 15 días
+B: 30 días, prorrogable por otro plazo igual
+C: 60 días improrrogables
+OK: B
+WHY: El estado de excepción puede declararse hasta 30 días, prorrogables por igual plazo. El de alarma es de 15 días.
+TRAP: Confundir los 15 días de la alarma con los 30 de la excepción.
+MEMO: Alarma 15 · Excepción 30 (+30) · Sitio: lo fija el Congreso.
+SEC: 2.10
+REF: CE art. 116; LO 4/1981
+---
+Q: ¿Cuál es el plazo ordinario del trámite de audiencia e información pública en la elaboración de normas del Gobierno?
+A: 15 días hábiles, reducible a 7 por urgencia
+B: 30 días naturales
+C: 10 días hábiles, improrrogables
+OK: A
+WHY: El art. 26 Ley 50/1997 fija 15 días hábiles, reducibles a 7 por razones de urgencia motivadas.
+TRAP: La tramitación urgente reduce plazos "a la mitad": 15 → 7 (redondeo legal).
+MEMO: Audiencia: 15 hábiles (7 si corre prisa).
+SEC: 2.9
+REF: Ley 50/1997, art. 26
+---
+Q: Una norma que impone nuevas obligaciones a autónomos se aprueba el 20 de marzo. Salvo excepción, ¿cuándo entra en vigor?
+A: Al día siguiente de su publicación
+B: El 1 de julio siguiente
+C: El 2 de enero del año siguiente
+OK: B
+WHY: Las normas con nuevas obligaciones para actividades económicas entran en vigor el 2 de enero o el 1 de julio siguientes a su aprobación; tras el 20 de marzo, la siguiente fecha es el 1 de julio.
+TRAP: Hay que elegir la PRIMERA de las dos fechas que llegue después de la aprobación.
+MEMO: Dos "puertas" al año: 2 de enero y 1 de julio.
+SEC: 2.9
+REF: Ley 50/1997 (entrada en vigor)
+---
+Q: ¿Antes de qué fecha debe el Gobierno elaborar el informe anual de evaluación normativa?
+A: 31 de diciembre
+B: 30 de abril
+C: 1 de julio
+OK: B
+WHY: El informe sobre el cumplimiento del Plan Anual Normativo del año anterior debe elaborarse antes del 30 de abril.
+TRAP: 1 de julio es una de las fechas de entrada en vigor de nuevas obligaciones.
+MEMO: Abril: se evalúa lo normado el año anterior.
+SEC: 2.9
+REF: Ley 50/1997 (evaluación normativa)
+---
+Q: Un entidad del sector público que se financia mayoritariamente con ingresos de mercado y se rige en general por Derecho privado es:
+A: Un organismo autónomo
+B: Una entidad pública empresarial
+C: Una autoridad administrativa independiente
+OK: B
+WHY: La entidad pública empresarial se financia mayoritariamente con ingresos de mercado y se rige por Derecho privado, salvo formación de voluntad y potestades administrativas.
+TRAP: El organismo autónomo también depende de la AGE, pero se rige por Derecho administrativo.
+MEMO: EPE = Empresa → Derecho privado y mercado.
+SEC: 2.15
+REF: Ley 40/2015 (sector público institucional)
+---
+Q: ¿Qué norma rige, en lo no previsto por la Ley 40/2015, las fundaciones del sector público?
+A: La Ley 50/2002, de Fundaciones
+B: El Código de Comercio
+C: La Ley 50/1997, del Gobierno
+OK: A
+WHY: Las fundaciones del sector público se rigen supletoriamente por la Ley 50/2002, de Fundaciones.
+TRAP: Las dos "Leyes 50" (50/1997 y 50/2002) se confunden con facilidad.
+MEMO: 50/1997 = Gobierno; 50/2002 = Fundaciones.
+SEC: 2.15
+REF: Ley 40/2015 (fundaciones del sector público)
+---
+Q: ¿Qué quórum exige la válida constitución de un órgano colegiado, salvo norma específica?
+A: Presidente, Secretario y al menos la mitad de los miembros
+B: La totalidad de los miembros
+C: Presidente y dos tercios de los miembros, sin Secretario
+OK: A
+WHY: Se requiere la presencia del Presidente y del Secretario (o sustitutos) y de, al menos, la mitad de sus miembros.
+TRAP: Olvidar que el Secretario es imprescindible.
+MEMO: P + S + mitad.
+SEC: 2.16
+REF: Ley 40/2015 (órganos colegiados)
+---
+Q: Un funcionario mantiene amistad íntima con un interesado y no se aparta del procedimiento. ¿Qué pueden hacer los demás interesados?
+A: Promover su recusación
+B: Exigir su abstención mediante recurso de amparo
+C: Nada, porque la abstención es voluntaria
+OK: A
+WHY: Cuando quien debía abstenerse no lo hace, los interesados pueden promover la recusación en cualquier momento del procedimiento.
+TRAP: La abstención es un DEBER del funcionario, no algo voluntario.
+MEMO: Abstención: la inicia él. Recusación: la piden los demás.
+SEC: 2.16
+REF: Ley 40/2015, arts. 23-24
+---
+Q: Una nueva ordenanza sanciona una conducta con multa menor que la anterior. ¿Se aplica a una infracción cometida antes de su entrada en vigor y aún no resuelta?
+A: No, las normas sancionadoras nunca son retroactivas
+B: Sí, porque la irretroactividad no alcanza a las disposiciones favorables al infractor
+C: Solo si lo autoriza el Consejo de Ministros
+OK: B
+WHY: Las disposiciones sancionadoras no son retroactivas, salvo las favorables al presunto infractor.
+TRAP: "Nunca retroactivas" es una generalización incorrecta.
+MEMO: Lo que te perjudica no vuelve atrás; lo que te favorece, sí.
+SEC: 2.17
+REF: Ley 40/2015 (potestad sancionadora)
+---
+Q: ¿Qué principio impide sancionar dos veces un mismo hecho cuando hay identidad de sujeto, hecho y fundamento?
+A: Tipicidad
+B: Proporcionalidad
+C: Non bis in idem
+OK: C
+WHY: El non bis in idem prohíbe la doble sanción con triple identidad de sujeto, hecho y fundamento.
+TRAP: Tipicidad exige que la infracción esté prevista en norma con rango de ley.
+MEMO: Non bis in idem = "no dos veces por lo mismo".
+SEC: 2.17
+REF: Ley 40/2015 (potestad sancionadora)
+---
+Q: Un servicio público funciona correctamente, pero causa un daño efectivo e individualizado a un ciudadano. ¿Responde la Administración?
+A: No, porque solo responde si hay funcionamiento anormal
+B: Sí, porque la responsabilidad patrimonial es objetiva y cubre el funcionamiento normal
+C: Solo si el daño procede de un delito
+OK: B
+WHY: La responsabilidad patrimonial es objetiva: cubre el funcionamiento normal o anormal, salvo fuerza mayor o deber jurídico de soportar el daño.
+TRAP: Pensar que hace falta culpa o negligencia.
+MEMO: Normal o anormal: si hay daño indemnizable y nexo, se paga.
+SEC: 2.18
+REF: Ley 40/2015, art. 32
+---
+Q: ¿Qué principio obliga a cada Administración a ponderar los intereses de las demás Administraciones al ejercer sus competencias?
+A: Lealtad institucional
+B: Desconcentración
+C: Eficacia
+OK: A
+WHY: La lealtad institucional exige ponderar la totalidad de los intereses públicos implicados, incluidos los de otras Administraciones.
+TRAP: Coordinación y colaboración se refieren a medios e información; la ponderación de intereses es lealtad.
+MEMO: Leal = piensa también en el otro.
+SEC: 2.19
+REF: Ley 40/2015, art. 140
+---
+Q: Un convenio administrativo se firmó por 4 años. ¿Puede prorrogarse?
+A: No, el plazo máximo es improrrogable
+B: Sí, por acuerdo unánime de los firmantes y hasta 4 años adicionales
+C: Sí, indefinidamente mientras ninguna parte lo denuncie
+OK: B
+WHY: Los convenios tienen duración máxima de 4 años y pueden prorrogarse por unanimidad hasta 4 años adicionales.
+TRAP: La prórroga existe pero es limitada y requiere unanimidad.
+MEMO: 4 + 4 como máximo.
+SEC: 2.19
+REF: Ley 40/2015, art. 49
+---
+Q: ¿Qué figura NO forma parte del Gobierno?
+A: Un Vicepresidente sin cartera
+B: El Ministro de la Presidencia
+C: El Secretario de Estado de Seguridad
+OK: C
+WHY: Los Secretarios de Estado son órganos superiores de la AGE, no miembros del Gobierno.
+TRAP: Un Vicepresidente sin cartera sí es miembro del Gobierno.
+MEMO: Gobierno = P + VP + Ministros. Nadie más.
+SEC: 2.2
+REF: Ley 50/1997, art. 1.2
+---
+Q: ¿Cuál de estos actos del Gobierno se somete a control ante la jurisdicción contencioso-administrativa?
+A: Los actos y omisiones sujetos a Derecho administrativo
+B: Únicamente las Órdenes Ministeriales firmadas por el Rey
+C: Ninguno: solo existe control parlamentario
+OK: A
+WHY: El art. 29 Ley 50/1997 prevé control político (Cortes), jurisdiccional contencioso-administrativo (actos sujetos a Derecho administrativo) y de constitucionalidad.
+TRAP: Las Órdenes Ministeriales las firma el Ministro, no el Rey.
+MEMO: Triple control: Cortes · Contencioso · Constitucional.
+SEC: 2.11
+REF: Ley 50/1997, art. 29
+---
+Q: ¿Qué rango tiene el Delegado del Gobierno en una Comunidad Autónoma?
+A: Rango de Ministro
+B: Rango de Subsecretario
+C: Rango de Director General
+OK: B
+WHY: Los Delegados del Gobierno tienen rango de Subsecretario y se nombran por Real Decreto del Consejo de Ministros.
+TRAP: Representan al Gobierno, pero no son miembros de él.
+MEMO: Delegado = "Subsecretario en territorio".
+SEC: 2.14
+REF: Ley 40/2015, art. 72

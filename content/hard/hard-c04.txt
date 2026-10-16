@@ -1,0 +1,274 @@
+Q: Un trabajador rechaza un traslado que le obliga a cambiar de residencia y opta por extinguir su contrato. ¿Qué indemnización le corresponde?
+A: 20 días por año, máximo 9 mensualidades
+B: 20 días por año, máximo 12 mensualidades
+C: 33 días por año, máximo 24 mensualidades
+OK: B
+WHY: Ante un traslado del art. 40 ET, el trabajador puede extinguir con 20 días de salario por año, con tope de 12 mensualidades.
+TRAP: El tope de 9 mensualidades corresponde a la modificación sustancial lesiva.
+MEMO: Traslado = 20 días y 12 meses ("mudanza pesa más").
+SEC: 2.5
+REF: ET art. 40
+---
+Q: Un trabajador ve reducido su sistema de remuneración por modificación sustancial que menoscaba su dignidad y decide rescindir. ¿Indemnización?
+A: 20 días por año, máximo 9 mensualidades
+B: 20 días por año, máximo 12 mensualidades
+C: 45 días por año, sin límite
+OK: A
+WHY: La rescisión por modificación sustancial lesiva (formación o dignidad) da derecho a 20 días por año con tope de 9 mensualidades.
+TRAP: Misma base que el traslado (20 días), distinto tope.
+MEMO: Modificación = 9; Traslado = 12.
+SEC: 2.6
+REF: ET art. 41
+---
+Q: Un trabajador lleva 14 meses desplazado temporalmente a otra ciudad dentro de un periodo de 3 años. ¿Cómo se trata legalmente?
+A: Sigue siendo un desplazamiento temporal
+B: Como un traslado, con sus mismas garantías
+C: Como una excedencia forzosa
+OK: B
+WHY: El desplazamiento que supera 12 meses en un periodo de 3 años recibe el tratamiento de traslado.
+TRAP: El adjetivo "temporal" deja de valer al superar el umbral.
+MEMO: Más de 12 en 3 = traslado.
+SEC: 2.5
+REF: ET art. 40
+---
+Q: Una empresa con 20 trabajadores contrata a un administrativo (no técnico titulado) con contrato indefinido. ¿Periodo de prueba máximo?
+A: 2 meses
+B: 3 meses
+C: 6 meses
+OK: B
+WHY: Para trabajadores no técnicos el máximo es 2 meses, ampliable a 3 en empresas de menos de 25 trabajadores.
+TRAP: Hay que cruzar el tipo de trabajador con el tamaño de la empresa.
+MEMO: Técnico 6 · resto 2 · resto en pequeña empresa (<25) 3 · temporal ≤6 meses 1.
+SEC: 2.3
+REF: ET art. 14
+---
+Q: Un trabajador con contrato temporal de 5 meses, ¿qué periodo de prueba máximo puede tener, salvo convenio?
+A: 2 meses
+B: 15 días
+C: 1 mes
+OK: C
+WHY: En contratos de duración determinada no superior a 6 meses el periodo de prueba no puede exceder de 1 mes, salvo convenio.
+TRAP: Aplicar los 2 meses de los contratos indefinidos.
+MEMO: Contrato corto (≤6 meses) = prueba corta (1 mes).
+SEC: 2.3
+REF: ET art. 14
+---
+Q: Una empresa readmite a un trabajador que ya desempeñó idénticas funciones el año anterior y pacta un periodo de prueba. ¿Es válido?
+A: Sí, si consta por escrito
+B: No, es nulo porque ya desempeñó esas funciones en la empresa
+C: Sí, pero solo por la mitad del plazo legal
+OK: B
+WHY: Es nulo el pacto de prueba cuando el trabajador ya ha desempeñado las mismas funciones con anterioridad en la empresa.
+TRAP: La forma escrita es necesaria, pero no suficiente.
+MEMO: Lo ya probado no se vuelve a probar.
+SEC: 2.3
+REF: ET art. 14
+---
+Q: ¿Cuál de los siguientes contratos ya NO existe tras la reforma laboral de 2021?
+A: Contrato de sustitución
+B: Contrato para obra o servicio determinado
+C: Contrato fijo-discontinuo
+OK: B
+WHY: El RDL 32/2021 eliminó el contrato de obra o servicio. La sustitución (antigua interinidad) y el fijo-discontinuo siguen vigentes.
+TRAP: El fijo-discontinuo no es temporal: es indefinido.
+MEMO: Adiós "obra y servicio"; hola "circunstancias de la producción".
+SEC: 2.2
+REF: RDL 32/2021
+---
+Q: ¿Qué duración máxima tiene la modalidad especial del contrato por circunstancias de la producción (situaciones ocasionales previsibles)?
+A: 6 meses ampliables a 12
+B: 90 días en el año natural, no continuados
+C: 3 meses
+OK: B
+WHY: La modalidad especial se limita a 90 días al año y no pueden usarse de forma continuada.
+TRAP: 6-12 meses es la modalidad general; 3 meses, la sustitución por vacante.
+MEMO: Ocasional previsible = 90 días al año.
+SEC: 2.2
+REF: ET art. 15.2
+---
+Q: Un convenio sectorial lo permite. ¿Hasta cuánto puede durar el contrato general por circunstancias de la producción?
+A: 6 meses
+B: 12 meses
+C: 24 meses
+OK: B
+WHY: La duración máxima general es de 6 meses, ampliable hasta 12 por convenio sectorial.
+TRAP: Sin convenio el máximo es 6; con convenio, 12, nunca más.
+MEMO: 6 de serie, 12 con convenio.
+SEC: 2.2
+REF: ET art. 15.2
+---
+Q: Un trabajador es despedido el lunes 3. ¿Qué plazo tiene para impugnar el despido?
+A: 1 año, interrumpible
+B: 20 días hábiles, de caducidad
+C: 30 días naturales
+OK: B
+WHY: La acción de despido caduca a los 20 días hábiles siguientes; la caducidad no admite interrupción (salvo la suspensión por conciliación previa).
+TRAP: El año es el plazo general de prescripción para otras acciones.
+MEMO: Despido: 20 hábiles y sin "pausa".
+SEC: 2.16
+REF: ET art. 59.3
+---
+Q: ¿Qué rasgo distingue la prescripción de la caducidad en el ET?
+A: La prescripción admite interrupción; la caducidad no
+B: La caducidad siempre es más larga
+C: La prescripción solo se aplica al despido
+OK: A
+WHY: La prescripción puede interrumpirse (p. ej., con reclamación previa); la caducidad es un plazo perentorio.
+TRAP: La caducidad del despido (20 días) es más corta, no más larga.
+MEMO: Prescribe = puede pararse y reiniciarse. Caduca = se acaba.
+SEC: 2.16
+REF: ET art. 59
+---
+Q: En una empresa de 250 trabajadores, ¿a partir de cuántos despidos en 90 días hay despido colectivo?
+A: 10 trabajadores
+B: 25 trabajadores (10 % de la plantilla)
+C: 30 trabajadores
+OK: B
+WHY: En empresas de 100 a 300 trabajadores, el umbral es el 10 % de la plantilla: 10 % de 250 = 25.
+TRAP: 10 es el umbral para menos de 100 y 30 para más de 300.
+MEMO: <100: 10 · 100-300: 10 % · >300: 30.
+SEC: 2.9
+REF: ET art. 51
+---
+Q: Una empresa de 40 trabajadores tramita un despido colectivo. ¿Duración máxima del periodo de consultas?
+A: 30 días naturales
+B: 15 días naturales
+C: 15 días hábiles
+OK: B
+WHY: El periodo de consultas no excede de 30 días naturales, reducido a 15 en empresas de menos de 50 trabajadores.
+TRAP: Olvidar la reducción por tamaño de empresa.
+MEMO: Consultas despido colectivo: 30, o 15 si <50.
+SEC: 2.9
+REF: ET art. 51
+---
+Q: Un ERTE de reducción de jornada por causas organizativas plantea reducir un 80 % la jornada. ¿Es posible?
+A: Sí, no hay límite
+B: No, la reducción debe estar entre el 10 % y el 70 %
+C: Sí, si lo autoriza el comité de empresa
+OK: B
+WHY: El art. 47 ET exige que la reducción de jornada se sitúe entre un 10 % y un 70 %.
+TRAP: El acuerdo con los representantes no permite superar los topes legales.
+MEMO: ERTE de reducción: 10-70.
+SEC: 2.8
+REF: ET art. 47
+---
+Q: ¿Quién debe constatar la fuerza mayor que justifica un ERTE?
+A: El propio empresario mediante declaración
+B: La autoridad laboral, con independencia del número de afectados
+C: El comité de empresa por mayoría
+OK: B
+WHY: La fuerza mayor debe ser constatada por la autoridad laboral, cualquiera que sea el número de trabajadores afectados.
+TRAP: En los ERTE ETOP hay consultas; en fuerza mayor, constatación administrativa.
+MEMO: Fuerza mayor → autoridad laboral.
+SEC: 2.8
+REF: ET art. 47
+---
+Q: La modalidad SECTORIAL del Mecanismo RED exige:
+A: Un plan de recualificación de las personas trabajadoras
+B: Un mínimo de 30 trabajadores afectados
+C: Autorización judicial
+OK: A
+WHY: La modalidad sectorial responde a cambios permanentes y exige un plan de recualificación; la cíclica responde a la coyuntura macroeconómica.
+TRAP: El RED lo activa el Consejo de Ministros, no un juez.
+MEMO: Sectorial = Recualificar.
+SEC: 2.8
+REF: ET art. 47 bis
+---
+Q: Una empresa cambia de dueño. ¿Durante cuánto tiempo responden solidariamente cedente y cesionario de las deudas laborales anteriores?
+A: 1 año
+B: 3 años
+C: 5 años
+OK: B
+WHY: El art. 44 ET establece la responsabilidad solidaria durante 3 años de las obligaciones nacidas antes de la transmisión.
+TRAP: 1 año es la prescripción general de acciones laborales.
+MEMO: Sucesión: 3 años "a medias".
+SEC: 2.7
+REF: ET art. 44
+---
+Q: Un convenio colectivo fue denunciado y ha vencido sin acuerdo nuevo hace 18 meses. Tras el RDL 32/2021:
+A: Perdió su vigencia al año de la denuncia
+B: Sigue vigente hasta que se firme un nuevo convenio
+C: Se aplica solo el Estatuto de los Trabajadores
+OK: B
+WHY: El RDL 32/2021 recuperó la ultraactividad indefinida: el convenio se mantiene hasta su sustitución.
+TRAP: El límite de un año fue la regla de la reforma de 2012, ya superada.
+MEMO: 2012: un año. 2021: sin límite.
+SEC: 2.10
+REF: ET art. 86.3
+---
+Q: Un trabajador termina su jornada a las 22:00. ¿A qué hora puede comenzar como pronto la siguiente?
+A: A las 06:00
+B: A las 10:00
+C: A las 08:00
+OK: B
+WHY: Entre el final de una jornada y el inicio de la siguiente deben mediar al menos 12 horas: 22:00 + 12 h = 10:00.
+TRAP: Calcular con 8 horas de descanso.
+MEMO: Entre jornadas, 12 horas como mínimo.
+SEC: 2.12
+REF: ET art. 34.3
+---
+Q: ¿Cuántas horas extraordinarias al año puede realizar como máximo un trabajador, con carácter general?
+A: 80
+B: 120
+C: 40
+OK: A
+WHY: El número de horas extraordinarias no puede superar 80 al año, salvo las derivadas de fuerza mayor.
+TRAP: 40 es la jornada semanal máxima de promedio.
+MEMO: 40 a la semana, 80 extras al año.
+SEC: 2.12
+REF: ET art. 35.2
+---
+Q: Una trabajadora con un hijo de 11 años solicita reducción de jornada por guarda legal. ¿Qué reducción puede solicitar?
+A: Entre un octavo y la mitad de la jornada, con reducción proporcional del salario
+B: Hasta el 90 % de la jornada sin reducción salarial
+C: No puede: el límite de edad es 8 años
+OK: A
+WHY: La reducción por guarda legal ampara a quien cuida directamente a un menor de 12 años; va de 1/8 a 1/2 de la jornada con reducción proporcional del salario.
+TRAP: Pensar que el límite de edad es inferior a 12 años.
+MEMO: Menor de 12 → de 1/8 a 1/2.
+SEC: 2.14
+REF: ET art. 37.6
+---
+Q: Un trabajador con 8 meses de antigüedad solicita una excedencia voluntaria. ¿Tiene derecho?
+A: Sí, siempre
+B: No, necesita al menos 1 año de antigüedad
+C: Sí, pero solo por 6 meses
+OK: B
+WHY: La excedencia voluntaria exige una antigüedad mínima de 1 año en la empresa.
+TRAP: Las excedencias por cuidado no exigen antigüedad; la voluntaria sí.
+MEMO: Voluntaria: primero un año de casa.
+SEC: 2.14
+REF: ET art. 46.2
+---
+Q: Un trabajador teletrabaja 2 días de cada 5 durante tres meses. ¿Se le aplica plenamente la Ley 10/2021?
+A: Sí, porque supera el 30 % de la jornada en el periodo de referencia
+B: No, porque no teletrabaja la mayoría de la jornada
+C: Solo si lo pide por escrito cada mes
+OK: A
+WHY: El trabajo a distancia es regular si en 3 meses supone al menos un 30 % de la jornada; 2 de 5 días es un 40 %.
+TRAP: No se exige superar el 50 %.
+MEMO: 30 % en 3 meses = teletrabajo regular.
+SEC: 2.15
+REF: Ley 10/2021
+---
+Q: ¿Quién fija los servicios mínimos en una huelga que afecta a servicios esenciales?
+A: El comité de huelga
+B: La autoridad gubernativa
+C: El empresario de forma unilateral
+OK: B
+WHY: Los servicios mínimos para garantizar los servicios esenciales los fija la autoridad gubernativa competente.
+TRAP: El empresario no puede imponerlos por sí mismo.
+MEMO: Servicios mínimos = Gobierno (autoridad gubernativa).
+SEC: 2.11
+REF: RDL 17/1977
+---
+Q: Un trabajador en ERTE no reúne el periodo mínimo de cotización para el desempleo. ¿Puede cobrar la prestación?
+A: No, nunca
+B: Sí, durante el ERTE puede acceder aunque no reúna el periodo mínimo
+C: Solo si el ERTE es por fuerza mayor
+OK: B
+WHY: Durante la vigencia del ERTE, el trabajador puede acceder a la prestación aunque no reúna el periodo mínimo de cotización exigido con carácter general.
+TRAP: La regla vale para los ERTE, no solo para los de fuerza mayor.
+MEMO: ERTE = colchón de desempleo sin carencia.
+SEC: 2.8
+REF: RDL 32/2021
