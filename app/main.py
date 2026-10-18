@@ -1475,5 +1475,31 @@ class PMEApp(App):
             pass
 
 
+def _show_crash(text):
+    """Si algo falla al arrancar, se muestra el error en pantalla (para poder corregirlo)."""
+    from kivy.uix.label import Label as _L
+
+    class CrashApp(App):
+        def build(self):
+            sv = ScrollView()
+            lab = _L(text='La app ha encontrado un error al arrancar.\nHaz una captura de pantalla y envíasela a Claude.\n\n' + text,
+                     size_hint_y=None, halign='left', valign='top', font_size='13sp', color=(1, 1, 1, 1))
+            lab.bind(width=lambda w, v: setattr(w, 'text_size', (v, None)),
+                     texture_size=lambda w, v: setattr(w, 'height', v[1]))
+            sv.add_widget(lab)
+            return sv
+    CrashApp().run()
+
+
 if __name__ == '__main__':
-    PMEApp().run()
+    import traceback
+    try:
+        PMEApp().run()
+    except Exception:
+        err = traceback.format_exc()
+        try:
+            with open(os.path.join(HERE, 'crash.txt'), 'w') as f:
+                f.write(err)
+        except Exception:
+            pass
+        _show_crash(err[-3000:])
