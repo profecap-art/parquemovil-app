@@ -61,14 +61,13 @@ jobs:
         run: |
           {
             echo "Fallo en la construcción del APK (run ${{ github.run_id }})."
-            echo
-            echo '### Líneas con error'
-            echo '```'
-            grep -inE "error|exception|failed|traceback" app/build.log | tail -60 || true
-            echo '```'
             echo '### Final del log'
             echo '```'
-            tail -n 150 app/build.log || true
+            sed 's/\x1b\[[0-9;]*m//g' app/build.log | grep -v "^#     " | tail -n 120
+            echo '```'
+            echo '### Gradle'
+            echo '```'
+            sed 's/\x1b\[[0-9;]*m//g' app/build.log | grep -iE -A25 "What went wrong|BUILD FAILED" | head -80 || true
             echo '```'
           } > informe.md
           head -c 60000 informe.md > informe2.md
