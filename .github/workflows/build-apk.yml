@@ -46,6 +46,11 @@ jobs:
           path: ~/.buildozer
           key: buildozer-${{ runner.os }}-${{ hashFiles('app/buildozer.spec') }}
 
+      - name: Clave de firma fija (para poder actualizar la app sin desinstalar)
+        run: |
+          mkdir -p ~/.android
+          cp ci/debug.keystore ~/.android/debug.keystore
+
       - name: Construir APK
         working-directory: app
         shell: bash
