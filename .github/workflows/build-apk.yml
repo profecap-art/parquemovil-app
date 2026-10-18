@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   apk:
@@ -28,7 +29,8 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y git zip unzip autoconf automake libtool pkg-config \
-            zlib1g-dev libncurses5-dev libncursesw5-dev cmake libffi-dev libssl-dev
+            zlib1g-dev libncurses5-dev libncursesw5-dev cmake libffi-dev libssl-dev \
+            build-essential ccache libltdl-dev
 
       - name: Instalar Buildozer
         run: |
@@ -46,7 +48,31 @@ jobs:
 
       - name: Construir APK
         working-directory: app
-        run: yes | buildozer -v android debug
+        shell: bash
+        run: |
+          set -o pipefail
+          yes | buildozer -v android debug 2>&1 | tee build.log
+
+      - name: Informe de error (si falla)
+        if: failure()
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          {
+            echo "Fallo en la construcción del APK (run ${{ github.run_id }})."
+            echo
+            echo '### Líneas con error'
+            echo '```'
+            grep -inE "error|exception|failed|traceback" app/build.log | tail -60 || true
+            echo '```'
+            echo '### Final del log'
+            echo '```'
+            tail -n 150 app/build.log || true
+            echo '```'
+          } > informe.md
+          head -c 60000 informe.md > informe2.md
+          gh issue create -R ${{ github.repository }} --title "Fallo build APK #${{ github.run_number }}" --body-file informe2.md
 
       - name: Subir APK como artefacto
         uses: actions/upload-artifact@v4
