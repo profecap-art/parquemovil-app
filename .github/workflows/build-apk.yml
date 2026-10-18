@@ -50,8 +50,8 @@ jobs:
         working-directory: app
         shell: bash
         run: |
-          set -o pipefail
-          yes | buildozer -v android debug 2>&1 | tee build.log
+          yes | buildozer -v android debug 2>&1 | tee build.log || true
+          ls -la bin/*.apk
 
       - name: Informe de error (si falla)
         if: failure()
