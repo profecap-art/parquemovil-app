@@ -1,6 +1,6 @@
 [app]
 title = PME Conductor E2
-package.name = pmeconductor
+package.name = pmeoposicion
 package.domain = es.formacionvial
 source.dir = .
 source.include_exts = py,json,ttf,png
