@@ -6,7 +6,7 @@ source.dir = .
 source.include_exts = py,json,ttf,png
 source.exclude_dirs = bin,.buildozer,__pycache__
 version = 1.0.0
-requirements = python3,kivy==2.3.1
+requirements = python3,kivy==2.3.1,filetype
 orientation = portrait
 fullscreen = 0
 icon.filename = %(source.dir)s/icon.png
